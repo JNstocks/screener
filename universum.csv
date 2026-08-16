@@ -1,0 +1,1977 @@
+ticker,name,land
+0001.HK,CK Hutchison Holdings Limited,Hongkong
+0002.HK,CLP Holdings Limited,Hongkong
+0003.HK,Hong Kong and China Gas Company Limited,Hongkong
+0005.HK,HSBC Holdings plc,Hongkong
+0006.HK,Power Assets Holdings Limited,Hongkong
+0012.HK,Henderson Land Development Company Limited,Hongkong
+0016.HK,Sun Hung Kai Properties Limited,Hongkong
+0027.HK,Galaxy Entertainment Group Ltd.,Hongkong
+0066.HK,MTR Corporation Ltd,Hongkong
+0101.HK,Hang Lung Properties Limited,Hongkong
+0175.HK,Geely Auto,Hongkong
+0241.HK,Alibaba Health,Hongkong
+0267.HK,CITIC Limited,Hongkong
+0285.HK,BYD Electronics,Hongkong
+0288.HK,WH Group,Hongkong
+0291.HK,China Resources Beer,Hongkong
+0300.HK,Midea Group,Hongkong
+0316.HK,Orient Overseas (International) Limited,Hongkong
+0322.HK,Tingyi,Hongkong
+0386.HK,Sinopec Corp,Hongkong
+0388.HK,HKEx Limited,Hongkong
+0669.HK,Techtronic Industries,Hongkong
+0688.HK,China Overseas Land & Investment Limited,Hongkong
+0700.HK,Tencent Holdings Limited,Hongkong
+0762.HK,China Unicom,Hongkong
+0823.HK,Link REIT,Hongkong
+0836.HK,China Resources Power,Hongkong
+0857.HK,PetroChina Company Limited,Hongkong
+0868.HK,Xinyi Glass,Hongkong
+0881.HK,Zhongsheng Group,Hongkong
+0883.HK,CNOOC Limited,Hongkong
+0939.HK,China Construction Bank,Hongkong
+0941.HK,China Mobile Ltd,Hongkong
+0960.HK,Longfor Properties,Hongkong
+0968.HK,Xinyi Solar,Hongkong
+0981.HK,Semiconductor Manufacturing International Corporation,Hongkong
+0992.HK,Lenovo,Hongkong
+1000.T,1000,Japan
+1024.HK,Kuaishou,Hongkong
+1038.HK,Cheung Kong Infrastructure Holdings Limited,Hongkong
+1044.HK,Hengan International Group Co. Ltd,Hongkong
+1088.HK,China Shenhua Energy,Hongkong
+1093.HK,CSPC Pharmaceutical Group,Hongkong
+1099.HK,Sinopharm Group,Hongkong
+1109.HK,China Resources Land Limited,Hongkong
+1113.HK,CK Asset Holdings,Hongkong
+1177.HK,Sino Biopharm,Hongkong
+1209.HK,China Resources Mixc Lifestyle,Hongkong
+1211.HK,BYD Company,Hongkong
+1299.HK,AIA Group Limited,Hongkong
+1332.T,1332,Japan
+1378.HK,China Hongqiao Group,Hongkong
+1398.HK,Industrial and Commercial Bank of China,Hongkong
+1605.T,1605,Japan
+1721.T,1721,Japan
+1801.T,1801,Japan
+1802.T,1802,Japan
+1803.T,1803,Japan
+1808.T,1808,Japan
+1810.HK,Xiaomi,Hongkong
+1812.T,1812,Japan
+1876.HK,Budweiser Brewing Company APAC,Hongkong
+1914.T,1914,Japan
+1915.T,1915,Japan
+1916.T,1916,Japan
+1917.T,1917,Japan
+1918.T,1918,Japan
+1919.T,1919,Japan
+1920.T,1920,Japan
+1921.T,1921,Japan
+1922.T,1922,Japan
+1923.T,1923,Japan
+1924.T,1924,Japan
+1925.T,1925,Japan
+1926.T,1926,Japan
+1927.T,1927,Japan
+1928.HK,Sands China,Hongkong
+1928.T,1928,Japan
+1929.HK,Chow Tai Fook,Hongkong
+1929.T,1929,Japan
+1930.T,1930,Japan
+1931.T,1931,Japan
+1932.T,1932,Japan
+1933.T,1933,Japan
+1934.T,1934,Japan
+1935.T,1935,Japan
+1936.T,1936,Japan
+1937.T,1937,Japan
+1938.T,1938,Japan
+1939.T,1939,Japan
+1940.T,1940,Japan
+1941.T,1941,Japan
+1942.T,1942,Japan
+1943.T,1943,Japan
+1944.T,1944,Japan
+1945.T,1945,Japan
+1946.T,1946,Japan
+1947.T,1947,Japan
+1948.T,1948,Japan
+1949.T,1949,Japan
+1950.T,1950,Japan
+1951.T,1951,Japan
+1952.T,1952,Japan
+1953.T,1953,Japan
+1954.T,1954,Japan
+1955.T,1955,Japan
+1956.T,1956,Japan
+1957.T,1957,Japan
+1958.T,1958,Japan
+1959.T,1959,Japan
+1960.T,1960,Japan
+1961.T,1961,Japan
+1962.T,1962,Japan
+1963.T,1963,Japan
+1964.T,1964,Japan
+1965.T,1965,Japan
+1966.T,1966,Japan
+1967.T,1967,Japan
+1968.T,1968,Japan
+1969.T,1969,Japan
+1970.T,1970,Japan
+1971.T,1971,Japan
+1972.T,1972,Japan
+1973.T,1973,Japan
+1974.T,1974,Japan
+1975.T,1975,Japan
+1976.T,1976,Japan
+1977.T,1977,Japan
+1978.T,1978,Japan
+1979.T,1979,Japan
+1980.KS,1980,Suedkorea
+1980.T,1980,Japan
+1981.KS,1981,Suedkorea
+1981.T,1981,Japan
+1982.KS,1982,Suedkorea
+1982.T,1982,Japan
+1983.KS,1983,Suedkorea
+1983.T,1983,Japan
+1984.KS,1984,Suedkorea
+1984.T,1984,Japan
+1985.KS,1985,Suedkorea
+1985.T,1985,Japan
+1986.KS,1986,Suedkorea
+1986.T,1986,Japan
+1987.KS,1987,Suedkorea
+1987.T,1987,Japan
+1988.KS,1988,Suedkorea
+1988.T,1988,Japan
+1989.KS,1989,Suedkorea
+1989.T,1989,Japan
+1990.KS,1990,Suedkorea
+1990.T,1990,Japan
+1991.KS,1991,Suedkorea
+1991.T,1991,Japan
+1992.KS,1992,Suedkorea
+1992.T,1992,Japan
+1993.KS,1993,Suedkorea
+1993.T,1993,Japan
+1994.KS,1994,Suedkorea
+1994.T,1994,Japan
+1995.KS,1995,Suedkorea
+1995.T,1995,Japan
+1996.KS,1996,Suedkorea
+1996.T,1996,Japan
+1997.HK,Wharf Real Estate Investment Company Limited,Hongkong
+1997.KS,1997,Suedkorea
+1997.T,1997,Japan
+1998.KS,1998,Suedkorea
+1998.T,1998,Japan
+1999.KS,1999,Suedkorea
+1999.T,1999,Japan
+2000.KS,2000,Suedkorea
+2000.T,2000,Japan
+2001.KS,2001,Suedkorea
+2001.T,2001,Japan
+2002.KS,2002,Suedkorea
+2002.T,2002,Japan
+2003.KS,2003,Suedkorea
+2003.T,2003,Japan
+2004.KS,2004,Suedkorea
+2004.T,2004,Japan
+2005.KS,2005,Suedkorea
+2005.T,2005,Japan
+2006.KS,2006,Suedkorea
+2006.T,2006,Japan
+2007.KS,2007,Suedkorea
+2007.T,2007,Japan
+2008.KS,2008,Suedkorea
+2008.T,2008,Japan
+2009.KS,2009,Suedkorea
+2009.T,2009,Japan
+2010.KS,2010,Suedkorea
+2010.T,2010,Japan
+2011.KS,2011,Suedkorea
+2011.T,2011,Japan
+2012.KS,2012,Suedkorea
+2012.T,2012,Japan
+2013.KS,2013,Suedkorea
+2013.T,2013,Japan
+2014.KS,2014,Suedkorea
+2014.T,2014,Japan
+2015.HK,Li Auto,Hongkong
+2015.KS,2015,Suedkorea
+2015.T,2015,Japan
+2016.KS,2016,Suedkorea
+2016.T,2016,Japan
+2017.KS,2017,Suedkorea
+2017.T,2017,Japan
+2018.KS,2018,Suedkorea
+2018.T,2018,Japan
+2019.KS,2019,Suedkorea
+2019.T,2019,Japan
+2020.HK,Anta Sports,Hongkong
+2020.KS,2020,Suedkorea
+2020.T,2020,Japan
+2021.KS,2021,Suedkorea
+2021.T,2021,Japan
+2022.KS,2022,Suedkorea
+2022.T,2022,Japan
+2023.KS,2023,Suedkorea
+2023.T,2023,Japan
+2024.KS,2024,Suedkorea
+2024.T,2024,Japan
+2025.KS,2025,Suedkorea
+2025.T,2025,Japan
+2026.T,2026,Japan
+2057.HK,ZTO Express,Hongkong
+2269.HK,WuXi Biologics,Hongkong
+2269.T,2269,Japan
+2282.T,2282,Japan
+2313.HK,Shenzhou International,Hongkong
+2318.HK,Ping An Insurance,Hongkong
+2319.HK,Mengniu Dairy,Hongkong
+2331.HK,Li-Ning,Hongkong
+2359.HK,WuXi AppTec,Hongkong
+2382.HK,Sunny Optical,Hongkong
+2388.HK,BOC Hong Kong (Holdings) Ltd,Hongkong
+2413.T,2413,Japan
+2432.T,2432,Japan
+2501.T,2501,Japan
+2502.T,2502,Japan
+2503.T,2503,Japan
+2618.HK,JD Logistics,Hongkong
+2628.HK,China Life,Hongkong
+2688.HK,ENN Energy,Hongkong
+2768.T,2768,Japan
+2801.T,2801,Japan
+2802.T,2802,Japan
+2871.T,2871,Japan
+2899.HK,Zijin Mining,Hongkong
+2914.T,2914,Japan
+3086.T,3086,Japan
+3092.T,3092,Japan
+3099.T,3099,Japan
+3289.T,3289,Japan
+3382.T,3382,Japan
+3401.T,3401,Japan
+3402.T,3402,Japan
+3405.T,3405,Japan
+3407.T,3407,Japan
+3436.T,3436,Japan
+360.AX,Life360,Australien
+3659.T,3659,Japan
+3690.HK,Meituan,Hongkong
+3692.HK,Hansoh Pharmaceutical Group,Hongkong
+3697.T,3697,Japan
+3861.T,3861,Japan
+3968.HK,China Merchants Bank,Hongkong
+3988.HK,Bank of China Ltd,Hongkong
+4004.T,4004,Japan
+4005.T,4005,Japan
+4021.T,4021,Japan
+4042.T,4042,Japan
+4043.T,4043,Japan
+4061.T,4061,Japan
+4063.T,4063,Japan
+4151.T,4151,Japan
+4183.T,4183,Japan
+4188.T,4188,Japan
+4208.T,4208,Japan
+4307.T,4307,Japan
+4324.T,4324,Japan
+4385.T,4385,Japan
+4452.T,4452,Japan
+4502.T,4502,Japan
+4503.T,4503,Japan
+4506.T,4506,Japan
+4507.T,4507,Japan
+4519.T,4519,Japan
+4523.T,4523,Japan
+4543.T,4543,Japan
+4568.T,4568,Japan
+4578.T,4578,Japan
+4661.T,4661,Japan
+4689.T,4689,Japan
+4704.T,4704,Japan
+4751.T,4751,Japan
+4755.T,4755,Japan
+4901.T,4901,Japan
+4902.T,4902,Japan
+4911.T,4911,Japan
+4DX.AX,4DMedical,Australien
+5019.T,5019,Japan
+5020.T,5020,Japan
+5101.T,5101,Japan
+5108.T,5108,Japan
+5201.T,5201,Japan
+5214.T,5214,Japan
+5233.T,5233,Japan
+5301.T,5301,Japan
+5332.T,5332,Japan
+5333.T,5333,Japan
+5401.T,5401,Japan
+5406.T,5406,Japan
+5411.T,5411,Japan
+5631.T,5631,Japan
+5706.T,5706,Japan
+5711.T,5711,Japan
+5713.T,5713,Japan
+5714.T,5714,Japan
+5801.T,5801,Japan
+5802.T,5802,Japan
+5803.T,5803,Japan
+5831.T,5831,Japan
+6098.T,6098,Japan
+6103.T,6103,Japan
+6113.T,6113,Japan
+6146.T,6146,Japan
+6178.T,6178,Japan
+6273.T,6273,Japan
+6301.T,6301,Japan
+6302.T,6302,Japan
+6305.T,6305,Japan
+6326.T,6326,Japan
+6361.T,6361,Japan
+6367.T,6367,Japan
+6471.T,6471,Japan
+6472.T,6472,Japan
+6473.T,6473,Japan
+6479.T,6479,Japan
+6501.T,6501,Japan
+6503.T,6503,Japan
+6504.T,6504,Japan
+6506.T,6506,Japan
+6526.T,6526,Japan
+6532.T,6532,Japan
+6594.T,6594,Japan
+6618.HK,JD Health,Hongkong
+6645.T,6645,Japan
+6690.HK,Haier,Hongkong
+6701.T,6701,Japan
+6702.T,6702,Japan
+6723.T,6723,Japan
+6724.T,6724,Japan
+6752.T,6752,Japan
+6753.T,6753,Japan
+6758.T,6758,Japan
+6762.T,6762,Japan
+6770.T,6770,Japan
+6841.T,6841,Japan
+6857.T,6857,Japan
+6861.T,6861,Japan
+6862.HK,Haidilao,Hongkong
+6902.T,6902,Japan
+6920.T,6920,Japan
+6954.T,6954,Japan
+6963.T,6963,Japan
+6971.T,6971,Japan
+6976.T,6976,Japan
+6981.T,6981,Japan
+6988.T,6988,Japan
+7004.T,7004,Japan
+7011.T,7011,Japan
+7012.T,7012,Japan
+7013.T,7013,Japan
+7186.T,7186,Japan
+7201.T,7201,Japan
+7202.T,7202,Japan
+7203.T,7203,Japan
+7211.T,7211,Japan
+7261.T,7261,Japan
+7267.T,7267,Japan
+7269.T,7269,Japan
+7270.T,7270,Japan
+7272.T,7272,Japan
+7453.T,7453,Japan
+7532.T,7532,Japan
+7731.T,7731,Japan
+7733.T,7733,Japan
+7735.T,7735,Japan
+7741.T,7741,Japan
+7751.T,7751,Japan
+7752.T,7752,Japan
+7832.T,7832,Japan
+7911.T,7911,Japan
+7912.T,7912,Japan
+7951.T,7951,Japan
+7974.T,7974,Japan
+8001.T,8001,Japan
+8002.T,8002,Japan
+8015.T,8015,Japan
+8031.T,8031,Japan
+8035.T,8035,Japan
+8053.T,8053,Japan
+8058.T,8058,Japan
+8233.T,8233,Japan
+8252.T,8252,Japan
+8253.T,8253,Japan
+8267.T,8267,Japan
+8304.T,8304,Japan
+8306.T,8306,Japan
+8308.T,8308,Japan
+8309.T,8309,Japan
+8316.T,8316,Japan
+8331.T,8331,Japan
+8354.T,8354,Japan
+8411.T,8411,Japan
+8591.T,8591,Japan
+8601.T,8601,Japan
+8604.T,8604,Japan
+8630.T,8630,Japan
+8697.T,8697,Japan
+8725.T,8725,Japan
+8750.T,8750,Japan
+8766.T,8766,Japan
+8795.T,8795,Japan
+8801.T,8801,Japan
+8802.T,8802,Japan
+8804.T,8804,Japan
+8830.T,8830,Japan
+8TRA.DE,Traton,Deutschland
+9001.T,9001,Japan
+9005.T,9005,Japan
+9007.T,9007,Japan
+9008.T,9008,Japan
+9009.T,9009,Japan
+9020.T,9020,Japan
+9021.T,9021,Japan
+9022.T,9022,Japan
+9064.T,9064,Japan
+9101.T,9101,Japan
+9104.T,9104,Japan
+9107.T,9107,Japan
+9147.T,9147,Japan
+9201.T,9201,Japan
+9202.T,9202,Japan
+9432.T,9432,Japan
+9433.T,9433,Japan
+9434.T,9434,Japan
+9501.T,9501,Japan
+9502.T,9502,Japan
+9503.T,9503,Japan
+9531.T,9531,Japan
+9532.T,9532,Japan
+9602.T,9602,Japan
+9618.HK,JD.com,Hongkong
+9633.HK,Nongfu Spring,Hongkong
+9735.T,9735,Japan
+9766.T,9766,Japan
+9843.T,9843,Japan
+9888.HK,Baidu,Hongkong
+9961.HK,Trip.com Group,Hongkong
+9983.T,9983,Japan
+9984.T,9984,Japan
+9988.HK,Alibaba Group,Hongkong
+9992.HK,Pop Mart,Hongkong
+9999.HK,NetEase,Hongkong
+A,Agilent Technologies,USA
+A2A.MI,A2A,Italien
+A2M.AX,a2 Milk Company,Australien
+AAF.L,Airtel Africa,Grossbritannien
+AAI.AX,Alcoa,Australien
+AAL.L,Anglo American plc,Grossbritannien
+AAPL,Apple Inc.,USA
+AAUC.TO,Allied Gold Corporation,Kanada
+AAV.TO,Advantage Energy Ltd.,Kanada
+ABB.ST,ABB Ltd,Schweden
+ABBN.SW,ABB Ltd,Schweiz
+ABBV,AbbVie,USA
+ABDN.L,Aberdeen Group,Grossbritannien
+ABEV3.SA,Ambev,Brasilien
+ABF.L,Associated British Foods,Grossbritannien
+ABI-BR,Anheuser-Busch InBev,Europa
+ABN.AS,ABN AMRO,Niederlande
+ABNB,Airbnb,USA
+ABRA.TO,AbraSilver Resource Corp.,Kanada
+ABT,Abbott Laboratories,USA
+ABX.TO,Barrick Gold Corporation,Kanada
+AC.PA,Accor,Frankreich
+AC.TO,Air Canada,Kanada
+ACA.PA,Crédit Agricole,Frankreich
+ACGL,Arch Capital Group,USA
+ACN,Accenture,USA
+ACO.TO,ATCO Ltd.,Kanada
+ACS.MC,ACS,Spanien
+ACX.MC,Acerinox,Spanien
+AD-AS,Ahold Delhaize,Europa
+AD.AS,Ahold Delhaize,Niederlande
+ADANIENT.NS,Adani Enterprises,Indien
+ADANIPORTS.NS,Adani Ports & SEZ,Indien
+ADBE,Adobe Inc.,USA
+ADDT-B.ST,Addtech B,Schweden
+ADI,Analog Devices,USA
+ADM,Archer Daniels Midland,USA
+ADM.L,Admiral Group,Grossbritannien
+ADP,Automatic Data Processing,USA
+ADS-DE,Adidas,Europa
+ADS.DE,Adidas,Deutschland
+ADSK,Autodesk,USA
+ADYEN-AS,Adyen,Europa
+ADYEN.AS,Adyen,Niederlande
+AEE,Ameren,USA
+AEM.TO,Agnico Eagle Mines Limited,Kanada
+AENA.MC,AENA,Spanien
+AEP,American Electric Power,USA
+AES,AES Corporation,USA
+AFI.AX,Australian Foundation Investment Company,Australien
+AFL,Aflac,USA
+AFX.DE,Carl Zeiss Meditec,Deutschland
+AG.TO,First Majestic Silver Corp.,Kanada
+AGI.TO,Alamos Gold Inc.,Kanada
+AGL.AX,AGL Energy,Australien
+AGN.AS,Aegon,Niederlande
+AI-PA,Air Liquide,Europa
+AI.PA,Air Liquide,Frankreich
+AIA.AX,Auckland International Airport Limited,Australien
+AIF.TO,Altus Group Limited,Kanada
+AIG,American International Group,USA
+AIR-PA,Airbus,Europa
+AIR.DE,Airbus,Deutschland
+AIR.PA,Airbus,Frankreich
+AIXA.DE,Aixtron,Deutschland
+AIZ,Assurant,USA
+AJG,Arthur J. Gallagher & Co.,USA
+AKAM,Akamai Technologies,USA
+AKRBP.OL,Aker BP,Norwegen
+AKZA.AS,AkzoNobel,Niederlande
+ALA.TO,AltaGas Ltd.,Kanada
+ALB,Albemarle Corporation,USA
+ALC.SW,Alcon Inc,Schweiz
+ALD.AX,Ampol,Australien
+ALFA.ST,Alfa Laval,Schweden
+ALGN,Align Technology,USA
+ALK.AX,Alkane Resources,Australien
+ALL,Allstate,USA
+ALL.AX,Aristocrat Leisure,Australien
+ALLE,Allegion,USA
+ALPA4.SA,Alpargatas,Brasilien
+ALQ.AX,ALS,Australien
+ALV-DE,Allianz,Europa
+ALV.DE,Allianz,Deutschland
+ALW.L,Alliance Witan,Grossbritannien
+ALX.AX,Atlas Arteria,Australien
+AMAT,Applied Materials,USA
+AMC.AX,Amcor,Australien
+AMCR,Amcor,USA
+AMD,Advanced Micro Devices,USA
+AME,Ametek,USA
+AMER3.SA,Americanas,Brasilien
+AMGN,Amgen,USA
+AMP,Ameriprise Financial,USA
+AMP.AX,AMP,Australien
+AMP.MI,Amplifon,Italien
+AMRZ.SW,Amrize AG,Schweiz
+AMS.MC,Amadeus IT Group,Spanien
+AMT,American Tower,USA
+AMZN,Amazon,USA
+ANA.MC,Acciona,Spanien
+ANE.MC,Acciona Energía,Spanien
+ANET,Arista Networks,USA
+ANN.AX,Ansell,Australien
+ANTO.L,Antofagasta plc,Grossbritannien
+ANZ.AX,Australia & New Zealand Banking Group,Australien
+AON,Aon plc,USA
+AOS,A. O. Smith,USA
+AP.TO,Allied Properties Real Estate Investment Trust,Kanada
+APA,APA Corporation,USA
+APA.AX,APA Group,Australien
+APD,Air Products,USA
+APE.AX,Eagers Automotive,Australien
+APH,Amphenol,USA
+APO,Apollo Global Management,USA
+APOLLOHOSP.NS,Apollo Hospitals,Indien
+APP,AppLovin,USA
+APTV,Aptiv,USA
+AQN.TO,Algonquin Power & Utilities Corp.,Kanada
+ARB.AX,ARB Corporation,Australien
+ARE,Alexandria Real Estate Equities,USA
+ARE.TO,Aecon Group Inc.,Kanada
+ARES,Ares Management,USA
+ARG.AX,Argo Investments,Australien
+ARGX-BR,Argenx,Europa
+ARIS.TO,Aris Mining Corporation,Kanada
+ARX.TO,ARC Resources Ltd.,Kanada
+ASAI3.SA,Sendas Distribuidora,Brasilien
+ASB.AX,Austal,Australien
+ASIANPAINT.NS,Asian Paints,Indien
+ASK.AX,Abacus Storage King,Australien
+ASM.AS,ASM International,Niederlande
+ASM.TO,Avino Silver & Gold Mines Ltd.,Kanada
+ASML-AS,ASML Holding,Europa
+ASML.AS,ASML Holding,Niederlande
+ASRNL.AS,ASR Nederland,Niederlande
+ASSA-B.ST,Assa Abloy B,Schweden
+ASX.AX,ASX,Australien
+AT1.DE,Aroundtown,Deutschland
+ATCO-A.ST,Atlas Copco A,Schweden
+ATD.TO,Alimentation Couche-Tard Inc.,Kanada
+ATH.TO,Athabasca Oil Corporation,Kanada
+ATO,Atmos Energy,USA
+ATRL.TO,AtkinsRéalis Group Inc.,Kanada
+ATS.TO,ATS Corporation,Kanada
+ATZ.TO,Aritzia Inc.,Kanada
+AUB.AX,AUB Group,Australien
+AUTO.L,Autotrader Group,Grossbritannien
+AV.L,Aviva,Grossbritannien
+AVB,AvalonBay Communities,USA
+AVGO,Broadcom,USA
+AVIO.MI,Avio,Italien
+AVY,Avery Dennison,USA
+AWK,American Water Works,USA
+AXISBANK.NS,Axis Bank,Indien
+AXON,Axon Enterprise,USA
+AXP,American Express,USA
+AYA.TO,Aya Gold & Silver Inc.,Kanada
+AZJ.AX,Aurizon,Australien
+AZM.MI,Azimut,Italien
+AZN.L,AstraZeneca,Grossbritannien
+AZN.ST,AstraZeneca,Schweden
+AZO,AutoZone,USA
+AZUL4.SA,Azul,Brasilien
+B3SA3.SA,B3,Brasilien
+BA,Boeing,USA
+BA.L,BAE Systems,Grossbritannien
+BAB.L,Babcock International,Grossbritannien
+BAC,Bank of America,USA
+BAJAJ-AUTO.NS,Bajaj Auto,Indien
+BAJAJFINSV.NS,Bajaj Finserv,Indien
+BAJFINANCE.NS,Bajaj Finance,Indien
+BALL,Ball Corporation,USA
+BAM.TO,Brookfield Asset Management Ltd.,Kanada
+BAMI.MI,Banco BPM,Italien
+BARC.L,Barclays,Grossbritannien
+BAS-DE,BASF,Europa
+BAS.DE,BASF,Deutschland
+BATS.L,British American Tobacco,Grossbritannien
+BAX,Baxter International,USA
+BAYN-DE,Bayer,Europa
+BAYN.DE,Bayer,Deutschland
+BB.TO,BlackBerry Limited,Kanada
+BBAS3.SA,Banco do Brasil,Brasilien
+BBD.TO,Bombardier Inc.,Kanada
+BBDC3.SA,Bradesco,Brasilien
+BBDC4.SA,Bradesco,Brasilien
+BBOX.L,Tritax Big Box REIT,Grossbritannien
+BBSE3.SA,BB Seguridade,Brasilien
+BBUC.TO,Brookfield Business Corporation,Kanada
+BBVA-MC,BBVA,Europa
+BBVA.MC,BBVA,Spanien
+BBY,Best Buy,USA
+BC.MI,Brunello Cucinelli,Italien
+BC8.DE,Bechtle,Deutschland
+BCE.TO,BCE Inc.,Kanada
+BDGI.TO,Badger Infrastructure Solutions Ltd.,Kanada
+BDT.TO,Bird Construction Inc.,Kanada
+BDX,Becton Dickinson,USA
+BEEF3.SA,Minerva Foods,Brasilien
+BEI.DE,Beiersdorf,Deutschland
+BEI.TO,Boardwalk Real Estate Investment Trust,Kanada
+BEL.NS,Bharat Electronics,Indien
+BEN,Franklin Resources,USA
+BEN.AX,Bendigo & Adelaide Bank,Australien
+BEP.TO,Brookfield Renewable Partners L.P.,Kanada
+BESI.AS,BE Semiconductors,Niederlande
+BEZ.L,Beazley,Grossbritannien
+BF-B,Brown–Forman,USA
+BFL.AX,BSP Financial Group,Australien
+BFSA.DE,Befesa,Deutschland
+BG,Bunge Global,USA
+BGA.AX,Bega Cheese,Australien
+BGEO.L,Lion Finance Group,Grossbritannien
+BGL.AX,Bellevue Gold,Australien
+BHARTIARTL.NS,Bharti Airtel,Indien
+BHC.TO,Bausch Health Companies Inc.,Kanada
+BHP.AX,BHP,Australien
+BIDI11.SA,Banco Inter,Brasilien
+BIIB,Biogen,USA
+BIP.TO,Brookfield Infrastructure Partners L.P.,Kanada
+BIR.TO,Birchcliff Energy Ltd.,Kanada
+BKNG,Booking Holdings,USA
+BKR,Baker Hughes,USA
+BKT.MC,Bankinter,Spanien
+BLDR,Builders FirstSource,USA
+BLK,BlackRock,USA
+BLND.L,British Land,Grossbritannien
+BLX.TO,Boralex Inc.,Kanada
+BMED.MI,Banca Mediolanum,Italien
+BMO.TO,Bank of Montreal,Kanada
+BMPS.MI,Banca Monte dei Paschi di Siena,Italien
+BMW-DE,BMW,Europa
+BMW.DE,BMW,Deutschland
+BMY,Bristol Myers Squibb,USA
+BN-PA,Danone,Europa
+BN.PA,Danone,Frankreich
+BN.TO,Brookfield Corporation,Kanada
+BNP-PA,BNP Paribas,Europa
+BNP.PA,BNP Paribas,Frankreich
+BNR.DE,Brenntag,Deutschland
+BNS.TO,Bank of Nova Scotia,Kanada
+BNY,BNY Mellon,USA
+BNZL.L,Bunzl,Grossbritannien
+BOL.ST,Boliden,Schweden
+BOQ.AX,Bank of Queensland,Australien
+BOSS.DE,Hugo Boss,Deutschland
+BP.L,BP,Grossbritannien
+BPAC11.SA,BTG Pactual,Brasilien
+BPAN4.SA,Banco Pan,Brasilien
+BPE.MI,BPER Banca,Italien
+BPT.AX,Beach Energy,Australien
+BR,Broadridge Financial Solutions,USA
+BRAP4.SA,Bradespar,Brasilien
+BRBY.L,Burberry Group,Grossbritannien
+BRFS3.SA,BRF,Brasilien
+BRG.AX,Breville Group,Australien
+BRK-B,Berkshire Hathaway,USA
+BRKM5.SA,Braskem,Brasilien
+BRML3.SA,BRMalls,Brasilien
+BRO,Brown & Brown,USA
+BSL.AX,BlueScope,Australien
+BSX,Boston Scientific,USA
+BT.L,BT Group,Grossbritannien
+BTE.TO,Baytex Energy Corp.,Kanada
+BTO.TO,B2Gold Corp.,Kanada
+BTRW.L,Barratt Redrow,Grossbritannien
+BVI.PA,Bureau Veritas,Frankreich
+BWLPG.OL,BW LPG,Norwegen
+BWP.AX,BWP Trust,Australien
+BX,Blackstone Inc.,USA
+BXB.AX,Brambles,Australien
+BXP,"BXP, Inc.",USA
+BYD.TO,Boyd Group Services Inc.,Kanada
+BZU.MI,Buzzi,Italien
+C,Citigroup,USA
+CA.PA,Carrefour,Frankreich
+CABK.MC,CaixaBank,Spanien
+CAE.TO,CAE Inc.,Kanada
+CAH,Cardinal Health,USA
+CAP.PA,Capgemini,Frankreich
+CAR.AX,CAR Group,Australien
+CAR.TO,Canadian Apartment Properties Real Estate Investment Trust,Kanada
+CARR,Carrier Global,USA
+CASH3.SA,Méliuz,Brasilien
+CASY,Casey's,USA
+CAT,Caterpillar Inc.,USA
+CB,Chubb Limited,USA
+CBA.AX,Commonwealth Bank,Australien
+CBK.DE,Commerzbank,Deutschland
+CBOE,Cboe Global Markets,USA
+CBRE,CBRE Group,USA
+CCA.TO,Cogeco Communications Inc.,Kanada
+CCC.L,Computacenter,Grossbritannien
+CCEP.L,Coca-Cola Europacific Partners,Grossbritannien
+CCH.L,Coca-Cola HBC,Grossbritannien
+CCI,Crown Castle,USA
+CCL,Carnival Corporation,USA
+CCL.TO,CCL Industries Inc.,Kanada
+CCO.TO,Cameco Corporation,Kanada
+CCRO3.SA,CCR,Brasilien
+CDA.AX,Codan,Australien
+CDNS,Cadence Design Systems,USA
+CDW,CDW Corporation,USA
+CEG,Constellation Energy,USA
+CEN.AX,Contact Energy,Australien
+CEU.TO,CES Energy Solutions Corp.,Kanada
+CF,CF Industries,USA
+CFG,Citizens Financial Group,USA
+CFR.SW,Compagnie Financière Richemont SA,Schweiz
+CG.TO,Centerra Gold Inc.,Kanada
+CGF.AX,Challenger,Australien
+CHC.AX,Charter Hall,Australien
+CHD,Church & Dwight,USA
+CHP.TO,Choice Properties Real Estate Investment Trust,Kanada
+CHRW,C.H. Robinson,USA
+CHTR,Charter Communications,USA
+CI,Cigna,USA
+CIA.AX,Champion Iron,Australien
+CIEL3.SA,Cielo,Brasilien
+CIEN,Ciena,USA
+CIGI.TO,Colliers International Group Inc.,Kanada
+CINF,Cincinnati Financial,USA
+CIP.AX,Centuria Industrial REIT,Australien
+CIPLA.NS,Cipla,Indien
+CJT.TO,Cargojet Inc.,Kanada
+CL,Colgate-Palmolive,USA
+CLNX.MC,Cellnex Telecom,Spanien
+CLS.TO,Celestica Inc.,Kanada
+CLW.AX,Charter Hall Long WALE REIT,Australien
+CLX,Clorox,USA
+CM.TO,Canadian Imperial Bank of Commerce,Kanada
+CMCSA,Comcast,USA
+CME,CME Group,USA
+CMG,Chipotle Mexican Grill,USA
+CMI,Cummins,USA
+CMIG4.SA,CEMIG,Brasilien
+CMM.AX,Capricorn Metals,Australien
+CMS,CMS Energy,USA
+CNA.L,Centrica,Grossbritannien
+CNC,Centene Corporation,USA
+CNP,CenterPoint Energy,USA
+CNQ.TO,Canadian Natural Resources Limited,Kanada
+CNR.TO,Canadian National Railway Company,Kanada
+CNU.AX,Chorus,Australien
+COALINDIA.NS,Coal India,Indien
+COF,Capital One,USA
+COGN3.SA,Cogna,Brasilien
+COH.AX,Cochlear,Australien
+COHR,Coherent Corp.,USA
+COIN,Coinbase,USA
+COL.AX,Coles Group,Australien
+COL.MC,Inmobiliaria Colonial,Spanien
+CON.DE,Continental,Deutschland
+COO,Cooper Companies (The),USA
+COP,ConocoPhillips,USA
+COR,Cencora,USA
+COST,Costco,USA
+CP.TO,Canadian Pacific Kansas City Limited,Kanada
+CPAY,Corpay,USA
+CPFE3.SA,CPFL Energia,Brasilien
+CPG.L,Compass Group,Grossbritannien
+CPLE6.SA,Copel,Brasilien
+CPR.MI,Campari,Italien
+CPRT,Copart,USA
+CPT,Camden Property Trust,USA
+CPU.AX,Computershare,Australien
+CPX.TO,Capital Power Corporation,Kanada
+CQR.AX,Charter Hall Retail REIT,Australien
+CRDA.L,Croda International,Grossbritannien
+CRFB3.SA,Carrefour Brasil,Brasilien
+CRH,CRH plc,USA
+CRL,Charles River Laboratories,USA
+CRM,Salesforce,USA
+CRR.TO,Crombie Real Estate Investment Trust,Kanada
+CRT.TO,CT Real Estate Investment Trust,Kanada
+CRWD,CrowdStrike,USA
+CS-PA,Axa,Europa
+CS.PA,Axa,Frankreich
+CS.TO,Capstone Copper Corp.,Kanada
+CSAN3.SA,Cosan,Brasilien
+CSC.AX,Capstone Copper,Australien
+CSCO,Cisco,USA
+CSGP,CoStar Group,USA
+CSH.TO,Chartwell Retirement Residences,Kanada
+CSL.AX,CSL,Australien
+CSNA3.SA,CSN,Brasilien
+CSU.TO,Constellation Software Inc.,Kanada
+CSX,CSX Corporation,USA
+CTAS,Cintas,USA
+CTC.TO,Canadian Tire Corporation Limited,Kanada
+CTD.AX,Corporate Travel Management,Australien
+CTEC.L,Convatec,Grossbritannien
+CTSH,Cognizant,USA
+CTVA,Corteva,USA
+CU.TO,Canadian Utilities Limited,Kanada
+CURA.TO,"Curaleaf Holdings, Inc.",Kanada
+CVCB3.SA,CVC Brasil,Brasilien
+CVE.TO,Cenovus Energy Inc.,Kanada
+CVNA,Carvana,USA
+CVS,CVS Health,USA
+CVX,Chevron Corporation,USA
+CWY.AX,Cleanaway,Australien
+CYL.AX,Catalyst Metals,Australien
+CYRE3.SA,Cyrela Brazil Realty,Brasilien
+D,Dominion Energy,USA
+DAL,Delta Air Lines,USA
+DASH,DoorDash,USA
+DB1-DE,Deutsche Börse,Europa
+DB1.DE,Deutsche Börse,Deutschland
+DBI.AX,Dalrymple Bay Infrastructure,Australien
+DBK-DE,Deutsche Bank,Europa
+DBK.DE,Deutsche Bank,Deutschland
+DCC.L,DCC Energy,Grossbritannien
+DD,DuPont,USA
+DDOG,Datadog,USA
+DE,Deere & Company,USA
+DECK,Deckers Brands,USA
+DELL,Dell Technologies,USA
+DFY.TO,Definity Financial Corporation,Kanada
+DG,Dollar General,USA
+DG-PA,Vinci SA,Europa
+DG.PA,Vinci,Frankreich
+DGE.L,Diageo,Grossbritannien
+DGX,Quest Diagnostics,USA
+DHER.DE,Delivery Hero,Deutschland
+DHI,D. R. Horton,USA
+DHL-DE,Deutsche Post,Europa
+DHL.DE,Deutsche Post,Deutschland
+DHR,Danaher Corporation,USA
+DIA.MI,Diasorin,Italien
+DIR.TO,Dream Industrial Real Estate Investment Trust,Kanada
+DIS,Walt Disney Company (The),USA
+DLR,Digital Realty,USA
+DLTR,Dollar Tree,USA
+DML.TO,Denison Mines Corp.,Kanada
+DNB.OL,DNB Bank,Norwegen
+DNL.AX,Dyno Nobel,Australien
+DOC,Healthpeak Properties,USA
+DOL.TO,Dollarama Inc.,Kanada
+DOO.TO,BRP Inc.,Kanada
+DOV,Dover Corporation,USA
+DOW,Dow Inc.,USA
+DOW.AX,Downer Group,Australien
+DPLM.L,Diploma,Grossbritannien
+DPM.TO,Dundee Precious Metals Inc.,Kanada
+DPZ,Domino's,USA
+DRI,Darden Restaurants,USA
+DRO.AX,Droneshield,Australien
+DRR.AX,Deterra Royalties,Australien
+DRREDDY.NS,Dr. Reddy's Laboratories,Indien
+DSFIR.AS,DSM Firmenich AG,Niederlande
+DSG.TO,Descartes Systems Group Inc.,Kanada
+DSV.TO,Discovery Silver Corp.,Kanada
+DSY.PA,Dassault Systèmes,Frankreich
+DTE,DTE Energy,USA
+DTE-DE,Deutsche Telekom,Europa
+DTE.DE,Deutsche Telekom,Deutschland
+DTG.DE,Daimler Truck,Deutschland
+DUK,Duke Energy,USA
+DVA,DaVita,USA
+DVN,Devon Energy,USA
+DXCM,Dexcom,USA
+DXCO3.SA,Dexco,Brasilien
+DXS.AX,Dexus,Australien
+DYL.AX,Deep Yellow,Australien
+EBAY,eBay Inc.,USA
+EBO.AX,EBOS Group,Australien
+ECHO,EchoStar,USA
+ECL,Ecolab,USA
+ECOR3.SA,EcoRodovias,Brasilien
+ECV.DE,Encavis,Deutschland
+ED,Consolidated Edison,USA
+EDEN.PA,Edenred,Frankreich
+EDR.TO,Endeavour Silver Corp.,Kanada
+EDV.AX,Endeavour Group,Australien
+EDV.L,Endeavour Mining,Grossbritannien
+EFN.TO,Element Fleet Management Corp.,Kanada
+EFR.TO,Energy Fuels Inc.,Kanada
+EFX,Equifax,USA
+EFX.TO,Equifax Inc.,Kanada
+EG,Everest Group,USA
+EGIE3.SA,ENGIE Brasil,Brasilien
+EICHERMOT.NS,Eicher Motors,Indien
+EIF.TO,Exchange Income Corporation,Kanada
+EIX,Edison International,USA
+EL,Estée Lauder Companies (The),USA
+EL-PA,EssilorLuxottica,Europa
+EL.PA,EssilorLuxottica,Frankreich
+ELD.TO,Eldorado Gold Corporation,Kanada
+ELE.MC,Endesa,Spanien
+ELET3.SA,Eletrobras,Brasilien
+ELET6.SA,Eletrobras,Brasilien
+ELV,Elevance Health,USA
+EMA.TO,Emera Incorporated,Kanada
+EMBR3.SA,Embraer,Brasilien
+EME,Emcor,USA
+EMP.TO,Empire Company Limited,Kanada
+EMR,Emerson Electric,USA
+EMR.AX,Emerald Resources,Australien
+EN.PA,Bouygues,Frankreich
+ENB.TO,Enbridge Inc.,Kanada
+ENBR3.SA,EDP - Energias do Brasil,Brasilien
+ENEL-MI,Enel,Europa
+ENEL.MI,Enel,Italien
+ENEV3.SA,Eneva,Brasilien
+ENG.MC,Enagás,Spanien
+ENGI.PA,Engie,Frankreich
+ENGI11.SA,Energisa,Brasilien
+ENI-MI,Eni,Europa
+ENI.MI,Eni,Italien
+ENR-DE,Siemens Energy,Europa
+ENR.DE,Siemens Energy,Deutschland
+ENT.L,Entain,Grossbritannien
+EOAN.DE,E.ON,Deutschland
+EOG,EOG Resources,USA
+EOS.AX,Electro Optic Systems Holdings,Australien
+EPI-A.ST,Epiroc A,Schweden
+EQB.TO,EQB Inc.,Kanada
+EQIX,Equinix,USA
+EQNR.OL,Equinor,Norwegen
+EQR,Equity Residential,USA
+EQT,EQT Corporation,USA
+EQT.ST,EQT,Schweden
+EQTL3.SA,Equatorial Energia,Brasilien
+EQX.TO,Equinox Gold Corp.,Kanada
+ERF.PA,Eurofins Scientific,Frankreich
+ERIC-B.ST,Ericsson B,Schweden
+ERIE,Erie Indemnity,USA
+ERO.TO,Ero Copper Corp.,Kanada
+ES,Eversource Energy,USA
+ESS,Essex Property Trust,USA
+ESSITY-B.ST,Essity B,Schweden
+ETERNAL.NS,Eternal,Indien
+ETN,Eaton Corporation,USA
+ETR,Entergy,USA
+EVD.DE,CTS Eventim,Deutschland
+EVK.DE,Evonik,Deutschland
+EVN.AX,Evolution Mining,Australien
+EVO.ST,Evolution,Schweden
+EVRG,Evergy,USA
+EVT.AX,EVT,Australien
+EVT.DE,Evotec,Deutschland
+EW,Edwards Lifesciences,USA
+EXC,Exelon,USA
+EXE,Expand Energy,USA
+EXO.AS,Exor,Niederlande
+EXPD,Expeditors International,USA
+EXPE,Expedia Group,USA
+EXPN.L,Experian,Grossbritannien
+EXR,Extra Space Storage,USA
+EZTC3.SA,Eztec,Brasilien
+F,Ford Motor Company,USA
+FANG,Diamondback Energy,USA
+FAST,Fastenal,USA
+FBK.MI,FinecoBank,Italien
+FBU.AX,Fletcher Building,Australien
+FCIT.L,F & C Investment Trust,Grossbritannien
+FCR.TO,First Capital Real Estate Investment Trust,Kanada
+FCT.MI,Fincantieri,Italien
+FCX,Freeport-McMoRan,USA
+FDR.MC,Fluidra,Spanien
+FDS,FactSet,USA
+FDX,FedEx,USA
+FDXF,FedEx Freight,USA
+FE,FirstEnergy,USA
+FER.MC,Ferrovial,Spanien
+FERG,Ferguson Enterprises,USA
+FFH.TO,Fairfax Financial Holdings Limited,Kanada
+FFIV,"F5, Inc.",USA
+FICO,Fair Isaac,USA
+FIS,Fidelity National Information Services,USA
+FISV,Fiserv,USA
+FITB,Fifth Third Bancorp,USA
+FIX,Comfort Systems USA,USA
+FLEX,Flex Ltd.,USA
+FLRY3.SA,Grupo Fleury,Brasilien
+FLT.AX,Flight Centre Travel Group,Australien
+FM.TO,First Quantum Minerals Ltd.,Kanada
+FME.DE,Fresenius Medical Care,Deutschland
+FMG.AX,Fortescue,Australien
+FNTN.DE,Freenet,Deutschland
+FNV.TO,Franco-Nevada Corporation,Kanada
+FOX,Fox Corporation (Class B),USA
+FOXA,Fox Corporation (Class A),USA
+FPE3.DE,Fuchs Petrolub,Deutschland
+FPH.AX,Fisher & Paykel Healthcare,Australien
+FRA.DE,Fraport,Deutschland
+FRE.DE,Fresenius,Deutschland
+FRES.L,Fresnillo plc,Grossbritannien
+FRO.OL,Frontline,Norwegen
+FRT,Federal Realty Investment Trust,USA
+FRU.TO,Freehold Royalties Ltd.,Kanada
+FRW.AX,Freightways Group,Australien
+FSLR,First Solar,USA
+FSV.TO,FirstService Corporation,Kanada
+FTNT,Fortinet,USA
+FTS.TO,Fortis Inc.,Kanada
+FTT.TO,Finning International Inc.,Kanada
+FTV,Fortive,USA
+FVI.TO,Fortuna Mining Corp.,Kanada
+G.MI,Generali,Italien
+G1A.DE,GEA Group,Deutschland
+G24.DE,Scout24,Deutschland
+GAW.L,Games Workshop,Grossbritannien
+GBF.DE,Bilfinger,Deutschland
+GD,General Dynamics,USA
+GDDY,GoDaddy,USA
+GDG.AX,Generation Development Group,Australien
+GE,GE Aerospace,USA
+GEBN.SW,Geberit AG,Schweiz
+GEHC,GE HealthCare,USA
+GEI.TO,Gibson Energy Inc.,Kanada
+GEN,Gen Digital,USA
+GEV,GE Vernova,USA
+GFL.TO,GFL Environmental Inc.,Kanada
+GGBR4.SA,Gerdau,Brasilien
+GGP.AX,Greatland Resources,Australien
+GIB.TO,CGI Inc.,Kanada
+GIL.TO,Gildan Activewear Inc.,Kanada
+GILD,Gilead Sciences,USA
+GIS,General Mills,USA
+GIVN.SW,Givaudan SA,Schweiz
+GJF.OL,Gjensidige Forsikring,Norwegen
+GL,Globe Life,USA
+GLE.PA,Société Générale,Frankreich
+GLEN.L,Glencore,Grossbritannien
+GLW,Corning Inc.,USA
+GM,General Motors,USA
+GMD.AX,Genesis Minerals,Australien
+GMG.AX,Goodman Group,Australien
+GMIN.TO,G Mining Ventures Corp.,Kanada
+GNE.AX,Genesis Energy,Australien
+GNRC,Generac,USA
+GOAU4.SA,Metalúrgica Gerdau,Brasilien
+GOGL.OL,Golden Ocean Group,Norwegen
+GOLL4.SA,Gol,Brasilien
+GOOG,Alphabet Inc. (Class C),USA
+GOOGL,Alphabet Inc. (Class A),USA
+GPC,Genuine Parts Company,USA
+GPN,Global Payments,USA
+GPT.AX,GPT Group,Australien
+GQG.AX,GQG Partners,Australien
+GRASIM.NS,Grasim Industries,Indien
+GRF.MC,Grifols,Spanien
+GRMN,Garmin,USA
+GRT.TO,Granite Real Estate Investment Trust,Kanada
+GS,Goldman Sachs,USA
+GSK.L,GSK plc,Grossbritannien
+GSY.TO,goeasy Ltd.,Kanada
+GWO.TO,Great-West Lifeco Inc.,Kanada
+GWW,W. W. Grainger,USA
+GXI.DE,Gerresheimer,Deutschland
+H.TO,Hydro One Limited,Kanada
+HAFNI.OL,Hafnia Limited,Norwegen
+HAG.DE,Hensoldt,Deutschland
+HAL,Halliburton,USA
+HAPV3.SA,Grupo Hapvida,Brasilien
+HAS,Hasbro,USA
+HAUTO.OL,Höegh Autoliners ASA,Norwegen
+HBAN,Huntington Bancshares,USA
+HBM.TO,Hudbay Minerals Inc.,Kanada
+HCA,HCA Healthcare,USA
+HCLTECH.NS,HCLTech,Indien
+HD,Home Depot (The),USA
+HDFCBANK.NS,HDFC Bank,Indien
+HDFCLIFE.NS,HDFC Life,Indien
+HDN.AX,HomeCo Daily Needs REIT,Australien
+HEI.DE,Heidelberg Materials,Deutschland
+HEIA.AS,Heineken,Niederlande
+HEN3.DE,Henkel,Deutschland
+HER.MI,Hera,Italien
+HEXA-B.ST,Hexagon B,Schweden
+HFG.DE,HelloFresh,Deutschland
+HIG,Hartford (The),USA
+HII,Huntington Ingalls Industries,USA
+HINDALCO.NS,Hindalco Industries,Indien
+HINDUNILVR.NS,Hindustan Unilever,Indien
+HLE.DE,Hella,Deutschland
+HLMA.L,Halma plc,Grossbritannien
+HLN.L,Haleon,Grossbritannien
+HLT,Hilton Worldwide,USA
+HM-B.ST,Hennes & Mauritz B,Schweden
+HNR1.DE,Hannover Re,Deutschland
+HO.PA,Thales,Frankreich
+HOLN.SW,Holcim Limited,Schweiz
+HON,Honeywell Technologies,USA
+HONA,Honeywell Aerospace,USA
+HOOD,Robinhood Markets,USA
+HOT.DE,Hochtief,Deutschland
+HPE,Hewlett Packard Enterprise,USA
+HPQ,HP Inc.,USA
+HR.TO,H&R Real Estate Investment Trust,Kanada
+HRL,Hormel Foods,USA
+HSBA.L,HSBC,Grossbritannien
+HSIC,Henry Schein,USA
+HST,Host Hotels & Resorts,USA
+HSX.L,Hiscox,Grossbritannien
+HSY,Hershey Company (The),USA
+HUB.AX,HUB24,Australien
+HUBB,Hubbell Incorporated,USA
+HUM,Humana,USA
+HVN.AX,Harvey Norman,Australien
+HWDN.L,Howdens Joinery,Grossbritannien
+HWM,Howmet Aerospace,USA
+HWX.TO,Headwater Exploration Inc.,Kanada
+HYPE3.SA,Hypera Pharma,Brasilien
+IAG.AX,Insurance Australia Group,Australien
+IAG.L,International Airlines Group,Grossbritannien
+IAG.MC,International Airlines Group,Spanien
+IAG.TO,iA Financial Corporation Inc.,Kanada
+IAU.TO,I-80 Gold Corp.,Kanada
+IBE-MC,Iberdrola,Europa
+IBE.MC,Iberdrola,Spanien
+IBKR,Interactive Brokers,USA
+IBM,IBM,USA
+ICE,Intercontinental Exchange,USA
+ICG.L,ICG,Grossbritannien
+ICICIBANK.NS,ICICI Bank,Indien
+IDR.MC,Indra,Spanien
+IDXX,Idexx Laboratories,USA
+IEX,IDEX Corporation,USA
+IFC.TO,Intact Financial Corporation,Kanada
+IFF,International Flavors & Fragrances,USA
+IFL.AX,Insignia Financial,Australien
+IFT.AX,Infratil,Australien
+IFX-DE,Infineon Technologies,Europa
+IFX.DE,Infineon Technologies,Deutschland
+IG.MI,Italgas,Italien
+IGG.L,IG Group,Grossbritannien
+IGM.TO,IGM Financial Inc.,Kanada
+IGO.AX,IGO,Australien
+IGTI11.SA,Iguatemi,Brasilien
+IHG.L,IHG Hotels & Resorts,Grossbritannien
+III.L,3i,Grossbritannien
+IIP.TO,InterRent Real Estate Investment Trust,Kanada
+ILU.AX,Iluka Resources,Australien
+IMB.L,Imperial Brands,Grossbritannien
+IMCD.AS,IMCD,Niederlande
+IMD.AX,IMDEX,Australien
+IMG.TO,Iamgold Corporation,Kanada
+IMI.L,IMI,Grossbritannien
+IMO.TO,Imperial Oil Limited,Kanada
+INCY,Incyte,USA
+INDIGO.NS,IndiGo,Indien
+INDU-C.ST,Industrivärden C,Schweden
+INF.L,Informa,Grossbritannien
+INFY.NS,Infosys,Indien
+INGA-AS,ING Group,Europa
+INGA.AS,ING Group,Niederlande
+INTC,Intel,USA
+INTU,Intuit,USA
+INVE-B.ST,Investor B,Schweden
+INVH,Invitation Homes,USA
+INVP.L,Investec,Grossbritannien
+INW.MI,INWIT,Italien
+IP,International Paper,USA
+IPCO.TO,International Petroleum Corporation,Kanada
+IQV,IQVIA,USA
+IR,Ingersoll Rand,USA
+IRBR3.SA,IRB Brasil RE,Brasilien
+IRM,Iron Mountain,USA
+ISP-MI,Intesa Sanpaolo,Europa
+ISP.MI,Intesa Sanpaolo,Italien
+ISRG,Intuitive Surgical,USA
+IT,Gartner,USA
+ITC.NS,ITC,Indien
+ITRK.L,Intertek,Grossbritannien
+ITSA4.SA,Itaúsa,Brasilien
+ITUB4.SA,Itaú Unibanco,Brasilien
+ITW,Illinois Tool Works,USA
+ITX-MC,Inditex,Europa
+ITX.MC,Inditex,Spanien
+IVG.MI,Iveco,Italien
+IVN.TO,Ivanhoe Mines Ltd.,Kanada
+IVZ,Invesco,USA
+J,Jacobs Solutions,USA
+JBH.AX,JB Hi-Fi,Australien
+JBHT,J.B. Hunt,USA
+JBL,Jabil,USA
+JBSS3.SA,JBS,Brasilien
+JCI,Johnson Controls,USA
+JD.L,JD Sports,Grossbritannien
+JEN.DE,Jenoptik,Deutschland
+JHSF3.SA,JHSF Participações,Brasilien
+JHX.AX,James Hardie,Australien
+JIOFIN.NS,Jio Financial Services,Indien
+JKHY,Jack Henry & Associates,USA
+JNJ,Johnson & Johnson,USA
+JPM,JPMorgan Chase,USA
+JSWSTEEL.NS,JSW Steel,Indien
+JUN3.DE,Jungheinrich,Deutschland
+JWEL.TO,Jamieson Wellness Inc.,Kanada
+K.TO,Kinross Gold Corporation,Kanada
+KBX.DE,Knorr-Bremse,Deutschland
+KDP,Keurig Dr Pepper,USA
+KEL.TO,Kelt Exploration Ltd.,Kanada
+KER.PA,Kering,Frankreich
+KEY,KeyCorp,USA
+KEY.TO,Keyera Corp.,Kanada
+KEYS,Keysight Technologies,USA
+KGF.L,Kingfisher plc,Grossbritannien
+KGX.DE,KION Group,Deutschland
+KHC,Kraft Heinz,USA
+KIM,Kimco Realty,USA
+KKR,KKR & Co.,USA
+KLAC,KLA Corporation,USA
+KLBN11.SA,Klabin,Brasilien
+KMB,Kimberly-Clark,USA
+KMI,Kinder Morgan,USA
+KMP.TO,Killam Apartment Real Estate Investment Trust,Kanada
+KNIN.SW,Kuehne + Nagel,Schweiz
+KNT.TO,K92 Mining Inc.,Kanada
+KO,Coca-Cola Company (The),USA
+KOG.OL,Kongsberg Gruppen,Norwegen
+KOTAKBANK.NS,Kotak Mahindra Bank,Indien
+KPN.AS,KPN,Niederlande
+KR,Kroger,USA
+KRN.DE,Krones,Deutschland
+KVUE,Kenvue,USA
+KXS.TO,Kinaxis Inc.,Kanada
+L,Loews Corporation,USA
+L.TO,Loblaw Companies Limited,Kanada
+L1G.AX,L1 Group,Australien
+LAC.TO,Lithium Americas Corp.,Kanada
+LAND.L,Land Securities,Grossbritannien
+LB.TO,Laurentian Bank of Canada,Kanada
+LCAM3.SA,Unidas,Brasilien
+LDO.MI,Leonardo,Italien
+LDOS,Leidos,USA
+LEG.DE,LEG Immobilien,Deutschland
+LEN,Lennar,USA
+LGEN.L,Legal & General,Grossbritannien
+LH,Labcorp,USA
+LHA.DE,Lufthansa,Deutschland
+LHX,L3Harris,USA
+LIF.TO,Labrador Iron Ore Royalty Corporation,Kanada
+LIFCO-B.ST,Lifco B,Schweden
+LII,Lennox International,USA
+LIN,Linde plc,USA
+LITE,Lumentum,USA
+LLC.AX,Lendlease,Australien
+LLOY.L,Lloyds Banking Group,Grossbritannien
+LLY,Lilly (Eli),USA
+LMP.L,LondonMetric Property,Grossbritannien
+LMT,Lockheed Martin,USA
+LNR.TO,Linamar Corporation,Kanada
+LNT,Alliant Energy,USA
+LNW.AX,Light & Wonder,Australien
+LOG.MC,Logista,Spanien
+LOGN.SW,Logitech International SA,Schweiz
+LONN.SW,Lonza Group AG,Schweiz
+LOV.AX,Lovisa,Australien
+LOW,Lowe's,USA
+LR.PA,Legrand,Frankreich
+LRCX,Lam Research,USA
+LREN3.SA,Lojas Renner,Brasilien
+LSEG.L,London Stock Exchange Group,Grossbritannien
+LSF.AX,L1 Long Short Fund,Australien
+LSPD.TO,Lightspeed Commerce Inc.,Kanada
+LT.NS,Larsen & Toubro,Indien
+LTMC.MI,Lottomatica Group,Italien
+LTR.AX,Liontown Resources,Australien
+LUG.TO,Lundin Gold Inc.,Kanada
+LULU,Lululemon Athletica,USA
+LUN.TO,Lundin Mining Corporation,Kanada
+LUV,Southwest Airlines,USA
+LVS,Las Vegas Sands,USA
+LWSA3.SA,LocaWeb,Brasilien
+LXS.DE,Lanxess,Deutschland
+LYB,LyondellBasell,USA
+LYC.AX,Lynas Rare Earths,Australien
+LYV,Live Nation Entertainment,USA
+MA,Mastercard,USA
+MAA,Mid-America Apartment Communities,USA
+MAP.MC,Mapfre,Spanien
+MAR,Marriott International,USA
+MARUTI.NS,Maruti Suzuki,Indien
+MAS,Masco,USA
+MAU.TO,Montage Gold Corp.,Kanada
+MAXHEALTH.NS,Max Healthcare,Indien
+MB.MI,Mediobanca,Italien
+MBG-DE,Mercedes-Benz Group,Europa
+MBG.DE,Mercedes-Benz Group,Deutschland
+MC-PA,LVMH Moët Hennessy Louis Vuitton,Europa
+MC.PA,LVMH,Frankreich
+MCD,McDonald's,USA
+MCHP,Microchip Technology,USA
+MCK,McKesson Corporation,USA
+MCO,Moody's Corporation,USA
+MCY.AX,Mercury NZ,Australien
+MDA.TO,MDA Space Ltd.,Kanada
+MDLZ,Mondelez International,USA
+MDT,Medtronic,USA
+MET,MetLife,USA
+META,Meta Platforms,USA
+MEZ.AX,Meridian Energy,Australien
+MFC.TO,Manulife Financial Corporation,Kanada
+MFF.AX,MFF Capital Investments,Australien
+MFG.AX,Magellan Financial Group,Australien
+MFI.TO,Maple Leaf Foods Inc.,Kanada
+MG.TO,Magna International Inc.,Kanada
+MGLU3.SA,Magazine Luiza,Brasilien
+MGM,MGM Resorts,USA
+MGR.AX,Mirvac,Australien
+MIN.AX,Mineral Resources,Australien
+MKC,McCormick & Company,USA
+MKS.L,Marks & Spencer,Grossbritannien
+ML.PA,Michelin,Frankreich
+MLM,Martin Marietta Materials,USA
+MM.NS,Mahindra & Mahindra,Indien
+MMM,3M,USA
+MND.AX,Monadelphous Group,Australien
+MNG.L,M&G,Grossbritannien
+MNST,Monster Beverage,USA
+MO,Altria,USA
+MONC.MI,Moncler,Italien
+MOS,Mosaic Company (The),USA
+MOWI.OL,Mowi,Norwegen
+MPC,Marathon Petroleum,USA
+MPCC.OL,MPC Container Ships,Norwegen
+MPL.AX,Medibank,Australien
+MPWR,Monolithic Power Systems,USA
+MQG.AX,Macquarie Group,Australien
+MRFG3.SA,Marfrig,Brasilien
+MRK,Merck & Co.,USA
+MRK.DE,Merck,Deutschland
+MRL.MC,Merlin Properties,Spanien
+MRNA,Moderna,USA
+MRO.L,Melrose Industries,Grossbritannien
+MRSH,Marsh McLennan,USA
+MRU.TO,Metro Inc.,Kanada
+MRVE3.SA,MRV,Brasilien
+MRVL,Marvell Technology,USA
+MS,Morgan Stanley,USA
+MSB.AX,Mesoblast,Australien
+MSCI,MSCI,USA
+MSFT,Microsoft,USA
+MSI,Motorola Solutions,USA
+MT.AS,ArcelorMittal,Niederlande
+MT.PA,ArcelorMittal,Frankreich
+MTB,M&T Bank,USA
+MTD,Mettler Toledo,USA
+MTL.TO,Mullen Group Ltd.,Kanada
+MTLN.L,Metlen Energy & Metals,Grossbritannien
+MTS.AX,Metcash,Australien
+MTS.MC,ArcelorMittal,Spanien
+MTX.DE,MTU Aero Engines,Deutschland
+MU,Micron Technology,USA
+MULT3.SA,Multiplan,Brasilien
+MUV2-DE,Munich Re,Europa
+MUV2.DE,Munich Re,Deutschland
+MX.TO,Methanex Corporation,Kanada
+MXT.AX,Metrics Master Income Trust,Australien
+NAB.AX,National Australia Bank,Australien
+NAS.OL,Norwegian Air Shuttle,Norwegen
+NCLH,Norwegian Cruise Line Holdings,USA
+NDA-FI-HE,Nordea,Europa
+NDA-SE.ST,Nordea Bank Abp,Schweden
+NDA.DE,Aurubis,Deutschland
+NDAQ,"Nasdaq, Inc.",USA
+NDSN,Nordson Corporation,USA
+NDX1.DE,Nordex,Deutschland
+NEE,NextEra Energy,USA
+NEM,Newmont,USA
+NEM.AX,Newmont,Australien
+NEM.DE,Nemetschek,Deutschland
+NESN.SW,Nestlé SA,Schweiz
+NESTLEIND.NS,Nestlé India,Indien
+NEXI.MI,Nexi,Italien
+NFI.TO,NFI Group Inc.,Kanada
+NFLX,Netflix,USA
+NG.L,National Grid plc,Grossbritannien
+NG.TO,NovaGold Resources Inc.,Kanada
+NGEX.TO,NGEx Minerals Ltd.,Kanada
+NHC.AX,New Hope,Australien
+NHF.AX,Nib,Australien
+NHY.OL,Norsk Hydro,Norwegen
+NI,NiSource,USA
+NIBE-B.ST,Nibe Industrier B,Schweden
+NIC.AX,Nickel Industries,Australien
+NKE,"Nike, Inc.",USA
+NN.AS,NN Group,Niederlande
+NOC,Northrop Grumman,USA
+NOD.OL,Nordic Semiconductor,Norwegen
+NOVN.SW,Novartis International AG,Schweiz
+NOW,ServiceNow,USA
+NPI.TO,Northland Power Inc.,Kanada
+NRG,NRG Energy,USA
+NSC,Norfolk Southern,USA
+NSR.AX,National Storage,Australien
+NST.AX,Northern Star Resources,Australien
+NTAP,NetApp,USA
+NTCO3.SA,Natura & Co,Brasilien
+NTGY.MC,Naturgy,Spanien
+NTPC.NS,NTPC,Indien
+NTR.TO,Nutrien Ltd.,Kanada
+NTRS,Northern Trust,USA
+NUE,Nucor,USA
+NVDA,Nvidia,USA
+NVR,"NVR, Inc.",USA
+NWC.TO,North West Company Inc.,Kanada
+NWG.L,NatWest Group,Grossbritannien
+NWH.AX,NRW Holdings,Australien
+NWL.AX,Netwealth Group,Australien
+NWS,News Corp (Class B),USA
+NWS.AX,News Corp Class B,Australien
+NWSA,News Corp (Class A),USA
+NXE.TO,NexGen Energy Ltd.,Kanada
+NXG.AX,Nexgen Energy,Australien
+NXPI,NXP Semiconductors,USA
+NXT.AX,NextDC,Australien
+NXT.L,Next plc,Grossbritannien
+O,Realty Income,USA
+OBM.AX,Ora Banda Mining,Australien
+ODFL,Old Dominion,USA
+OGC.TO,OceanaGold Corporation,Kanada
+OKE,Oneok,USA
+OLA.TO,Orla Mining Ltd.,Kanada
+OMC,Omnicom Group,USA
+ON,ON Semiconductor,USA
+ONEX.TO,Onex Corporation,Kanada
+ONGC.NS,Oil and Natural Gas Corporation,Indien
+OR-PA,L'Oréal,Europa
+OR.PA,L'Oréal,Frankreich
+OR.TO,Osisko Gold Royalties Ltd.,Kanada
+ORA.AX,Orora,Australien
+ORA.PA,Orange,Frankreich
+ORCL,Oracle Corporation,USA
+ORG.AX,Origin Energy,Australien
+ORI.AX,Orica,Australien
+ORK.OL,Orkla,Norwegen
+ORLY,O'Reilly Automotive,USA
+OTEX.TO,Open Text Corporation,Kanada
+OTIS,Otis Worldwide,USA
+OXY,Occidental Petroleum,USA
+PAAS.TO,Pan American Silver Corp.,Kanada
+PAH3.DE,Porsche SE,Deutschland
+PANW,Palo Alto Networks,USA
+PAYX,Paychex,USA
+PBH.TO,Premium Brands Holdings Corporation,Kanada
+PCAR,Paccar,USA
+PCAR3.SA,GPA,Brasilien
+PCG,PG&E Corporation,USA
+PCT.L,Polar Capital Technology Trust,Grossbritannien
+PDI.AX,Predictive Discovery,Australien
+PDN.AX,Paladin Energy,Australien
+PEG,Public Service Enterprise Group,USA
+PEP,PepsiCo,USA
+PET.TO,Pet Valu Holdings Ltd.,Kanada
+PETR3.SA,Petrobras,Brasilien
+PETR4.SA,Petrobras,Brasilien
+PETZ3.SA,Petz,Brasilien
+PEY.TO,Peyto Exploration & Development Corp.,Kanada
+PFE,Pfizer,USA
+PFG,Principal Financial Group,USA
+PG,Procter & Gamble,USA
+PGHN.SW,Partners Group Holding AG,Schweiz
+PGR,Progressive Corporation,USA
+PH,Parker Hannifin,USA
+PHIA.AS,Philips,Niederlande
+PHM,PulteGroup,USA
+PKG,Packaging Corporation of America,USA
+PLD,Prologis,USA
+PLS.AX,PLS Group,Australien
+PLTR,Palantir Technologies,USA
+PM,Philip Morris International,USA
+PME.AX,Pro Medicus,Australien
+PMV.AX,Premier Investments,Australien
+PMZ.TO,Primaris Real Estate Investment Trust,Kanada
+PNC,PNC Financial Services,USA
+PNI.AX,Pinnacle Investment Management,Australien
+PNR,Pentair,USA
+PNW,Pinnacle West Capital,USA
+PODD,Insulet Corporation,USA
+POU.TO,Paramount Resources Ltd.,Kanada
+POW.TO,Power Corporation of Canada,Kanada
+POWERGRID.NS,Power Grid,Indien
+PPG,PPG Industries,USA
+PPL,PPL Corporation,USA
+PPL.TO,Pembina Pipeline Corporation,Kanada
+PPT.AX,Perpetual,Australien
+PPTA.TO,Perpetua Resources Corp.,Kanada
+PRIO3.SA,PetroRio,Brasilien
+PRN.AX,Perenti,Australien
+PRU,Prudential Financial,USA
+PRU.AX,Perseus Mining,Australien
+PRU.L,Prudential plc,Grossbritannien
+PRX-AS,Prosus,Europa
+PRX.AS,Prosus,Niederlande
+PRY.MI,Prysmian,Italien
+PSA,Public Storage,USA
+PSH.L,Pershing Square Holdings,Grossbritannien
+PSK.TO,PrairieSky Royalty Ltd.,Kanada
+PSKY,Paramount Skydance Corporation,USA
+PSN.L,Persimmon,Grossbritannien
+PSON.L,Pearson plc,Grossbritannien
+PST.MI,Poste italiane,Italien
+PSX,Phillips 66,USA
+PTC,PTC Inc.,USA
+PUB.PA,Publicis,Frankreich
+PUIG.MC,Puig,Spanien
+PUM.DE,Puma,Deutschland
+PWR,Quanta Services,USA
+PXA.AX,Pexa Group,Australien
+PXT.TO,Parex Resources Inc.,Kanada
+PYPL,PayPal,USA
+Q,Qnity Electronics,USA
+QAN.AX,Qantas,Australien
+QBE.AX,QBE Insurance,Australien
+QBR.TO,Quebecor Inc.,Kanada
+QCOM,Qualcomm,USA
+QIA.DE,Qiagen,Deutschland
+QSR.TO,Restaurant Brands International Inc.,Kanada
+QUAL3.SA,Qualicorp,Brasilien
+QUB.AX,Qube Holdings,Australien
+RAA.DE,Rational,Deutschland
+RACE-MI,Ferrari,Europa
+RACE.MI,Ferrari,Italien
+RADL3.SA,RaiaDrogasil,Brasilien
+RAIL3.SA,Rumo,Brasilien
+RAND.AS,Randstad,Niederlande
+RBA.TO,"RB Global, Inc.",Kanada
+RCH.TO,Richelieu Hardware Ltd.,Kanada
+RCI.TO,Rogers Communications Inc.,Kanada
+RCL,Royal Caribbean Group,USA
+RDC.DE,Redcare Pharmacy,Deutschland
+RDOR3.SA,Rede D'Or São Luiz,Brasilien
+RDX.AX,Redox,Australien
+REA.AX,REA Group,Australien
+REC.MI,Recordati,Italien
+RED.MC,Redeia Corporación,Spanien
+REG,Regency Centers,USA
+REG.AX,Regis Healthcare,Australien
+REGN,Regeneron Pharmaceuticals,USA
+REH.AX,Reece Group,Australien
+REI.TO,RioCan Real Estate Investment Trust,Kanada
+REL.L,RELX,Grossbritannien
+RELIANCE.NS,Reliance Industries,Indien
+REN.AS,RELX,Niederlande
+RENT3.SA,Localiza,Brasilien
+REP.MC,Repsol,Spanien
+RF,Regions Financial Corporation,USA
+RGN.AX,Region Group,Australien
+RHC.AX,Ramsay Health Care,Australien
+RHM-DE,Rheinmetall,Europa
+RHM.DE,Rheinmetall,Deutschland
+RI.PA,Pernod Ricard,Frankreich
+RIO.AX,Rio Tinto,Australien
+RIO.L,Rio Tinto,Grossbritannien
+RJF,Raymond James Financial,USA
+RKT.L,Reckitt,Grossbritannien
+RL,Ralph Lauren Corporation,USA
+RMD,ResMed|,USA
+RMD.AX,ResMed,Australien
+RMS-PA,Hermès,Europa
+RMS.AX,Ramelius Resources,Australien
+RMS.PA,Hermès,Frankreich
+RNO.PA,Renault,Frankreich
+ROK,Rockwell Automation,USA
+ROL,"Rollins, Inc.",USA
+ROP,Roper Technologies,USA
+ROP.SW,Roche Holding AG,Schweiz
+ROST,Ross Stores,USA
+ROVI.MC,Laboratorios Rovi,Spanien
+RR.L,Rolls-Royce Holdings,Grossbritannien
+RRL.AX,Regis Resources,Australien
+RRTL.DE,RTL Group,Deutschland
+RSG,Republic Services,USA
+RSG.AX,Resolute Mining,Australien
+RTO.L,Rentokil Initial,Grossbritannien
+RTX,RTX Corporation,USA
+RUS.TO,Russel Metals Inc.,Kanada
+RVTY,Revvity,USA
+RWC.AX,Reliance Worldwide Corporation,Australien
+RWE.DE,RWE,Deutschland
+RY.TO,Royal Bank of Canada,Kanada
+RYM.AX,Ryman Healthcare,Australien
+S32.AX,South32,Australien
+SAAB-B.ST,Saab B,Schweden
+SAB.MC,Banco Sabadell,Spanien
+SAF-PA,Safran,Europa
+SAF.PA,Safran,Frankreich
+SALM.OL,SalMar,Norwegen
+SAN-MC,Banco Santander,Europa
+SAN-PA,Sanofi,Europa
+SAN.MC,Santander,Spanien
+SAN.PA,Sanofi,Frankreich
+SANB11.SA,Santander Brasil,Brasilien
+SAND.ST,Sandvik,Schweden
+SAP-DE,SAP,Europa
+SAP.DE,SAP,Deutschland
+SAP.TO,Saputo Inc.,Kanada
+SAX.DE,Ströer,Deutschland
+SBAC,SBA Communications,USA
+SBILIFE.NS,SBI Life Insurance Company,Indien
+SBIN.NS,State Bank of India,Indien
+SBRY.L,Sainsbury's,Grossbritannien
+SBSP3.SA,Sabesp,Brasilien
+SBUX,Starbucks,USA
+SCA-B.ST,SCA B,Schweden
+SCG.AX,Scentre Group,Australien
+SCHW,Charles Schwab Corporation,USA
+SCMN.SW,Swisscom AG,Schweiz
+SCR.TO,Strathcona Resources Ltd.,Kanada
+SCYR.MC,Sacyr,Spanien
+SDF.AX,Steadfast Group,Australien
+SDF.DE,K+S,Deutschland
+SDLF.L,Standard Life,Grossbritannien
+SDR.L,Schroders,Grossbritannien
+SEA.TO,Seabridge Gold Inc.,Kanada
+SEB-A.ST,SEB A,Schweden
+SEK.AX,Seek,Australien
+SES.TO,Secure Energy Services Inc.,Kanada
+SFR.AX,Sandfire Resources,Australien
+SGE.L,Sage Group,Grossbritannien
+SGH.AX,SGH,Australien
+SGM.AX,Sims Metal,Australien
+SGO-PA,Saint-Gobain,Europa
+SGO.PA,Saint-Gobain,Frankreich
+SGP.AX,Stockland,Australien
+SGRO.L,Segro,Grossbritannien
+SHB-A.ST,Handelsbanken A,Schweden
+SHEL.L,Shell plc,Grossbritannien
+SHELL.AS,Shell plc,Niederlande
+SHL.AX,Sonic Healthcare,Australien
+SHL.DE,Siemens Healthineers,Deutschland
+SHOP.TO,Shopify Inc.,Kanada
+SHRIRAMFIN.NS,Shriram Finance,Indien
+SHW,Sherwin-Williams,USA
+SIA.TO,Sienna Senior Living Inc.,Kanada
+SIE-DE,Siemens,Europa
+SIE.DE,Siemens,Deutschland
+SIG.AX,Sigma Healthcare,Australien
+SII.TO,Sprott Inc.,Kanada
+SIKA.SW,Sika AG,Schweiz
+SJ.TO,Stella-Jones Inc.,Kanada
+SJM,J.M. Smucker Company (The),USA
+SKA-B.ST,Skanska B,Schweden
+SKE.TO,Skeena Resources Limited,Kanada
+SKF-B.ST,SKF B,Schweden
+SLB,Schlumberger,USA
+SLF.TO,Sun Life Financial Inc.,Kanada
+SLHN.SW,Swiss Life Holding AG,Schweiz
+SLR.MC,Solaria,Spanien
+SMCI,Supermicro,USA
+SMIN.L,Smiths Group,Grossbritannien
+SMR.AX,Stanmore Resources,Australien
+SMT.L,Scottish Mortgage Investment Trust,Grossbritannien
+SN.L,Smith & Nephew,Grossbritannien
+SNA,Snap-on,USA
+SNDK,Sandisk,USA
+SNPS,Synopsys,USA
+SNZ.AX,Summerset Group Holdings,Australien
+SO,Southern Company,USA
+SOBO.TO,South Bow Corporation,Kanada
+SOL.AX,Soul Patts,Australien
+SOLV,Solventum,USA
+SOMA3.SA,Grupo Soma,Brasilien
+SPB.TO,Superior Plus Corp.,Kanada
+SPG,Simon Property Group,USA
+SPGI,S&P Global,USA
+SPK.AX,Spark New Zealand,Australien
+SPM.MI,Saipem,Italien
+SPX.L,Spirax Group,Grossbritannien
+SRE,Sempra,USA
+SREN.SW,Swiss Reinsurance Company Ltd,Schweiz
+SRG.MI,Snam,Italien
+SRU.TO,SmartCentres Real Estate Investment Trust,Kanada
+SSE.L,SSE plc,Grossbritannien
+SSRM.TO,SSR Mining Inc.,Kanada
+STAN.L,Standard Chartered,Grossbritannien
+STB.OL,Storebrand,Norwegen
+STE,Steris,USA
+STJ.L,St. James's Place,Grossbritannien
+STLAM.MI,Stellantis,Italien
+STLAP.PA,Stellantis,Frankreich
+STLD,Steel Dynamics,USA
+STM.DE,Stabilus,Deutschland
+STMMI.MI,STMicroelectronics,Italien
+STMPA.PA,STMicroelectronics,Frankreich
+STN.TO,Stantec Inc.,Kanada
+STO.AX,Santos,Australien
+STT,State Street Corporation,USA
+STX,Seagate Technology,USA
+STZ,Constellation Brands,USA
+SU-PA,Schneider Electric,Europa
+SU.PA,Schneider Electric,Frankreich
+SU.TO,Suncor Energy Inc.,Kanada
+SUBC.OL,Subsea 7,Norwegen
+SUL.AX,Super Retail Group,Australien
+SULA11.SA,SulAmérica Seguros,Brasilien
+SUN.AX,Suncorp,Australien
+SUNPHARMA.NS,Sun Pharma,Indien
+SUZB3.SA,Suzano Papel e Celulose,Brasilien
+SVM.TO,Silvercorp Metals Inc.,Kanada
+SVT.L,Severn Trent,Grossbritannien
+SW,Smurfit Westrock,USA
+SWED-A.ST,Swedbank A,Schweden
+SWK,Stanley Black & Decker,USA
+SWKS,Skyworks Solutions,USA
+SY1.DE,Symrise,Deutschland
+SYF,Synchrony Financial,USA
+SYK,Stryker Corporation,USA
+SYY,Sysco,USA
+T,AT&T,USA
+T.TO,Telus Corporation,Kanada
+TA.TO,TransAlta Corporation,Kanada
+TAEE11.SA,Taesa S.A.,Brasilien
+TAH.AX,Tabcorp,Australien
+TAP,Molson Coors Beverage Company,USA
+TATACONSUM.NS,Tata Consumer Products,Indien
+TATASTEEL.NS,Tata Steel,Indien
+TCL.AX,Transurban,Australien
+TCL.TO,Transcontinental Inc.,Kanada
+TCS.NS,Tata Consultancy Services,Indien
+TD.TO,Toronto-Dominion Bank,Kanada
+TDG,TransDigm Group,USA
+TDY,Teledyne Technologies,USA
+TECH,Bio-Techne,USA
+TECHM.NS,Tech Mahindra,Indien
+TECK.TO,Teck Resources Limited,Kanada
+TEF.MC,Telefónica,Spanien
+TEG.DE,TAG Tegernsee Immobilien und Beteiligung,Deutschland
+TEL,TE Connectivity,USA
+TEL.OL,Telenor,Norwegen
+TEL2-B.ST,Tele2 B,Schweden
+TELIA.ST,Telia Company,Schweden
+TEN.MI,Tenaris,Italien
+TEP.PA,Teleperformance,Frankreich
+TER,Teradyne,USA
+TFC,Truist Financial,USA
+TFII.TO,TFI International Inc.,Kanada
+TFPM.TO,Triple Flag Precious Metals Corp.,Kanada
+TGS.OL,TGS ASA,Norwegen
+TGT,Target Corporation,USA
+TIH.TO,Toromont Industries Ltd.,Kanada
+TIMS3.SA,TIM Brasil,Brasilien
+TIT.MI,Telecom Italia,Italien
+TITAN.NS,Titan Company,Indien
+TJX,TJX Companies,USA
+TKA.DE,ThyssenKrupp,Deutschland
+TKO,TKO Group Holdings,USA
+TKO.TO,Taseko Mines Limited,Kanada
+TLC.AX,The Lottery Corporation,Australien
+TLS.AX,Telstra,Australien
+TLX.AX,Telix Pharmaceuticals,Australien
+TLX.DE,Talanx,Deutschland
+TMO,Thermo Fisher Scientific,USA
+TMPV.NS,Tata Motors Passenger Vehicles,Indien
+TMUS,T-Mobile US,USA
+TMV.DE,TeamViewer,Deutschland
+TNE.AX,TechnologyOne,Australien
+TOM.OL,Tomra Systems,Norwegen
+TOTS3.SA,TOTVS,Brasilien
+TOU.TO,Tourmaline Oil Corp.,Kanada
+TPG.AX,TPG Telecom,Australien
+TPL,Texas Pacific Land Corporation,USA
+TPR,"Tapestry, Inc.",USA
+TPZ.TO,Topaz Energy Corp.,Kanada
+TRENT.NS,Trent,Indien
+TRGP,Targa Resources,USA
+TRI.TO,Thomson Reuters Corporation,Kanada
+TRMB,Trimble Inc.,USA
+TRN.MI,Terna,Italien
+TROW,T. Rowe Price,USA
+TRP.TO,TC Energy Corporation,Kanada
+TRV,Travelers Companies (The),USA
+TSCO,Tractor Supply,USA
+TSCO.L,Tesco,Grossbritannien
+TSLA,"Tesla, Inc.",USA
+TSN,Tyson Foods,USA
+TSU.TO,Trisura Group Ltd.,Kanada
+TT,Trane Technologies,USA
+TTD,Trade Desk (The),USA
+TTE-PA,TotalEnergies,Europa
+TTE.PA,TotalEnergies,Frankreich
+TTWO,Take-Two Interactive,USA
+TUA.AX,Tuas,Australien
+TUI1.DE,TUI,Deutschland
+TVE.TO,Tamarack Valley Energy Ltd.,Kanada
+TVK.TO,TerraVest Industries Inc.,Kanada
+TWE.AX,Treasury Wine Estates,Australien
+TXG.TO,Torex Gold Resources Inc.,Kanada
+TXN,Texas Instruments,USA
+TXT,Textron,USA
+TYL,Tyler Technologies,USA
+UAL,United Airlines Holdings,USA
+UBER,Uber,USA
+UBSG.SW,UBS Group AG,Schweiz
+UCG-MI,UniCredit,Europa
+UCG.MI,UniCredit,Italien
+UDR,"UDR, Inc.",USA
+UGPA3.SA,Ultrapar,Brasilien
+UHS,Universal Health Services,USA
+ULTA,Ulta Beauty,USA
+ULTRACEMCO.NS,UltraTech Cement,Indien
+ULVR.L,Unilever,Grossbritannien
+UMG.AS,Universal Music Group,Niederlande
+UNA.AS,Unilever,Niederlande
+UNH,UnitedHealth Group,USA
+UNI.MC,Unicaja,Spanien
+UNI.MI,Unipol,Italien
+UNP,Union Pacific Corporation,USA
+UPS,United Parcel Service,USA
+URI,United Rentals,USA
+URW.PA,Unibail-Rodamco-Westfield,Frankreich
+USA.TO,Americas Gold And Silver Corporation,Kanada
+USB,U.S. Bancorp,USA
+USIM5.SA,Usiminas,Brasilien
+UTDI.DE,United Internet,Deutschland
+UU.L,United Utilities,Grossbritannien
+V,Visa Inc.,USA
+VALE3.SA,Vale,Brasilien
+VAR.OL,Vår Energi ASA,Norwegen
+VAU.AX,Vault Minerals,Australien
+VBBR3.SA,Petrobras Distribuidora,Brasilien
+VCX.AX,Vicinity Centres,Australien
+VEA.AX,Viva Energy,Australien
+VEEV,Veeva Systems,USA
+VET.TO,Vermilion Energy Inc.,Kanada
+VGN.AX,Virgin Australia Holdings,Australien
+VICI,Vici Properties,USA
+VIE.PA,Veolia,Frankreich
+VIIA3.SA,Via,Brasilien
+VITL.TO,Vital Infrastructure Property Trust.,Kanada
+VIVT3.SA,Telefônica Brasil,Brasilien
+VLO,Valero Energy,USA
+VLTO,Veralto,USA
+VMC,Vulcan Materials Company,USA
+VNA.DE,Vonovia,Deutschland
+VNP.TO,5N Plus Inc.,Kanada
+VNT.AX,Ventia Services Group,Australien
+VOD.L,Vodafone Group,Grossbritannien
+VOLV-B.ST,Volvo B,Schweden
+VOW-DE,Volkswagen Group,Europa
+VOW3.DE,Volkswagen Group,Deutschland
+VRSK,Verisk Analytics,USA
+VRSN,Verisign,USA
+VRT,Vertiv,USA
+VRTX,Vertex Pharmaceuticals,USA
+VST,Vistra Corp.,USA
+VTR,Ventas,USA
+VTRS,Viatris,USA
+VZ,Verizon,USA
+VZLA.TO,Vizsla Silver Corp.,Kanada
+WAB,Wabtec,USA
+WAF.AX,West African Resources,Australien
+WAF.DE,Siltronic,Deutschland
+WAM.AX,WAM Capital,Australien
+WAT,Waters Corporation,USA
+WAWI.OL,Wallenius Wilhelmsen,Norwegen
+WBC.AX,Westpac,Australien
+WBD,Warner Bros. Discovery,USA
+WCH.DE,Wacker Chemie,Deutschland
+WCN.TO,Waste Connections Inc.,Kanada
+WCP.TO,Whitecap Resources Inc.,Kanada
+WDAY,"Workday, Inc.",USA
+WDC,Western Digital,USA
+WDO.TO,Wesdome Gold Mines Ltd.,Kanada
+WDS.AX,Woodside Energy Group,Australien
+WEC,WEC Energy Group,USA
+WEGE3.SA,WEG,Brasilien
+WEIR.L,Weir,Grossbritannien
+WELL,Welltower,USA
+WES.AX,Wesfarmers,Australien
+WFC,Wells Fargo,USA
+WFG.TO,West Fraser Timber Co. Ltd.,Kanada
+WGX.AX,Westgold Resources,Australien
+WHC.AX,Whitehaven Coal,Australien
+WIPRO.NS,Wipro,Indien
+WKL-AS,Wolters Kluwer,Europa
+WKL.AS,Wolters Kluwer,Niederlande
+WLE.AX,WAM Leaders,Australien
+WM,Waste Management,USA
+WMB,Williams Companies,USA
+WMT,Walmart,USA
+WN.TO,George Weston Limited,Kanada
+WOR.AX,Worley,Australien
+WOW.AX,Woolworths Group,Australien
+WPK.TO,Winpak Ltd.,Kanada
+WPM.TO,Wheaton Precious Metals Corp.,Kanada
+WRB,W. R. Berkley Corporation,USA
+WSM,"Williams-Sonoma, Inc.",USA
+WSP.TO,WSP Global Inc.,Kanada
+WST,West Pharmaceutical Services,USA
+WTB.L,Whitbread,Grossbritannien
+WTC.AX,Wisetech Global,Australien
+WTW,Willis Towers Watson,USA
+WY,Weyerhaeuser,USA
+WYNN,Wynn Resorts,USA
+X.TO,TMX Group Limited,Kanada
+XEL,Xcel Energy,USA
+XOM,ExxonMobil,USA
+XRO.AX,Xero,Australien
+XYL,Xylem Inc.,USA
+XYX.AX,"Block, Inc.",Australien
+XYZ,"Block, Inc.",USA
+YAL.AX,Yancoal Australia,Australien
+YAR.OL,Yara International,Norwegen
+YDUQ3.SA,YDUQS,Brasilien
+YUM,Yum! Brands,USA
+ZAL.DE,Zalando,Deutschland
+ZBH,Zimmer Biomet,USA
+ZBRA,Zebra Technologies,USA
+ZIM.AX,Zimplats Holdings,Australien
+ZIP.AX,Zip,Australien
+ZTS,Zoetis,USA
+ZURN.SW,Zurich Insurance Group AG,Schweiz
