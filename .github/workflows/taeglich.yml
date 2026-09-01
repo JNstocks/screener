@@ -26,6 +26,9 @@ jobs:
       - name: Stammdaten holen
         run: python stammdaten_holen.py
         continue-on-error: true
+      - name: Grosse 5 berechnen
+        run: python grosse5_holen.py
+        continue-on-error: true
       - name: Ergebnis zurueckschreiben
         run: |
           git config user.name "screener-bot"
