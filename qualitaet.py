@@ -14,6 +14,8 @@ Jeder Faktor gibt zurueck:
 import pandas as pd
 import yfinance as yf
 
+import sec_daten
+
 
 def _zahl(wert):
     try:
@@ -204,6 +206,11 @@ def faktoren(ticker: str) -> dict:
         "ampel": _ampel(veraenderung, 0, 10, hoch_ist_gut=False),
         "hinweis": "Steigt sie deutlich, wurden Altaktionäre durch neue Aktien verwässert.",
     }
+
+    try:
+        ergebnis = sec_daten.ergaenzen(ticker, ergebnis, _ampel)
+    except Exception:
+        pass
 
     return ergebnis
 

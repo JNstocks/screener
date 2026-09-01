@@ -99,9 +99,30 @@ AMPEL = {"gruen": F["gruen"], "gelb": F["gelb"], "rot": F["rot"], "grau": F["gra
 
 
 # ------------------------------------------------------------------ Datenzugriff
+GROSSE5 = {
+    "roic": ("Kapitalrendite (ROIC)", "Betriebsgewinn nach Steuern auf das eingesetzte Kapital"),
+    "umsatz_cagr": ("Umsatzwachstum", "Umsatz pro Jahr"),
+    "eps_cagr": ("Gewinn je Aktie", "EPS pro Jahr"),
+    "ek_cagr": ("Eigenkapitalwachstum", "Buchwert pro Jahr"),
+    "fcf_cagr": ("Freier Cashflow", "FCF pro Jahr"),
+}
+HUERDE = 10.0
+
+
 @st.cache_data
 def lade_tabelle() -> pd.DataFrame:
-    return pd.read_csv(DATEN / "kennzahlen.csv")
+    tabelle = pd.read_csv(DATEN / "kennzahlen.csv")
+    pfad = DATEN / "grosse5.csv"
+    if pfad.exists():
+        fuenf = pd.read_csv(pfad)
+        spalten = ["ticker", "quelle", "jahre"] + list(GROSSE5)
+        vorhanden = [s for s in spalten if s in fuenf.columns]
+        tabelle = tabelle.merge(fuenf[vorhanden], on="ticker", how="left")
+    for schluessel in GROSSE5:
+        if schluessel not in tabelle.columns:
+            tabelle[schluessel] = pd.NA
+        tabelle[schluessel] = pd.to_numeric(tabelle[schluessel], errors="coerce")
+    return tabelle
 
 
 @st.cache_data
@@ -119,6 +140,20 @@ def lade_historie_lang(ticker: str) -> pd.Series:
     if isinstance(df.columns, pd.MultiIndex):
         df.columns = df.columns.get_level_values(0)
     return df["Close"].dropna()
+
+
+@st.cache_data(ttl=86400, show_spinner=False)
+def lade_termine(ticker: str) -> dict:
+    import yfinance as yf
+    try:
+        df = yf.Ticker(ticker).get_earnings_dates(limit=12)
+    except Exception:
+        return {}
+    if df is None or df.empty:
+        return {}
+    heute = pd.Timestamp.now(tz=df.index.tz)
+    return {"naechster": df[df.index > heute].index.min(),
+            "letzter": df[df.index <= heute].index.max()}
 
 
 @st.cache_data(ttl=86400, show_spinner=False)
@@ -165,11 +200,23 @@ def zeige_uebersicht() -> None:
     sektoren = sorted(daten["sektor"].dropna().unique())
     wahl_sektor = s3.multiselect("Sektor", sektoren, default=[])
 
+    st.markdown("**Die Großen 5** — jeweils mindestens 10 % pro Jahr")
+    spalten = st.columns(5)
+    gewaehlt = []
+    for nr, (schluessel, (bezeichnung, _)) in enumerate(GROSSE5.items()):
+        moeglich = int((daten[schluessel] >= HUERDE).sum())
+        if spalten[nr].checkbox(f"{bezeichnung} ({moeglich})", key=f"f_{schluessel}"):
+            gewaehlt.append(schluessel)
+    ohne_wert = st.checkbox("Titel ohne Angabe trotzdem anzeigen", value=False)
+
     treffer = daten[daten["vom_hoch_pct"] <= -schwelle]
     if wahl_land:
         treffer = treffer[treffer["land"].isin(wahl_land)]
     if wahl_sektor:
         treffer = treffer[treffer["sektor"].isin(wahl_sektor)]
+    for schluessel in gewaehlt:
+        erfuellt = treffer[schluessel] >= HUERDE
+        treffer = treffer[erfuellt | (treffer[schluessel].isna() & ohne_wert)]
 
     st.markdown(f"**{len(treffer)} Treffer**")
     if treffer.empty:
@@ -325,6 +372,48 @@ def zeige_detail(ticker: str) -> None:
                      f"{zeile['aend_3m']:+.1f} %", f"{zeile['aend_12m']:+.1f} %"],
         }), hide_index=True, use_container_width=True)
 
+        termine = lade_termine(ticker)
+        if termine:
+            sp1, sp2 = st.columns(2)
+            letzter = termine.get("letzter")
+            kommend = termine.get("naechster")
+            sp1.metric("Letzte Zahlen",
+                       letzter.strftime("%d.%m.%Y") if letzter is not None else "—")
+            sp2.metric("Nächste Zahlen",
+                       kommend.strftime("%d.%m.%Y") if kommend is not None else "—")
+
+        suche = f"{zeile['name']} investor relations".replace(" ", "+")
+        quellen = f"[Investor Relations](https://www.google.com/search?q={suche})"
+        if "." not in ticker:
+            quellen += (f" &nbsp;·&nbsp; [SEC-Einreichungen]"
+                        f"(https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany"
+                        f"&ticker={ticker}&type=10-K&dateb=&owner=include&count=20)")
+        st.markdown(quellen)
+
+        st.subheader("Die Großen 5")
+        jahre = zeile.get("jahre")
+        herkunft = zeile.get("quelle")
+        if pd.notna(jahre) and jahre:
+            st.markdown(
+                f"<div class='leise'>Berechnet über {int(jahre)} Jahre · "
+                f"Quelle {herkunft if pd.notna(herkunft) else 'unbekannt'}</div>",
+                unsafe_allow_html=True)
+        fuenf_spalten = st.columns(2)
+        for nr, (schluessel, (bezeichnung, erklaerung)) in enumerate(GROSSE5.items()):
+            wert = zeile.get(schluessel)
+            if pd.isna(wert):
+                farbe, anzeige = F["grau"], "keine Angabe"
+            else:
+                farbe = F["gruen"] if wert >= HUERDE else F["rot"]
+                anzeige = f"{wert:+.1f} % p.a."
+            fuenf_spalten[nr % 2].markdown(
+                f"<div class='kachel' style='border-left-color:{farbe}'>"
+                f"<div class='bez'>{bezeichnung}</div>"
+                f"<div class='wert' style='color:{farbe}'>{anzeige}</div>"
+                f"<div class='hint'>{erklaerung} · Hürde 10 %</div></div>",
+                unsafe_allow_html=True)
+
+        st.write("")
         st.subheader("Qualitätsfaktoren")
         st.markdown("<div class='leise'>Graue Kacheln bedeuten: keine Daten "
                     "verfügbar, nicht geschätzt.</div>", unsafe_allow_html=True)
