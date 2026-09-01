@@ -615,11 +615,12 @@ ATZ.TO,Aritzia Inc.,Kanada
 AUB.AX,AUB Group,Australien
 AUTO.L,Autotrader Group,Grossbritannien
 AV.L,Aviva,Grossbritannien
-AVB,AvalonBay Communities,USA
 AVGO,Broadcom,USA
 AVIO.MI,Avio,Italien
 AVY,Avery Dennison,USA
 AWK,American Water Works,USA
+AXIA3.SA,Eletrobras,Brasilien
+AXIA7.SA,Eletrobras,Brasilien
 AXISBANK.NS,Axis Bank,Indien
 AXON,Axon Enterprise,USA
 AXP,American Express,USA
@@ -957,11 +958,9 @@ EL-PA,EssilorLuxottica,Europa
 EL.PA,EssilorLuxottica,Frankreich
 ELD.TO,Eldorado Gold Corporation,Kanada
 ELE.MC,Endesa,Spanien
-ELET3.SA,Eletrobras,Brasilien
-ELET6.SA,Eletrobras,Brasilien
 ELV,Elevance Health,USA
 EMA.TO,Emera Incorporated,Kanada
-EMBR3.SA,Embraer,Brasilien
+EMBJ3.SA,Embraer,Brasilien
 EME,Emcor,USA
 EMP.TO,Empire Company Limited,Kanada
 EMR,Emerson Electric,USA
@@ -987,7 +986,6 @@ EPI-A.ST,Epiroc A,Schweden
 EQB.TO,EQB Inc.,Kanada
 EQIX,Equinix,USA
 EQNR.OL,Equinor,Norwegen
-EQR,Equity Residential,USA
 EQT,EQT Corporation,USA
 EQT.ST,EQT,Schweden
 EQTL3.SA,Equatorial Energia,Brasilien
@@ -1593,6 +1591,7 @@ RCH.TO,Richelieu Hardware Ltd.,Kanada
 RCI.TO,Rogers Communications Inc.,Kanada
 RCL,Royal Caribbean Group,USA
 RDC.DE,Redcare Pharmacy,Deutschland
+RDDT,Reddit,USA
 RDOR3.SA,Rede D'Or São Luiz,Brasilien
 RDX.AX,Redox,Australien
 REA.AX,REA Group,Australien
@@ -1896,6 +1895,7 @@ VIVT3.SA,Telefônica Brasil,Brasilien
 VLO,Valero Energy,USA
 VLTO,Veralto,USA
 VMC,Vulcan Materials Company,USA
+VMRK,Vivmark Residential,USA
 VNA.DE,Vonovia,Deutschland
 VNP.TO,5N Plus Inc.,Kanada
 VNT.AX,Ventia Services Group,Australien
