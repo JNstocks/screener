@@ -978,7 +978,6 @@ ENI-MI,Eni,Europa
 ENI.MI,Eni,Italien
 ENR-DE,Siemens Energy,Europa
 ENR.DE,Siemens Energy,Deutschland
-ENT.L,Entain,Grossbritannien
 EOAN.DE,E.ON,Deutschland
 EOG,EOG Resources,USA
 EOS.AX,Electro Optic Systems Holdings,Australien
@@ -1015,6 +1014,7 @@ EXPD,Expeditors International,USA
 EXPE,Expedia Group,USA
 EXPN.L,Experian,Grossbritannien
 EXR,Extra Space Storage,USA
+EZJ.L,EasyJet,Grossbritannien
 EZTC3.SA,Eztec,Brasilien
 F,Ford Motor Company,USA
 FANG,Diamondback Energy,USA
@@ -1231,6 +1231,7 @@ ISP.MI,Intesa Sanpaolo,Italien
 ISRG,Intuitive Surgical,USA
 IT,Gartner,USA
 ITC.NS,ITC,Indien
+ITH.L,Ithaca Energy,Grossbritannien
 ITRK.L,Intertek,Grossbritannien
 ITSA4.SA,Itaúsa,Brasilien
 ITUB4.SA,Itaú Unibanco,Brasilien
@@ -1559,7 +1560,6 @@ PSA,Public Storage,USA
 PSH.L,Pershing Square Holdings,Grossbritannien
 PSK.TO,PrairieSky Royalty Ltd.,Kanada
 PSKY,Paramount Skydance Corporation,USA
-PSN.L,Persimmon,Grossbritannien
 PSON.L,Pearson plc,Grossbritannien
 PST.MI,Poste italiane,Italien
 PSX,Phillips 66,USA
