@@ -660,6 +660,7 @@ BBUC.TO,Brookfield Business Corporation,Kanada
 BBVA-MC,BBVA,Europa
 BBVA.MC,BBVA,Spanien
 BBY,Best Buy,USA
+BBY.L,Balfour Beatty,Grossbritannien
 BC.MI,Brunello Cucinelli,Italien
 BC8.DE,Bechtle,Deutschland
 BCE.TO,BCE Inc.,Kanada
@@ -675,7 +676,6 @@ BEN,Franklin Resources,USA
 BEN.AX,Bendigo & Adelaide Bank,Australien
 BEP.TO,Brookfield Renewable Partners L.P.,Kanada
 BESI.AS,BE Semiconductors,Niederlande
-BEZ.L,Beazley,Grossbritannien
 BF-B,Brown–Forman,USA
 BFL.AX,BSP Financial Group,Australien
 BFSA.DE,Befesa,Deutschland
@@ -1675,7 +1675,6 @@ SCYR.MC,Sacyr,Spanien
 SDF.AX,Steadfast Group,Australien
 SDF.DE,K+S,Deutschland
 SDLF.L,Standard Life,Grossbritannien
-SDR.L,Schroders,Grossbritannien
 SDZ.SW,Sandoz,Schweiz
 SEA.TO,Seabridge Gold Inc.,Kanada
 SEB-A.ST,SEB A,Schweden
@@ -1948,6 +1947,7 @@ WOR.AX,Worley,Australien
 WOW.AX,Woolworths Group,Australien
 WPK.TO,Winpak Ltd.,Kanada
 WPM.TO,Wheaton Precious Metals Corp.,Kanada
+WPP.L,WPP,Grossbritannien
 WRB,W. R. Berkley Corporation,USA
 WSM,"Williams-Sonoma, Inc.",USA
 WSP.TO,WSP Global Inc.,Kanada
