@@ -1,567 +1,637 @@
 ticker,name,land,kurs,aend_1m,aend_ytd,vom_hoch_pct,rsi14,zum_tief_pct,aend_3m,aend_12m,position_spanne,tief52,hoch52,marktkap_mrd,sektor,waehrung
-CTD.AX,Corporate Travel Management,Australien,2.33,-85.5,-85.5,-85.5,13.1,16.5,-85.5,-85.5,2,2.0,16.07,0.0,unbekannt,
+CTD.AX,Corporate Travel Management,Australien,2.37,2.2,-85.3,-85.3,14.4,18.5,-85.3,-85.3,3,2.0,16.07,0.0,unbekannt,
 0881.HK,Zhongsheng Group,Hongkong,2.7,-31.3,-76.8,-82.2,20.4,1.3,-46.6,-82.0,0,2.66,15.2,10.8,Consumer Cyclical,HKD
-HAPV3.SA,Grupo Hapvida,Brasilien,6.67,0.9,-54.2,-81.8,45.6,9.5,-35.9,-82.0,2,6.09,36.59,3.2,Financial Services,BRL
-DRO.AX,Droneshield,Australien,1.66,-3.4,-50.2,-74.9,44.8,5.2,-34.2,-70.8,2,1.58,6.6,1.8,Industrials,AUD
-GSY.TO,goeasy Ltd.,Kanada,43.41,2.7,-67.0,-74.7,51.0,52.3,-0.2,-74.6,10,28.5,171.43,0.7,Financial Services,CAD
-LAC.TO,Lithium Americas Corp.,Kanada,3.75,-13.0,-42.7,-73.4,36.6,0.3,-31.3,-53.1,0,3.74,14.11,1.7,Basic Materials,CAD
-HFG.DE,HelloFresh,Deutschland,2.3,-16.6,-61.2,-70.6,29.7,0.6,-43.6,-68.6,0,2.29,7.82,0.5,Consumer Defensive,EUR
-CSGP,CoStar Group,USA,26.95,-16.4,-59.0,-68.2,31.7,0.0,-4.8,-67.9,0,26.95,84.8,13.1,Real Estate,USD
-LTR.AX,Liontown Resources,Australien,0.84,-32.3,-48.1,-68.2,29.1,0.0,-49.2,-13.8,0,0.84,2.64,4.1,Basic Materials,AUD
-FICO,Fair Isaac,USA,617.87,-46.4,-62.4,-67.1,16.5,0.0,-48.3,-59.3,0,617.87,1879.55,23.5,Technology,USD
-BRKM5.SA,Braskem,Brasilien,4.24,-2.1,-45.3,-66.6,44.1,20.5,-32.6,-48.5,8,3.52,12.7,3.9,Basic Materials,BRL
+HAPV3.SA,Grupo Hapvida,Brasilien,6.97,5.6,-52.1,-81.0,50.7,14.4,-33.0,-81.2,3,6.09,36.59,3.2,Financial Services,BRL
+TUA.AX,Tuas,Australien,1.68,-20.5,-76.2,-77.9,30.0,0.6,-23.8,-75.4,0,1.67,7.64,1.2,Communication Services,AUD
+GSY.TO,goeasy Ltd.,Kanada,43.09,-0.0,-67.2,-74.6,48.9,51.2,-7.7,-74.9,10,28.5,169.61,0.7,Financial Services,CAD
+LAC.TO,Lithium Americas Corp.,Kanada,3.65,-11.6,-44.3,-74.1,33.9,0.0,-31.6,-54.1,0,3.65,14.11,1.7,Basic Materials,CAD
+DRO.AX,Droneshield,Australien,1.83,9.9,-45.0,-72.3,58.3,16.2,-25.0,-70.9,5,1.58,6.6,1.8,Industrials,AUD
+HFG.DE,HelloFresh,Deutschland,2.35,-12.1,-60.3,-69.9,33.0,2.8,-41.6,-67.3,1,2.29,7.82,0.5,Consumer Defensive,EUR
+LTR.AX,Liontown Resources,Australien,0.81,-31.9,-50.0,-69.3,29.2,2.5,-47.1,-15.2,1,0.79,2.64,4.1,Basic Materials,AUD
+FICO,Fair Isaac,USA,592.47,-48.4,-63.9,-68.5,15.7,0.0,-50.9,-61.2,0,592.47,1879.55,23.5,Technology,USD
+BRKM5.SA,Braskem,Brasilien,4.1,-3.3,-47.1,-67.7,42.0,16.5,-34.3,-41.6,6,3.52,12.7,3.9,Basic Materials,BRL
+CSGP,CoStar Group,USA,27.4,-14.6,-58.3,-67.7,35.7,1.7,-6.7,-67.5,1,26.95,84.8,13.1,Real Estate,USD
 1024.HK,Kuaishou,Hongkong,30.94,-10.7,-52.5,-65.7,40.1,4.3,-27.4,-58.5,2,29.66,90.3,173.3,Communication Services,HKD
-FISV,Fiserv,USA,45.36,-14.7,-30.8,-65.2,31.6,0.0,-7.5,-64.7,0,45.36,130.45,28.9,unbekannt,USD
-360.AX,Life360,Australien,19.63,2.2,-39.5,-64.2,46.0,9.6,-29.4,-64.6,5,17.91,54.86,5.8,Technology,AUD
-XRO.AX,Xero,Australien,56.55,-30.4,-49.6,-64.1,24.3,0.0,-23.1,-64.9,0,56.55,157.69,14.1,Technology,AUD
-WTC.AX,Wisetech Global,Australien,31.65,-15.6,-53.6,-64.0,38.2,10.4,-10.2,-64.7,5,28.66,87.8,14.6,Technology,AUD
-GDG.AX,Generation Development Group,Australien,2.73,-10.5,-53.5,-63.9,28.9,1.1,-32.2,-61.6,1,2.7,7.56,1.5,Financial Services,AUD
-PODD,Insulet Corporation,USA,132.84,-8.5,-53.0,-61.6,35.7,0.7,-12.7,-58.2,0,131.96,346.36,9.9,Healthcare,USD
-INTU,Intuit,USA,268.03,-25.1,-57.0,-61.0,27.4,5.5,3.1,-61.2,3,253.95,686.97,94.6,Technology,USD
-CHTR,Charter Communications,USA,110.67,-28.0,-47.1,-60.9,28.7,0.0,-22.2,-59.5,0,110.67,282.74,20.8,Communication Services,USD
+FISV,Fiserv,USA,45.18,-15.3,-31.1,-65.4,31.0,0.0,-10.9,-65.1,0,45.18,130.45,28.9,unbekannt,USD
+GDG.AX,Generation Development Group,Australien,2.76,-12.0,-53.0,-63.5,30.5,2.0,-32.1,-61.5,1,2.7,7.56,1.5,Financial Services,AUD
+360.AX,Life360,Australien,20.09,0.8,-38.1,-63.4,50.7,12.2,-25.6,-63.4,6,17.91,54.86,5.8,Technology,AUD
+STLAM.MI,Stellantis,Italien,3.9,-16.0,-59.9,-62.6,31.1,0.0,-21.0,-52.1,0,3.9,10.41,17.4,Consumer Cyclical,EUR
+STLAP.PA,Stellantis,Frankreich,3.9,-15.9,-59.8,-62.5,31.5,0.0,-20.9,-56.7,0,3.9,10.41,17.4,Consumer Cyclical,EUR
+PODD,Insulet Corporation,USA,130.47,-12.2,-53.9,-62.3,32.9,0.0,-18.3,-58.0,0,130.47,346.36,9.9,Healthcare,USD
+DYL.AX,Deep Yellow,Australien,1.12,-32.6,-42.2,-61.3,29.2,0.0,-17.0,-44.0,0,1.12,2.91,1.4,Energy,AUD
+CHTR,Charter Communications,USA,110.9,-27.3,-47.0,-60.8,29.0,0.2,-20.7,-59.8,0,110.67,282.74,20.8,Communication Services,USD
+TMPV.NS,Tata Motors Passenger Vehicles,Indien,279.4,-10.7,-23.4,-60.8,27.3,0.0,-19.5,-58.6,0,279.4,712.44,1231.9,Consumer Cyclical,INR
 0241.HK,Alibaba Health,Hongkong,2.87,-6.7,-41.4,-60.7,38.6,1.4,-7.2,-54.0,1,2.83,7.3,52.5,Healthcare,HKD
-DYL.AX,Deep Yellow,Australien,1.18,-23.1,-39.1,-59.3,33.2,1.3,-18.6,-43.0,1,1.17,2.91,1.4,Energy,AUD
-PXA.AX,Pexa Group,Australien,6.58,-7.8,-50.9,-58.8,36.2,0.6,-24.6,-58.2,0,6.54,15.96,1.4,Technology,AUD
-EVT.DE,Evotec,Deutschland,2.95,-9.1,-46.6,-58.7,43.9,7.1,-42.7,-52.3,4,2.75,7.15,0.6,Healthcare,EUR
-APP,AppLovin,USA,305.66,-3.8,-50.6,-58.3,40.5,2.4,-40.7,-54.4,2,298.59,733.6,105.6,Communication Services,USD
-BSX,Boston Scientific,USA,43.88,-6.3,-53.7,-58.2,41.7,2.9,2.8,-55.3,2,42.63,104.98,75.1,Healthcare,USD
-EFR.TO,Energy Fuels Inc.,Kanada,15.73,-23.0,-31.4,-58.1,34.4,4.4,-23.6,-31.4,3,15.07,37.55,5.2,Energy,CAD
-ZIP.AX,Zip,Australien,2.03,-16.7,-39.6,-57.9,35.5,40.1,-37.1,-57.8,17,1.45,4.81,3.4,Financial Services,AUD
-6976.T,6976,Japan,9555.0,3.9,164.3,-57.6,51.3,212.9,-48.4,215.8,33,3053.53,22542.88,1378.5,Technology,JPY
+APP,AppLovin,USA,290.43,-6.9,-53.0,-60.4,34.9,0.0,-48.6,-59.2,0,290.43,733.6,105.6,Communication Services,USD
+PXA.AX,Pexa Group,Australien,6.47,-12.2,-51.7,-59.5,34.0,0.0,-23.3,-59.1,0,6.47,15.96,1.4,Technology,AUD
+EFR.TO,Energy Fuels Inc.,Kanada,15.23,-23.0,-33.6,-59.4,31.8,1.1,-22.0,-28.7,1,15.07,37.55,5.2,Energy,CAD
+INTU,Intuit,USA,275.71,-23.3,-55.8,-59.3,33.0,8.6,3.7,-59.9,5,253.95,677.03,94.6,Technology,USD
+BSX,Boston Scientific,USA,43.65,-9.6,-53.9,-58.4,40.7,2.4,1.4,-55.0,2,42.63,104.98,75.1,Healthcare,USD
 1810.HK,Xiaomi,Hongkong,25.24,-8.4,-37.3,-57.5,40.2,17.8,9.9,-55.5,10,21.42,59.45,659.5,Technology,HKD
-SEK.AX,Seek,Australien,12.1,-11.7,-46.4,-55.9,44.6,9.3,-6.5,-56.2,6,11.07,27.45,5.4,Communication Services,AUD
+6976.T,6976,Japan,9709.0,6.2,168.6,-56.9,52.2,218.0,-51.6,217.9,34,3053.53,22542.88,1378.5,Technology,JPY
+EVT.DE,Evotec,Deutschland,3.1,-1.6,-43.9,-56.6,52.9,12.6,-39.7,-51.1,8,2.75,7.15,0.6,Healthcare,EUR
+8267.T,8267,Japan,1241.5,-8.5,-49.6,-56.5,34.2,0.0,-6.9,-31.6,0,1241.5,2852.79,3801.3,Consumer Cyclical,JPY
+SEK.AX,Seek,Australien,11.85,-12.4,-47.5,-56.4,41.6,7.0,-10.3,-56.8,5,11.07,27.16,5.4,Communication Services,AUD
 2015.HK,Li Auto,Hongkong,45.04,-4.3,-33.8,-55.8,42.8,1.1,-4.9,-55.3,1,44.54,102.0,93.2,Consumer Cyclical,HKD
-8267.T,8267,Japan,1264.0,-7.0,-48.7,-55.7,37.0,0.0,-7.4,-29.9,0,1263.5,2852.79,3801.3,Consumer Cyclical,JPY
-ORCL,Oracle Corporation,USA,137.79,-8.7,-28.9,-55.6,43.1,19.8,-5.7,-50.8,12,114.99,310.01,433.6,Technology,USD
-LULU,Lululemon Athletica,USA,96.87,-19.8,-54.0,-55.1,36.7,0.9,-15.2,-45.1,1,95.98,215.88,13.6,Consumer Cyclical,USD
-FCT.MI,Fincantieri,Italien,12.16,-2.6,-31.1,-54.8,47.5,24.0,12.7,-45.6,14,9.81,26.92,4.8,Industrials,EUR
-COH.AX,Cochlear,Australien,131.58,-2.6,-48.5,-54.6,42.0,47.6,3.9,-52.5,21,89.13,289.67,8.7,Healthcare,AUD
-GBF.DE,Bilfinger,Deutschland,56.2,-32.9,-47.3,-54.6,25.8,2.0,-32.9,-38.1,2,55.1,123.87,2.8,Industrials,EUR
-BYD.TO,Boyd Group Services Inc.,Kanada,111.7,-7.1,-48.2,-54.4,40.2,1.0,-16.7,-52.9,1,110.62,244.99,3.7,Consumer Cyclical,CAD
-CIA.AX,Champion Iron,Australien,3.03,-11.5,-50.4,-54.1,30.3,0.0,-23.2,-36.1,0,3.03,6.59,1.9,Basic Materials,AUD
-ARB.AX,ARB Corporation,Australien,17.91,-5.2,-43.0,-54.1,41.9,5.3,-1.3,-53.3,4,17.01,39.02,1.6,Consumer Cyclical,AUD
-AVIO.MI,Avio,Italien,29.56,0.5,-0.8,-54.0,51.6,24.3,-8.3,-44.5,14,23.78,64.28,1.6,Industrials,EUR
-EL.PA,EssilorLuxottica,Frankreich,144.6,-9.8,-44.2,-53.8,41.6,4.0,-17.5,-47.2,3,139.0,313.3,74.7,Healthcare,EUR
-5706.T,5706,Japan,2410.5,-11.5,38.6,-53.3,50.7,154.8,-38.8,142.9,35,945.87,5156.98,1680.8,Industrials,JPY
-ROL,"Rollins, Inc.",USA,30.5,-16.2,-47.7,-53.0,25.1,1.6,-26.6,-47.0,1,30.03,64.86,17.4,Consumer Cyclical,USD
-NG.TO,NovaGold Resources Inc.,Kanada,9.27,-22.2,-26.5,-52.3,37.5,27.3,9.3,-21.6,16,7.28,19.43,4.8,Basic Materials,CAD
-LLC.AX,Lendlease,Australien,2.62,-11.8,-46.6,-52.2,48.0,10.3,-10.8,-49.7,8,2.38,5.48,2.2,Real Estate,AUD
-PNR,Pentair,USA,53.47,-13.3,-48.8,-51.8,26.4,0.8,-29.9,-50.7,1,53.03,111.0,10.7,Industrials,USD
+ORCL,Oracle Corporation,USA,137.3,-7.9,-29.2,-55.7,42.7,19.4,-3.3,-50.9,11,114.99,310.01,433.6,Technology,USD
+LULU,Lululemon Athletica,USA,96.19,-20.0,-54.4,-55.4,36.0,0.2,-17.4,-46.3,0,95.98,215.88,13.6,Consumer Cyclical,USD
+FCT.MI,Fincantieri,Italien,12.04,-1.5,-31.8,-55.3,45.5,22.8,10.5,-45.5,13,9.81,26.92,4.8,Industrials,EUR
+COH.AX,Cochlear,Australien,130.31,-6.7,-48.9,-55.0,40.6,46.2,3.6,-53.2,21,89.13,289.67,8.7,Healthcare,AUD
+GBF.DE,Bilfinger,Deutschland,56.0,-31.5,-47.5,-54.8,25.6,1.6,-36.6,-37.8,1,55.1,123.87,2.8,Industrials,EUR
+ARB.AX,ARB Corporation,Australien,17.75,-6.8,-43.5,-54.5,40.4,4.4,-5.2,-53.5,3,17.01,39.02,1.6,Consumer Cyclical,AUD
+USA.TO,Americas Gold And Silver Corporation,Kanada,6.25,-10.7,-10.7,-54.4,40.6,23.0,-9.8,20.4,14,5.08,13.72,2.5,Basic Materials,CAD
+BYD.TO,Boyd Group Services Inc.,Kanada,111.78,-2.6,-48.2,-54.4,40.3,1.0,-18.6,-52.2,1,110.62,244.99,3.7,Consumer Cyclical,CAD
+AVIO.MI,Avio,Italien,29.36,1.2,-1.5,-54.3,50.1,23.5,-9.8,-43.9,14,23.78,64.28,1.6,Industrials,EUR
+CIA.AX,Champion Iron,Australien,3.03,-12.4,-50.3,-54.0,31.8,0.7,-22.3,-37.2,1,3.01,6.59,1.9,Basic Materials,AUD
+ROL,"Rollins, Inc.",USA,30.12,-16.5,-48.4,-53.6,23.8,0.3,-28.2,-47.8,0,30.03,64.86,17.4,Consumer Cyclical,USD
+EL.PA,EssilorLuxottica,Frankreich,145.6,-8.7,-43.9,-53.5,43.5,4.7,-15.4,-47.3,4,139.0,313.3,74.7,Healthcare,EUR
+NG.TO,NovaGold Resources Inc.,Kanada,9.16,-17.8,-27.4,-52.9,36.6,25.8,0.3,-25.5,15,7.28,19.43,4.8,Basic Materials,CAD
+PNR,Pentair,USA,52.99,-12.4,-49.3,-52.3,25.1,0.0,-30.3,-51.1,0,52.99,111.0,10.7,Industrials,USD
+COIN,Coinbase,USA,186.41,-0.9,-21.2,-51.9,51.7,32.1,17.1,-44.2,18,141.09,387.27,39.2,Financial Services,USD
 0960.HK,Longfor Properties,Hongkong,5.7,-6.2,-34.3,-51.6,46.5,8.5,-8.3,-50.9,7,5.25,11.78,44.4,Real Estate,HKD
-ZTS,Zoetis,USA,70.3,-9.1,-43.3,-51.4,37.9,0.0,-1.5,-50.1,0,70.27,144.75,0.0,unbekannt,
-RHM.DE,Rheinmetall,Deutschland,960.4,-13.5,-39.5,-51.2,34.5,1.5,-13.9,-51.1,1,946.6,1966.35,56.1,Industrials,EUR
-APTV,Aptiv,USA,43.37,-5.2,-44.7,-51.1,39.7,0.1,-29.3,-49.7,0,43.34,88.67,10.5,Consumer Cyclical,USD
+LLC.AX,Lendlease,Australien,2.66,-7.3,-45.8,-51.5,50.1,12.0,-8.2,-48.3,9,2.38,5.48,2.2,Real Estate,AUD
+APTV,Aptiv,USA,43.02,-3.9,-45.2,-51.5,38.5,0.0,-28.6,-49.8,0,43.02,88.67,10.5,Consumer Cyclical,USD
+RHM.DE,Rheinmetall,Deutschland,956.4,-11.4,-39.7,-51.4,33.9,1.0,-12.5,-50.5,1,946.6,1966.35,56.1,Industrials,EUR
 0968.HK,Xinyi Solar,Hongkong,1.95,-10.8,-36.0,-51.1,36.7,3.2,-7.5,-42.3,3,1.89,3.98,20.7,Technology,HKD
-COIN,Coinbase,USA,190.02,6.4,-19.7,-50.9,53.9,34.7,30.0,-39.2,20,141.09,387.27,39.2,Financial Services,USD
-NKE,"Nike, Inc.",USA,35.84,-8.5,-41.9,-50.4,38.3,0.9,-11.8,-46.6,1,35.51,72.19,60.4,Consumer Cyclical,USD
-4506.T,4506,Japan,1590.0,7.1,-35.4,-50.1,55.5,29.3,4.0,-6.1,18,1230.0,3184.0,615.5,Healthcare,JPY
-ASB.AX,Austal,Australien,4.37,4.3,-35.5,-50.1,50.5,28.9,8.2,-47.0,18,3.39,8.76,1.8,Industrials,AUD
-ALB,Albemarle Corporation,USA,107.62,-21.4,-24.6,-49.8,35.7,34.3,-20.0,23.6,20,80.16,214.35,16.1,Basic Materials,USD
-FIS,Fidelity National Information Services,USA,33.35,-18.6,-47.6,-49.5,25.0,0.0,-13.2,-46.1,0,33.35,66.05,22.2,Technology,USD
+NKE,"Nike, Inc.",USA,35.4,-8.4,-42.6,-51.0,35.8,0.0,-16.9,-47.4,0,35.4,72.19,60.4,Consumer Cyclical,USD
+ALB,Albemarle Corporation,USA,105.78,-21.4,-25.9,-50.7,34.1,32.0,-22.0,23.2,19,80.16,214.35,16.1,Basic Materials,USD
+FIS,Fidelity National Information Services,USA,32.9,-18.4,-48.3,-50.2,23.7,0.0,-18.4,-48.1,0,32.9,66.05,22.2,Technology,USD
+ASB.AX,Austal,Australien,4.37,2.1,-35.5,-50.1,50.6,28.9,6.8,-47.3,18,3.39,8.76,1.8,Industrials,AUD
+4506.T,4506,Japan,1603.5,3.2,-34.8,-49.6,56.6,30.4,6.8,-0.9,19,1230.0,3184.0,615.5,Healthcare,JPY
 9961.HK,Trip.com Group,Hongkong,308.2,-11.7,-47.1,-49.4,37.1,1.0,-4.9,-49.2,1,305.2,609.0,219.9,Consumer Cyclical,HKD
-PET.TO,Pet Valu Holdings Ltd.,Kanada,17.95,-3.7,-34.0,-49.3,47.3,7.1,-1.7,-48.1,6,16.76,35.4,1.3,Consumer Cyclical,CAD
+PET.TO,Pet Valu Holdings Ltd.,Kanada,17.9,-1.5,-34.2,-49.4,46.5,6.8,-4.5,-49.0,6,16.76,35.4,1.3,Consumer Cyclical,CAD
+5706.T,5706,Japan,2617.0,-5.1,50.5,-49.3,58.8,165.6,-34.5,176.7,39,985.26,5156.98,1680.8,Industrials,JPY
 2313.HK,Shenzhou International,Hongkong,34.84,-2.4,-41.0,-49.2,40.3,2.2,-14.6,-41.0,2,34.08,68.62,62.3,Consumer Cyclical,HKD
-COGN3.SA,Cogna,Brasilien,2.32,0.9,-25.5,-49.2,53.4,14.3,0.9,-15.4,11,2.03,4.57,4.2,Consumer Defensive,BRL
-NWL.AX,Netwealth Group,Australien,16.67,-17.1,-34.2,-48.5,23.7,0.0,-26.4,-44.1,0,16.67,32.37,5.9,Technology,AUD
-AAI.AX,Alcoa,Australien,60.23,-15.0,-24.8,-48.4,31.3,18.2,-17.1,15.1,14,50.97,116.68,18.5,Basic Materials,AUD
+ASM.TO,Avino Silver & Gold Mines Ltd.,Kanada,7.84,-19.7,-3.3,-48.6,35.0,34.5,-15.8,7.4,21,5.83,15.26,1.7,Basic Materials,CAD
+COGN3.SA,Cogna,Brasilien,2.35,0.4,-24.6,-48.5,55.1,15.8,2.2,-14.3,13,2.03,4.57,4.2,Consumer Defensive,BRL
 6618.HK,JD Health,Hongkong,36.0,-1.3,-36.1,-48.3,48.7,12.6,-0.3,-47.7,11,31.98,69.65,126.0,Healthcare,HKD
-ASM.TO,Avino Silver & Gold Mines Ltd.,Kanada,7.9,-22.2,-2.6,-48.2,35.6,35.5,-12.1,6.8,22,5.83,15.26,1.7,Basic Materials,CAD
-PSKY,Paramount Skydance Corporation,USA,9.99,-7.8,-23.1,-47.8,45.8,28.5,1.8,-46.2,19,7.77,19.14,11.3,Communication Services,USD
-MRVE3.SA,MRV,Brasilien,5.47,-0.7,-29.1,-47.6,55.0,30.2,3.2,-26.7,20,4.2,10.43,2.7,Real Estate,BRL
-PME.AX,Pro Medicus,Australien,159.71,-7.2,-27.9,-47.5,36.9,48.4,-25.1,-48.9,27,107.62,304.06,18.7,Healthcare,AUD
+AT1.DE,Aroundtown,Deutschland,1.64,-13.7,-34.9,-48.3,21.1,0.0,-31.1,-47.3,0,1.64,3.18,2.2,Real Estate,EUR
+AAI.AX,Alcoa,Australien,60.62,-14.4,-24.3,-48.0,33.5,18.9,-15.0,16.4,15,50.97,116.68,18.5,Basic Materials,AUD
+MRVE3.SA,MRV,Brasilien,5.45,-1.6,-29.4,-47.7,54.2,29.8,2.8,-26.9,20,4.2,10.43,2.7,Real Estate,BRL
+NRG,NRG Energy,USA,95.65,-13.1,-41.9,-47.7,30.7,0.0,-31.8,-41.4,0,95.65,182.82,26.5,Utilities,USD
+ATS.TO,ATS Corporation,Kanada,25.63,-0.3,-33.1,-47.7,33.0,0.0,-34.7,-29.6,0,25.63,48.99,2.8,Industrials,CAD
+PME.AX,Pro Medicus,Australien,159.23,-7.6,-28.1,-47.6,36.3,48.0,-24.3,-47.4,26,107.62,304.06,18.7,Healthcare,AUD
 0285.HK,BYD Electronics,Hongkong,22.98,-14.3,-34.4,-47.5,44.0,13.2,3.2,-44.2,11,20.3,43.77,53.2,Technology,HKD
-ATS.TO,ATS Corporation,Kanada,25.72,-3.7,-32.9,-47.5,33.6,0.0,-37.1,-29.9,0,25.71,48.99,2.8,Industrials,CAD
-SNZ.AX,Summerset Group Holdings,Australien,5.77,-18.5,-44.3,-47.4,20.3,0.0,-19.3,-38.4,0,5.77,10.97,1.6,Healthcare,AUD
-AT1.DE,Aroundtown,Deutschland,1.68,-12.4,-33.7,-47.3,23.4,1.1,-29.7,-46.9,1,1.66,3.18,2.2,Real Estate,EUR
-CSNA3.SA,CSN,Brasilien,5.77,8.5,-33.7,-47.0,48.4,34.8,24.9,-27.4,23,4.28,10.89,6.0,Basic Materials,BRL
-NRG,NRG Energy,USA,97.17,-12.6,-40.9,-46.8,32.2,0.2,-33.2,-41.6,0,97.0,182.82,26.5,Utilities,USD
+CVCB3.SA,CVC Brasil,Brasilien,1.44,-19.1,-34.5,-47.1,44.5,33.3,9.9,-26.5,22,1.08,2.72,0.7,Consumer Cyclical,BRL
+NWL.AX,Netwealth Group,Australien,17.24,-15.2,-32.0,-46.7,32.1,3.3,-28.7,-41.9,4,16.69,32.37,5.9,Technology,AUD
+TRENT.NS,Trent,Indien,2580.0,-9.5,-9.8,-46.5,24.4,17.6,-22.8,-44.8,15,2193.96,4824.87,1588.0,Consumer Cyclical,INR
 9888.HK,Baidu,Hongkong,85.8,-8.4,-40.3,-46.5,37.5,1.1,-22.6,-34.8,1,84.9,160.5,273.5,Communication Services,HKD
-HUB.AX,HUB24,Australien,62.85,-13.8,-33.7,-46.5,20.6,0.0,-24.2,-38.3,0,62.85,117.38,7.1,Financial Services,AUD
-APE.AX,Eagers Automotive,Australien,18.08,-13.0,-24.0,-46.1,29.4,0.0,-14.2,-44.6,0,18.08,33.53,6.6,Consumer Cyclical,AUD
+APE.AX,Eagers Automotive,Australien,17.96,-14.3,-24.5,-46.4,28.7,0.1,-13.2,-44.8,0,17.95,33.53,6.6,Consumer Cyclical,AUD
+SNZ.AX,Summerset Group Holdings,Australien,5.9,-16.3,-43.1,-46.2,29.8,2.3,-19.4,-37.7,3,5.77,10.97,1.6,Healthcare,AUD
 9992.HK,Pop Mart,Hongkong,152.6,-1.7,-19.6,-46.1,46.1,9.5,-0.5,-42.8,9,139.33,283.18,202.1,Consumer Cyclical,HKD
-CIGI.TO,Colliers International Group Inc.,Kanada,127.57,-8.4,-35.9,-45.9,41.4,2.6,-4.1,-41.6,3,124.36,235.7,7.5,Real Estate,CAD
-CVCB3.SA,CVC Brasil,Brasilien,1.49,-19.9,-32.3,-45.2,48.1,38.0,13.7,-24.0,25,1.08,2.72,0.7,Consumer Cyclical,BRL
-BEEF3.SA,Minerva Foods,Brasilien,3.94,3.1,-26.0,-45.1,51.3,29.6,12.3,-36.2,22,3.04,7.18,3.2,Consumer Defensive,BRL
-AUTO.L,Autotrader Group,Grossbritannien,448.1,-15.1,-22.1,-45.1,29.6,4.9,-12.3,-43.1,5,427.14,815.83,4.2,Communication Services,GBp
-AXON,Axon Enterprise,USA,419.58,-30.2,-25.5,-44.8,32.0,21.3,-25.2,-40.8,18,345.94,759.44,49.8,Industrials,USD
-EFX,Equifax,USA,140.83,-27.3,-33.6,-44.5,21.2,0.0,-11.0,-44.0,0,140.83,253.63,21.2,Industrials,USD
-FSLR,First Solar,USA,176.93,-13.5,-35.5,-44.4,36.3,2.8,-25.0,-19.6,3,172.16,318.25,24.2,Technology,USD
-NEM.DE,Nemetschek,Deutschland,61.15,-13.0,-31.6,-44.4,47.8,17.5,9.8,-44.2,16,52.05,109.92,7.1,Technology,EUR
-9501.T,9501,Japan,521.3,-1.3,-27.4,-44.2,45.4,14.5,12.8,-29.5,14,455.1,934.1,828.3,Utilities,JPY
-REG.AX,Regis Healthcare,Australien,4.3,-25.5,-36.0,-44.1,29.4,2.0,-34.9,-32.1,2,4.21,7.69,1.9,Healthcare,AUD
+EFX,Equifax,USA,137.24,-27.4,-35.3,-45.9,19.5,0.0,-15.1,-45.7,0,137.24,253.63,21.2,Industrials,USD
+BEEF3.SA,Minerva Foods,Brasilien,3.9,1.8,-26.8,-45.7,49.1,28.3,11.1,-36.9,21,3.04,7.18,3.2,Consumer Defensive,BRL
+CSNA3.SA,CSN,Brasilien,5.98,4.2,-31.3,-45.1,51.6,39.7,29.4,-24.8,26,4.28,10.89,6.0,Basic Materials,BRL
+PSKY,Paramount Skydance Corporation,USA,10.33,-4.9,-20.5,-45.0,51.1,32.9,2.0,-46.0,23,7.77,18.78,11.3,Communication Services,USD
+FSLR,First Solar,USA,175.16,-13.2,-36.2,-45.0,35.5,1.7,-24.5,-21.6,2,172.16,318.25,24.2,Technology,USD
+RDDT,Reddit,USA,142.44,-3.6,-41.1,-45.0,40.1,16.9,-28.0,-41.1,15,121.84,258.93,0.0,unbekannt,
+NEM.DE,Nemetschek,Deutschland,60.55,-10.8,-32.2,-44.9,46.0,16.3,9.2,-43.5,15,52.05,109.92,7.1,Technology,EUR
+CIGI.TO,Colliers International Group Inc.,Kanada,130.07,-5.7,-34.7,-44.8,46.7,4.6,-6.9,-40.1,5,124.36,235.7,7.5,Real Estate,CAD
+LVS,Las Vegas Sands,USA,37.81,-13.7,-41.0,-44.6,21.4,0.0,-17.7,-30.1,0,37.81,68.29,29.9,Consumer Cyclical,USD
+AUTO.L,Autotrader Group,Grossbritannien,452.8,-10.4,-21.3,-44.5,32.7,6.0,-11.3,-41.5,7,427.14,815.83,4.2,Communication Services,GBp
+HUB.AX,HUB24,Australien,65.13,-11.6,-31.3,-44.5,32.1,3.2,-22.0,-35.8,4,63.09,117.38,7.1,Financial Services,AUD
+AXON,Axon Enterprise,USA,422.52,-25.4,-25.0,-44.4,33.1,22.1,-28.9,-41.0,19,345.94,759.44,49.8,Industrials,USD
+9501.T,9501,Japan,521.7,-3.0,-27.3,-44.1,45.7,14.6,13.1,-26.2,14,455.1,934.1,828.3,Utilities,JPY
 6862.HK,Haidilao,Hongkong,9.32,-16.3,-31.3,-44.0,35.0,2.7,-13.8,-25.0,3,9.08,16.64,61.8,Consumer Cyclical,HKD
-RDDT,Reddit,USA,145.36,-5.0,-39.9,-43.9,42.2,19.3,-16.3,-39.5,17,121.84,258.93,0.0,unbekannt,
-LVS,Las Vegas Sands,USA,38.32,-14.9,-40.2,-43.9,23.0,0.0,-16.5,-27.5,0,38.32,68.29,29.9,Consumer Cyclical,USD
-PLS.AX,PLS Group,Australien,3.78,-27.3,-11.6,-43.5,26.5,47.1,-25.9,50.0,29,2.57,6.68,15.7,Basic Materials,AUD
+NFLX,Netflix,USA,69.58,-14.2,-23.5,-43.9,35.7,2.9,-6.2,-42.3,4,67.6,124.14,325.5,Communication Services,USD
+CIEN,Ciena,USA,351.82,-8.1,43.0,-43.9,47.1,141.5,-23.9,144.1,43,145.67,627.0,60.7,Technology,USD
+TSCO,Tractor Supply,USA,31.29,-10.3,-37.2,-43.7,36.9,8.1,-2.3,-43.5,9,28.94,55.53,18.7,Consumer Cyclical,USD
+PLS.AX,PLS Group,Australien,3.77,-27.5,-11.7,-43.6,30.5,46.3,-21.7,46.9,29,2.58,6.68,15.7,Basic Materials,AUD
 0762.HK,China Unicom,Hongkong,5.45,-3.1,-31.0,-43.5,34.8,0.0,-11.7,-42.0,0,5.45,9.66,193.8,Communication Services,HKD
-NFLX,Netflix,USA,70.3,-14.0,-22.7,-43.4,37.1,4.0,-1.5,-41.9,5,67.6,124.14,325.5,Communication Services,USD
-CIEN,Ciena,USA,354.92,-6.2,44.2,-43.4,48.0,146.3,-27.7,150.1,44,144.12,627.0,60.7,Technology,USD
 1378.HK,China Hongqiao Group,Hongkong,21.54,-7.0,-33.1,-43.4,44.7,7.7,3.2,-14.0,9,20.0,38.07,222.9,Basic Materials,HKD
-ON,ON Semiconductor,USA,75.95,4.6,34.0,-43.3,52.5,69.2,-19.7,51.4,35,44.9,133.93,32.2,Technology,USD
 2331.HK,Li-Ning,Hongkong,12.49,-3.8,-29.5,-43.1,39.7,2.0,-15.6,-26.3,3,12.24,21.96,36.8,Consumer Cyclical,HKD
-ADYEN.AS,Adyen,Niederlande,870.0,-16.9,-37.7,-42.8,38.2,10.8,1.8,-40.2,12,785.2,1521.6,33.5,Technology,EUR
-7974.T,7974,Japan,7933.0,-11.8,-24.1,-42.7,40.9,20.4,14.4,-41.1,19,6589.0,13834.07,10260.6,Communication Services,JPY
+7974.T,7974,Japan,7875.0,-12.9,-24.6,-43.1,39.6,19.5,15.6,-40.5,18,6589.0,13834.07,10260.6,Communication Services,JPY
+PRX.AS,Prosus,Niederlande,35.52,-4.9,-34.0,-42.9,42.3,0.6,-4.0,-42.3,1,35.29,62.19,79.7,Consumer Cyclical,EUR
+PGHN.SW,Partners Group Holding AG,Schweiz,595.4,-11.5,-39.1,-42.7,31.4,0.7,-12.3,-39.5,1,591.0,1039.98,18.8,Financial Services,CHF
 1928.HK,Sands China,Hongkong,11.85,-10.5,-36.3,-42.6,27.5,0.5,-8.8,-41.0,1,11.79,20.66,114.6,Consumer Cyclical,HKD
-HVN.AX,Harvey Norman,Australien,4.22,0.0,-38.0,-42.6,45.3,2.9,-8.7,-42.3,4,4.1,7.36,6.0,Consumer Cyclical,AUD
+T.TO,Telus Corporation,Kanada,11.63,-12.2,-31.2,-42.6,29.0,0.5,-18.4,-42.2,1,11.57,20.26,21.3,Communication Services,CAD
+KGX.DE,KION Group,Deutschland,39.72,-7.3,-42.3,-42.6,42.1,10.1,-8.5,-31.5,11,36.08,69.26,5.5,Industrials,EUR
+HVN.AX,Harvey Norman,Australien,4.22,0.1,-37.9,-42.6,45.9,3.0,-9.3,-41.8,4,4.1,7.36,6.0,Consumer Cyclical,AUD
+ON,ON Semiconductor,USA,76.87,3.8,35.6,-42.6,54.1,71.2,-18.8,54.5,36,44.9,133.93,32.2,Technology,USD
+REG.AX,Regis Healthcare,Australien,4.42,4.9,-34.2,-42.5,34.7,4.9,-31.3,-28.8,6,4.21,7.69,1.9,Healthcare,AUD
+VZLA.TO,Vizsla Silver Corp.,Kanada,5.32,-0.6,-30.0,-42.5,46.0,30.4,12.5,-11.5,24,4.08,9.26,1.8,Basic Materials,CAD
+LYC.AX,Lynas Rare Earths,Australien,12.69,-16.8,3.8,-42.5,29.8,4.1,-25.0,-34.5,5,12.19,22.07,16.5,Basic Materials,AUD
+ADYEN.AS,Adyen,Niederlande,876.6,-12.9,-37.3,-42.4,39.8,11.6,1.7,-39.4,12,785.2,1521.6,33.5,Technology,EUR
+AG.TO,First Majestic Silver Corp.,Kanada,25.12,-9.1,14.1,-42.3,41.7,67.3,-0.5,47.3,35,15.01,43.57,13.2,Basic Materials,CAD
 9988.HK,Alibaba Group,Hongkong,106.6,-3.4,-28.4,-42.3,42.1,19.1,13.3,-32.9,18,89.5,184.89,2299.1,Consumer Cyclical,HKD
-KGX.DE,KION Group,Deutschland,39.97,-9.8,-41.9,-42.3,43.0,10.8,-3.6,-29.4,12,36.08,69.26,5.5,Industrials,EUR
-HII,Huntington Ingalls Industries,USA,259.64,-11.8,-24.9,-42.3,26.7,1.0,-6.8,-5.3,1,257.05,449.68,12.9,Industrials,USD
-AG.TO,First Majestic Silver Corp.,Kanada,25.18,-12.0,14.4,-42.2,41.9,67.7,4.7,46.1,36,15.01,43.57,13.2,Basic Materials,CAD
-PGHN.SW,Partners Group Holding AG,Schweiz,602.2,-11.4,-38.4,-42.1,33.2,1.9,-11.2,-38.5,2,591.0,1039.98,18.8,Financial Services,CHF
-PRX.AS,Prosus,Niederlande,36.06,-5.9,-33.0,-42.0,45.7,2.2,-3.4,-40.8,3,35.29,62.19,79.7,Consumer Cyclical,EUR
-CSAN3.SA,Cosan,Brasilien,3.96,1.5,-24.6,-41.8,59.3,26.5,6.5,-36.4,23,3.13,6.8,13.1,Energy,BRL
-LXS.DE,Lanxess,Deutschland,12.5,-16.4,-28.2,-41.8,30.5,7.9,-17.3,-40.4,9,11.58,21.5,1.3,Basic Materials,EUR
-4519.T,4519,Japan,6066.0,-13.7,-28.1,-41.5,32.2,0.0,-19.9,-7.6,0,6066.0,10362.18,11410.1,Healthcare,JPY
-LNW.AX,Light & Wonder,Australien,107.11,-15.0,-31.3,-41.3,31.6,4.3,-1.5,-17.4,6,102.66,182.5,10.4,Consumer Cyclical,AUD
-RTO.L,Rentokil Initial,Grossbritannien,298.5,-13.7,-32.7,-41.1,21.1,0.0,-31.8,-20.6,0,298.5,506.75,8.8,Industrials,GBp
-7013.T,7013,Japan,2639.5,-4.2,-11.5,-40.9,43.4,20.9,-0.9,13.9,20,2182.95,4468.55,3210.2,Industrials,JPY
-LYC.AX,Lynas Rare Earths,Australien,13.04,-13.8,6.7,-40.9,31.7,7.0,-27.8,-27.8,9,12.19,22.07,16.5,Basic Materials,AUD
-BMW.DE,BMW,Deutschland,54.5,-12.1,-40.2,-40.8,27.3,0.0,-9.5,-32.5,0,54.5,92.11,35.4,Consumer Cyclical,EUR
-NCLH,Norwegian Cruise Line Holdings,USA,14.8,-11.1,-35.0,-40.8,42.1,4.8,-29.9,-40.9,6,14.12,25.02,8.7,Consumer Cyclical,USD
-CPRT,Copart,USA,27.14,-17.7,-28.1,-40.7,30.0,0.0,-3.7,-39.5,0,27.14,45.76,30.5,Industrials,USD
-8830.T,8830,Japan,3138.0,-6.8,-18.5,-40.5,41.2,2.0,-15.4,-0.1,3,3077.63,5270.16,3123.7,Real Estate,JPY
-CYL.AX,Catalyst Metals,Australien,5.74,-13.8,-22.2,-40.5,40.2,21.6,-5.4,-28.8,21,4.72,9.64,1.6,Basic Materials,AUD
-III.L,3i,Grossbritannien,2652.0,-6.2,-17.4,-40.5,44.9,27.4,5.4,-35.1,24,2081.57,4457.57,27.9,unbekannt,GBp
-TYL,Tyler Technologies,USA,316.26,-16.3,-27.4,-40.2,36.0,14.9,8.1,-40.3,16,275.27,529.23,13.5,Technology,USD
+4519.T,4519,Japan,6025.0,-12.8,-28.6,-41.9,31.2,0.0,-20.0,-8.0,0,6025.0,10362.18,11410.1,Healthcare,JPY
+PPTA.TO,Perpetua Resources Corp.,Kanada,29.74,-8.9,-11.6,-41.6,37.8,25.5,-1.8,5.6,22,23.7,50.89,4.4,Basic Materials,CAD
+CYL.AX,Catalyst Metals,Australien,5.64,-18.1,-23.6,-41.5,38.6,19.5,-1.9,-30.9,19,4.72,9.64,1.6,Basic Materials,AUD
+LXS.DE,Lanxess,Deutschland,12.6,-16.2,-27.7,-41.4,32.4,8.8,-18.4,-40.7,10,11.58,21.5,1.3,Basic Materials,EUR
+RTO.L,Rentokil Initial,Grossbritannien,297.2,-16.7,-33.0,-41.4,20.6,0.0,-33.6,-21.2,0,297.2,506.75,8.8,Industrials,GBp
+NCLH,Norwegian Cruise Line Holdings,USA,14.66,-9.2,-35.6,-41.4,40.5,3.8,-29.1,-40.8,5,14.12,25.02,8.7,Consumer Cyclical,USD
+UMG.AS,Universal Music Group,Niederlande,14.27,-0.6,-34.1,-41.3,38.8,1.7,-24.9,-41.5,2,14.02,24.3,27.4,Communication Services,EUR
+CSAN3.SA,Cosan,Brasilien,4.0,0.8,-23.8,-41.2,60.5,27.8,7.5,-35.8,24,3.13,6.8,13.1,Energy,BRL
+USIM5.SA,Usiminas,Brasilien,7.09,-6.6,18.6,-41.1,48.2,67.6,-17.2,60.4,37,4.23,12.04,7.8,Basic Materials,BRL
+III.L,3i,Grossbritannien,2624.0,-6.4,-18.2,-41.1,42.5,26.1,1.5,-36.6,23,2081.57,4457.57,27.9,unbekannt,GBp
+8830.T,8830,Japan,3120.0,-5.4,-19.0,-40.8,39.7,1.4,-15.9,-1.0,2,3077.63,5270.16,3123.7,Real Estate,JPY
+HII,Huntington Ingalls Industries,USA,267.07,-8.3,-22.7,-40.6,37.5,3.9,-3.8,-2.9,5,257.05,449.68,12.9,Industrials,USD
+LNW.AX,Light & Wonder,Australien,108.54,-15.0,-30.4,-40.5,35.4,5.7,-0.8,-15.8,7,102.66,182.5,10.4,Consumer Cyclical,AUD
+CPRT,Copart,USA,27.28,-17.3,-27.8,-40.4,31.3,0.5,-5.2,-38.8,1,27.14,45.76,30.5,Industrials,USD
 0175.HK,Geely Auto,Hongkong,14.55,-17.2,-17.9,-40.2,27.9,0.0,-20.5,-21.4,0,14.55,24.34,192.2,Consumer Cyclical,HKD
-UMG.AS,Universal Music Group,Niederlande,14.62,-0.2,-32.5,-40.1,46.1,4.3,-23.6,-40.8,6,14.02,24.4,27.4,Communication Services,EUR
-INFY.NS,Infosys,Indien,994.1,-14.0,-37.7,-39.9,31.7,0.9,-5.1,-28.5,1,985.3,1654.01,4735.4,Technology,INR
-BESI.AS,BE Semiconductors,Niederlande,192.5,-1.5,29.9,-39.9,49.1,57.7,-26.5,45.0,36,122.03,320.3,18.5,Technology,EUR
-OTEX.TO,Open Text Corporation,Kanada,31.91,-6.7,-24.3,-39.9,45.8,15.0,2.8,-36.6,16,27.75,53.06,8.2,Technology,CAD
-CAR.AX,CAR Group,Australien,22.28,-11.9,-25.3,-39.8,34.6,4.2,-13.0,-39.8,6,21.39,37.0,11.4,Communication Services,AUD
-PPTA.TO,Perpetua Resources Corp.,Kanada,30.69,-11.2,-8.8,-39.7,41.1,29.5,4.2,7.1,26,23.7,50.89,4.4,Basic Materials,CAD
-WIPRO.NS,Wipro,Indien,158.5,-12.8,-38.5,-39.7,29.9,1.1,-9.0,-31.4,2,156.79,262.81,1820.2,Technology,INR
-AIXA.DE,Aixtron,Deutschland,36.46,1.9,86.7,-39.7,50.3,186.3,-21.6,147.9,50,12.73,60.42,4.7,Technology,EUR
-ARE,Alexandria Real Estate Equities,USA,48.47,-6.0,1.9,-39.6,39.4,21.5,-8.3,-38.7,21,39.89,80.24,8.3,Real Estate,USD
-4DX.AX,4DMedical,Australien,4.13,21.8,-9.0,-39.3,56.9,189.8,-5.3,75.0,50,1.42,6.8,2.2,Healthcare,AUD
-EFN.TO,Element Fleet Management Corp.,Kanada,22.65,-13.5,-35.8,-39.3,24.9,0.6,-22.1,-35.6,1,22.51,37.34,11.0,Industrials,CAD
-RMS.PA,Hermès,Frankreich,1352.5,-14.5,-35.1,-39.3,35.7,1.6,-17.9,-36.3,2,1331.5,2227.55,165.1,Consumer Cyclical,EUR
-1801.T,1801,Japan,12120.0,-3.0,-18.7,-39.0,43.9,26.2,-14.4,23.5,25,9605.61,19854.36,2127.3,Industrials,JPY
-AGI.TO,Alamos Gold Inc.,Kanada,46.07,-9.2,-12.3,-38.9,41.2,18.4,7.3,-4.1,20,38.92,75.42,19.4,Basic Materials,CAD
-3697.T,3697,Japan,856.0,-11.1,-10.1,-38.9,46.7,45.3,27.8,-37.7,33,588.99,1401.03,244.4,Technology,JPY
-1803.T,1803,Japan,2110.0,-9.8,-19.9,-38.9,35.4,11.7,-16.1,4.4,14,1888.64,3454.79,1640.6,Industrials,JPY
-FRES.L,Fresnillo plc,Grossbritannien,2724.0,-14.1,-18.7,-38.7,37.7,31.0,-2.5,15.5,27,2079.33,4446.56,21.2,Basic Materials,GBp
-QUAL3.SA,Qualicorp,Brasilien,1.66,7.8,-27.8,-38.7,55.7,19.4,-8.8,-33.3,21,1.39,2.71,0.5,Healthcare,BRL
-MC.PA,LVMH,Frankreich,394.6,-12.9,-37.5,-38.5,30.5,0.0,-20.8,-25.5,0,394.6,641.64,226.0,Consumer Cyclical,EUR
-5214.T,5214,Japan,4977.0,3.8,-19.0,-38.5,54.6,13.3,-23.3,4.5,16,4394.0,8094.66,379.1,Technology,JPY
-6506.T,6506,Japan,4684.0,-2.6,-4.3,-38.4,52.1,55.3,-31.6,56.4,36,3016.35,7598.56,1408.6,Industrials,JPY
-HEI.DE,Heidelberg Materials,Deutschland,144.5,-12.3,-33.6,-38.3,34.6,1.0,-16.2,-23.1,2,143.1,234.32,28.4,Basic Materials,EUR
-DML.TO,Denison Mines Corp.,Kanada,3.69,-21.7,-10.9,-38.2,33.6,15.3,-15.2,-4.9,18,3.2,5.97,4.0,Energy,CAD
-EQX.TO,Equinox Gold Corp.,Kanada,15.8,-11.7,-15.8,-38.1,42.8,30.8,14.6,0.9,28,12.08,25.52,18.8,Basic Materials,CAD
-ORA.AX,Orora,Australien,1.38,-6.6,-34.5,-37.9,39.1,13.6,2.5,-29.1,16,1.22,2.22,1.8,Consumer Cyclical,AUD
-GIL.TO,Gildan Activewear Inc.,Kanada,60.63,-16.1,-28.9,-37.9,34.3,5.6,-16.7,-22.9,8,57.41,97.7,14.4,Consumer Cyclical,CAD
-IVN.TO,Ivanhoe Mines Ltd.,Kanada,11.69,-3.5,-27.1,-37.9,45.1,19.2,5.2,-20.3,21,9.81,18.81,16.3,Basic Materials,CAD
-JBH.AX,JB Hi-Fi,Australien,69.97,5.5,-24.0,-37.8,57.1,8.1,-6.1,-38.7,11,64.74,112.57,8.9,Consumer Cyclical,AUD
-GLW,Corning Inc.,USA,158.71,6.7,76.0,-37.8,53.2,104.5,-37.7,101.8,46,77.62,255.21,142.7,Technology,USD
-MGM,MGM Resorts,USA,31.52,-25.4,-13.6,-37.8,12.9,2.6,-34.1,-11.5,4,30.72,50.69,10.0,Consumer Cyclical,USD
-LDOS,Leidos,USA,123.1,-12.2,-32.3,-37.6,39.3,23.5,19.9,-32.7,24,99.68,197.27,18.1,Technology,USD
-SLR.MC,Solaria,Spanien,16.1,-5.1,-11.5,-37.5,44.0,21.8,-18.1,27.5,23,13.22,25.75,0.0,unbekannt,
-ACN,Accenture,USA,177.12,-6.6,-30.5,-37.4,45.9,44.0,44.0,-24.4,34,122.96,282.71,108.2,Technology,USD
+BESI.AS,BE Semiconductors,Niederlande,191.8,1.4,29.4,-40.1,48.5,57.2,-29.8,47.9,35,122.03,320.3,18.5,Technology,EUR
+OTEX.TO,Open Text Corporation,Kanada,31.84,-2.9,-24.5,-40.0,45.3,14.7,-1.4,-36.2,16,27.75,53.06,8.2,Technology,CAD
+ARE,Alexandria Real Estate Equities,USA,47.46,-6.1,1.2,-40.0,38.5,20.8,-9.1,-39.5,21,39.29,79.05,8.3,Real Estate,USD
+RMS.PA,Hermès,Frankreich,1336.5,-13.4,-35.8,-40.0,33.7,0.4,-18.6,-37.5,1,1331.5,2227.55,165.1,Consumer Cyclical,EUR
+AGI.TO,Alamos Gold Inc.,Kanada,45.36,-6.4,-13.7,-39.9,39.2,16.6,1.3,-6.1,18,38.92,75.42,19.4,Basic Materials,CAD
+BMW.DE,BMW,Deutschland,55.32,-9.6,-39.3,-39.9,32.4,1.5,-8.7,-31.8,2,54.5,92.11,35.4,Consumer Cyclical,EUR
+EFN.TO,Element Fleet Management Corp.,Kanada,22.49,-13.6,-36.2,-39.8,24.1,0.0,-22.7,-36.3,0,22.49,37.34,11.0,Industrials,CAD
+GLW,Corning Inc.,USA,153.76,3.4,70.5,-39.8,49.3,98.1,-30.2,93.2,43,77.62,255.21,142.7,Technology,USD
+EQX.TO,Equinox Gold Corp.,Kanada,15.39,-9.0,-18.0,-39.7,40.3,27.4,7.2,-0.9,25,12.08,25.52,18.8,Basic Materials,CAD
+HEI.DE,Heidelberg Materials,Deutschland,141.75,-13.8,-34.8,-39.5,31.3,0.0,-19.4,-24.5,0,141.75,234.32,28.4,Basic Materials,EUR
+QUAL3.SA,Qualicorp,Brasilien,1.64,10.8,-28.6,-39.4,53.8,18.0,-9.9,-34.1,19,1.39,2.71,0.5,Healthcare,BRL
+STN.TO,Stantec Inc.,Kanada,95.39,-4.2,-27.3,-39.4,40.3,1.7,-3.6,-35.9,3,93.75,157.38,11.5,Industrials,CAD
+DML.TO,Denison Mines Corp.,Kanada,3.62,-19.2,-12.6,-39.4,31.9,13.1,-19.9,-5.5,15,3.2,5.97,4.0,Energy,CAD
+TPL,Texas Pacific Land Corporation,USA,325.83,-12.8,9.8,-39.4,35.1,19.6,-21.4,6.8,20,272.4,538.1,24.7,Energy,USD
+EBO.AX,EBOS Group,Australien,15.04,-10.6,-33.0,-39.3,24.4,0.0,-13.5,-39.6,0,15.04,24.8,3.6,Healthcare,AUD
+7013.T,7013,Japan,2713.5,1.6,-9.0,-39.3,48.3,24.3,0.5,22.0,23,2182.95,4468.55,3210.2,Industrials,JPY
+MC.PA,LVMH,Frankreich,390.0,-12.4,-38.2,-39.2,28.4,0.0,-21.3,-27.7,0,390.0,641.64,226.0,Consumer Cyclical,EUR
+TYL,Tyler Technologies,USA,318.6,-14.4,-26.9,-39.1,37.9,15.7,5.6,-39.8,17,275.27,523.16,13.5,Technology,USD
+GIL.TO,Gildan Activewear Inc.,Kanada,59.58,-14.6,-30.1,-39.0,32.5,3.8,-18.0,-24.6,5,57.41,97.7,14.4,Consumer Cyclical,CAD
+TOM.OL,Tomra Systems,Norwegen,91.6,-14.3,-31.7,-39.0,35.0,1.8,-7.5,-37.2,3,90.0,150.08,31.7,Industrials,NOK
+1803.T,1803,Japan,2113.5,-9.9,-19.8,-38.8,35.6,11.9,-15.6,5.6,14,1888.64,3454.79,1640.6,Industrials,JPY
+MDA.TO,MDA Space Ltd.,Kanada,41.15,4.2,48.9,-38.7,42.6,92.0,-28.7,18.7,43,21.43,67.13,7.9,Industrials,CAD
+MGM,MGM Resorts,USA,31.05,-24.9,-14.9,-38.7,12.3,1.1,-34.7,-15.0,2,30.72,50.69,10.0,Consumer Cyclical,USD
+CAR.AX,CAR Group,Australien,22.08,-12.8,-26.0,-38.6,34.0,3.2,-16.2,-40.3,5,21.39,35.98,11.4,Communication Services,AUD
+FRES.L,Fresnillo plc,Grossbritannien,2728.0,-9.5,-18.6,-38.6,38.0,31.2,-5.2,15.9,27,2079.33,4446.56,21.2,Basic Materials,GBp
+ORA.AX,Orora,Australien,1.37,-7.6,-35.2,-38.6,37.4,12.4,-0.4,-29.5,15,1.22,2.22,1.8,Consumer Cyclical,AUD
+1801.T,1801,Japan,12215.0,-1.3,-18.1,-38.5,45.4,27.2,-12.9,25.2,25,9605.61,19854.36,2127.3,Industrials,JPY
+LDOS,Leidos,USA,121.83,-12.8,-33.0,-38.2,37.4,22.2,18.6,-33.6,23,99.68,197.27,18.1,Technology,USD
+7201.T,7201,Japan,286.9,-12.7,-26.9,-38.1,30.4,0.0,-4.4,-22.2,0,286.9,463.8,1153.8,Consumer Cyclical,JPY
+LII,Lennox International,USA,355.02,-6.9,-28.2,-37.8,32.4,0.0,-37.6,-30.8,0,355.02,570.79,14.6,Industrials,USD
+ILU.AX,Iluka Resources,Australien,5.72,-15.1,-1.7,-37.8,32.5,16.8,-12.8,-22.3,19,4.9,9.2,3.1,Basic Materials,AUD
+LEN,Lennar,USA,81.59,-3.0,-20.5,-37.7,48.7,6.8,-5.7,-34.8,9,76.43,131.06,20.9,Consumer Cyclical,USD
+GQG.AX,GQG Partners,Australien,1.13,-8.9,-29.4,-37.5,43.5,8.7,-18.8,-25.1,12,1.04,1.81,4.3,Financial Services,AUD
+IVN.TO,Ivanhoe Mines Ltd.,Kanada,11.77,3.2,-26.6,-37.4,46.4,20.0,10.0,-20.3,22,9.81,18.81,16.3,Basic Materials,CAD
+INFY.NS,Infosys,Indien,1035.0,-9.2,-35.1,-37.4,44.9,5.0,-0.7,-25.5,7,985.3,1654.01,4735.4,Technology,INR
+6506.T,6506,Japan,4763.0,-0.4,-2.7,-37.3,55.0,57.6,-31.7,57.9,38,3022.27,7598.56,1408.6,Industrials,JPY
 2618.HK,JD Logistics,Hongkong,10.06,-8.3,-14.9,-37.3,26.2,0.2,-17.5,-27.5,0,10.04,16.05,74.9,Industrials,HKD
-MDA.TO,MDA Space Ltd.,Kanada,42.15,5.3,52.6,-37.2,46.6,96.7,-28.1,20.0,45,21.43,67.13,7.9,Industrials,CAD
-ADSK,Autodesk,USA,203.18,-22.1,-29.1,-37.2,33.3,8.2,4.5,-37.1,11,187.72,323.43,53.1,Technology,USD
-LII,Lennox International,USA,360.16,-8.4,-27.4,-37.1,34.2,0.3,-37.1,-30.3,1,359.08,572.95,14.6,Industrials,USD
-6526.T,6526,Japan,2142.0,8.1,-3.4,-37.1,57.9,26.6,-13.9,-25.9,26,1691.63,3407.66,371.4,Industrials,JPY
-GQG.AX,GQG Partners,Australien,1.14,-7.9,-28.9,-37.1,44.1,9.3,-18.8,-25.0,13,1.04,1.81,4.3,Financial Services,AUD
-EBO.AX,EBOS Group,Australien,15.67,-7.4,-30.2,-37.0,32.4,1.4,-9.0,-38.0,2,15.45,24.88,3.6,Healthcare,AUD
-EDR.TO,Endeavour Silver Corp.,Kanada,12.2,-17.8,-1.7,-36.9,37.5,22.2,3.7,10.6,24,9.98,19.33,4.4,Basic Materials,CAD
-7201.T,7201,Japan,293.2,-8.7,-25.3,-36.8,33.9,0.0,-2.9,-19.2,0,293.2,463.8,1153.8,Consumer Cyclical,JPY
+5214.T,5214,Japan,5074.0,4.6,-17.4,-37.3,58.9,15.5,-22.5,7.5,18,4394.0,8094.66,379.1,Technology,JPY
+AIXA.DE,Aixtron,Deutschland,37.92,8.3,94.1,-37.2,55.9,197.8,-23.1,164.1,53,12.73,60.42,4.7,Technology,EUR
+VNA.DE,Vonovia,Deutschland,17.0,-11.0,-25.1,-37.2,28.1,0.0,-24.1,-32.4,0,17.0,27.08,17.5,Real Estate,EUR
+3697.T,3697,Japan,881.5,-7.8,-7.4,-37.1,52.1,49.7,31.3,-36.1,36,588.99,1401.03,244.4,Technology,JPY
+EDR.TO,Endeavour Silver Corp.,Kanada,12.16,-14.6,-2.0,-37.1,37.2,21.8,0.2,11.6,23,9.98,19.33,4.4,Basic Materials,CAD
+ECHO,EchoStar,USA,89.41,3.4,-20.3,-36.9,44.7,33.6,-11.4,21.4,30,66.93,141.8,26.7,Communication Services,USD
+PDN.AX,Paladin Energy,Australien,9.18,-18.5,-9.4,-36.9,36.0,23.2,-3.5,6.6,24,7.45,14.54,4.6,Energy,AUD
+JUN3.DE,Jungheinrich,Deutschland,23.84,-6.5,-33.1,-36.8,38.8,8.0,-3.4,-19.4,11,22.08,37.71,2.5,Industrials,EUR
+CEG,Constellation Energy,USA,254.02,-7.6,-30.3,-36.8,38.6,7.6,7.6,-23.6,11,236.14,401.7,100.1,Utilities,USD
+LHX,L3Harris,USA,236.78,-10.6,-21.3,-36.7,23.7,0.1,-18.6,-18.9,0,236.47,373.85,54.3,Industrials,USD
 AMRZ.SW,Amrize AG,Schweiz,31.37,-10.7,-28.6,-36.7,33.3,1.2,-27.1,-15.5,2,31.0,49.56,20.7,Basic Materials,CHF
-LHX,L3Harris,USA,236.47,-9.6,-21.4,-36.7,22.9,0.0,-18.2,-18.1,0,236.47,373.85,54.3,Industrials,USD
-LEN,Lennar,USA,83.01,-3.8,-19.1,-36.7,52.3,8.6,-7.7,-32.8,12,76.43,131.06,20.9,Consumer Cyclical,USD
-NXT.AX,NextDC,Australien,10.77,-15.3,-14.1,-36.7,31.6,0.0,-19.1,-36.4,0,10.77,17.01,0.0,unbekannt,
-JUN3.DE,Jungheinrich,Deutschland,23.86,-9.8,-33.0,-36.7,38.9,8.1,1.1,-18.3,11,22.08,37.71,2.5,Industrials,EUR
-ECHO,EchoStar,USA,89.89,3.5,-19.9,-36.6,46.0,34.3,-11.4,22.4,31,66.93,141.8,26.7,Communication Services,USD
-3436.T,3436,Japan,3370.0,-1.9,133.2,-36.5,55.4,193.3,-12.2,135.6,53,1148.9,5307.0,1371.0,Technology,JPY
-5332.T,5332,Japan,5863.0,-6.6,36.6,-36.4,44.5,57.8,-30.2,50.5,39,3714.55,9219.41,1090.5,Industrials,JPY
-BRO,Brown & Brown,USA,60.6,-17.3,-21.3,-36.2,28.8,11.7,-5.3,-34.8,16,54.25,95.04,23.6,Financial Services,USD
-4755.T,4755,Japan,675.3,-14.7,-32.7,-36.1,34.3,0.0,-5.5,-30.7,0,675.3,1056.0,1666.6,Consumer Cyclical,JPY
-IGO.AX,IGO,Australien,6.38,-22.8,-21.8,-36.0,29.1,29.4,-13.7,23.4,29,4.93,9.97,6.0,Basic Materials,AUD
-ILU.AX,Iluka Resources,Australien,5.9,-11.8,1.4,-35.9,36.3,20.5,-13.9,-16.2,23,4.9,9.2,3.1,Basic Materials,AUD
-PCG,PG&E Corporation,USA,12.18,-26.6,-24.7,-35.9,29.5,1.9,-27.6,-17.8,3,11.95,19.0,0.0,unbekannt,
-ABRA.TO,AbraSilver Resource Corp.,Kanada,12.21,-22.3,15.3,-35.8,36.2,112.0,-14.7,70.1,49,5.76,19.02,0.0,unbekannt,
-7012.T,7012,Japan,2324.0,-10.7,5.3,-35.8,36.1,31.6,-19.4,26.7,30,1765.91,3621.35,2488.2,Industrials,JPY
-DECK,Deckers Brands,USA,77.68,-11.5,-27.3,-35.8,33.8,0.2,-21.8,-26.6,0,77.51,120.94,12.7,Consumer Cyclical,USD
+MOS,Mosaic Company (The),USA,21.65,-9.5,-11.1,-36.6,34.6,10.2,2.5,-35.3,14,19.65,34.16,6.9,Basic Materials,USD
+NXT.AX,NextDC,Australien,10.69,-14.7,-14.7,-36.6,32.1,0.9,-22.5,-37.1,2,10.6,16.86,0.0,unbekannt,
+NOC,Northrop Grumman,USA,483.48,-10.4,-16.4,-36.5,26.8,0.0,-6.6,-17.3,0,483.48,761.19,83.2,Industrials,USD
+4755.T,4755,Japan,671.1,-13.5,-33.2,-36.4,33.3,0.0,-10.9,-32.2,0,671.1,1056.0,1666.6,Consumer Cyclical,JPY
+JBH.AX,JB Hi-Fi,Australien,71.17,7.0,-22.7,-36.4,61.0,9.9,-6.0,-36.8,14,64.74,111.93,8.9,Consumer Cyclical,AUD
+CRH,CRH plc,USA,82.8,-12.2,-33.8,-36.3,32.3,0.0,-21.0,-26.9,0,82.8,129.92,64.6,Basic Materials,USD
+SLR.MC,Solaria,Spanien,16.41,-3.2,-9.9,-36.3,46.6,20.7,-17.6,24.1,23,13.6,25.75,0.0,unbekannt,
+ITC.NS,ITC,Indien,255.9,-3.9,-26.2,-36.3,36.3,0.2,-11.2,-33.2,0,255.5,401.99,3485.8,Consumer Defensive,INR
+ABRA.TO,AbraSilver Resource Corp.,Kanada,12.13,-17.4,14.5,-36.2,35.7,110.6,-17.1,61.1,48,5.76,19.02,0.0,unbekannt,
+BRO,Brown & Brown,USA,60.9,-15.6,-20.9,-35.9,30.5,12.2,-9.4,-33.9,16,54.25,95.04,23.6,Financial Services,USD
+VRT,Vertiv,USA,241.31,-6.7,37.5,-35.8,42.9,61.2,-22.5,68.6,40,149.73,376.06,113.1,Industrials,USD
+EVD.DE,CTS Eventim,Deutschland,52.95,-7.8,-30.2,-35.8,36.2,11.0,-7.8,-35.5,15,47.69,82.52,5.6,Communication Services,EUR
+KKR,KKR & Co.,USA,91.3,-16.8,-28.8,-35.7,31.0,9.3,-1.2,-31.6,13,83.56,141.96,105.3,Financial Services,USD
+6526.T,6526,Japan,2194.5,11.1,-1.0,-35.6,60.6,29.7,-13.0,-20.2,29,1691.63,3407.66,371.4,Industrials,JPY
 0700.HK,Tencent Holdings Limited,Hongkong,431.0,-2.4,-30.0,-35.6,45.4,4.7,-0.0,-32.1,7,411.8,669.7,3965.4,Communication Services,HKD
-FLT.AX,Flight Centre Travel Group,Australien,10.23,-9.2,-29.2,-35.4,32.2,9.3,-14.8,-10.9,13,9.36,15.83,2.6,Consumer Cyclical,AUD
-1812.T,1812,Japan,4836.0,1.6,-17.1,-35.3,46.2,18.8,-16.3,11.5,23,4071.16,7468.81,2275.7,Industrials,JPY
-PDN.AX,Paladin Energy,Australien,9.42,-15.2,-7.0,-35.2,37.9,26.4,-5.0,9.9,28,7.45,14.54,4.6,Energy,AUD
-ADBE,Adobe Inc.,USA,233.17,-20.0,-30.0,-35.2,36.4,20.6,13.7,-35.3,24,193.41,359.91,104.9,Technology,USD
-G24.DE,Scout24,Deutschland,67.1,-15.9,-18.9,-35.1,30.1,8.2,-9.9,-35.8,12,62.03,103.46,5.4,Communication Services,EUR
-PAH3.DE,Porsche SE,Deutschland,25.32,-11.2,-34.1,-35.0,32.1,0.3,-8.8,-20.2,1,25.25,38.97,8.5,Consumer Cyclical,EUR
-5801.T,5801,Japan,3904.0,0.3,274.0,-34.9,52.2,353.4,-11.4,334.7,59,861.08,5996.52,2854.1,Industrials,JPY
-CRH,CRH plc,USA,84.53,-11.8,-32.4,-34.9,35.6,0.9,-20.7,-24.8,2,83.75,129.92,64.6,Basic Materials,USD
-LOV.AX,Lovisa,Australien,24.32,2.7,-13.7,-34.8,54.3,21.7,9.7,-32.9,25,19.98,37.3,2.7,Consumer Cyclical,AUD
-KLAC,KLA Corporation,USA,196.53,12.0,54.8,-34.8,61.0,101.1,-34.8,85.7,49,97.75,301.37,266.2,Technology,USD
-ITC.NS,ITC,Indien,262.75,-1.4,-24.3,-34.6,44.1,2.8,-9.4,-32.3,5,255.5,401.99,3485.8,Consumer Defensive,INR
-CASY,Casey's,USA,599.9,-20.6,8.1,-34.5,29.5,17.2,-24.5,9.9,22,511.97,915.59,0.0,unbekannt,
-MOS,Mosaic Company (The),USA,22.42,-4.2,-7.9,-34.4,38.5,14.1,6.7,-34.2,19,19.65,34.16,6.9,Basic Materials,USD
-2413.T,2413,Japan,1772.5,-4.4,-13.3,-34.4,52.1,34.9,-3.1,-22.5,33,1313.5,2700.44,1133.0,Healthcare,JPY
-KKR,KKR & Co.,USA,93.18,-14.3,-27.3,-34.4,33.6,11.5,1.7,-30.0,16,83.56,141.96,105.3,Financial Services,USD
-CLX,Clorox,USA,81.6,-20.4,-16.2,-34.3,31.4,0.2,-13.5,-31.3,0,81.42,124.13,0.0,unbekannt,
+TRI.TO,Thomson Reuters Corporation,Kanada,141.54,-4.3,-15.4,-35.5,52.3,32.2,12.5,-31.7,31,107.1,219.4,62.2,Industrials,CAD
+2413.T,2413,Japan,1744.0,-4.9,-14.7,-35.4,48.6,32.8,-3.9,-25.0,31,1313.5,2700.44,1133.0,Healthcare,JPY
+DECK,Deckers Brands,USA,78.14,-10.3,-26.8,-35.4,35.6,0.8,-22.1,-24.3,1,77.51,120.94,12.7,Consumer Cyclical,USD
+ADSK,Autodesk,USA,209.0,-19.2,-27.1,-35.4,39.2,11.3,4.6,-35.1,16,187.72,323.43,53.1,Technology,USD
+PCG,PG&E Corporation,USA,12.25,-7.3,-24.0,-35.3,31.4,2.9,-25.8,-17.5,5,11.9,18.92,0.0,unbekannt,
+IGO.AX,IGO,Australien,6.45,-22.8,-21.0,-35.3,32.2,30.8,-10.0,24.6,30,4.93,9.97,6.0,Basic Materials,AUD
+KLAC,KLA Corporation,USA,194.93,11.1,53.5,-35.3,59.2,99.4,-26.7,84.2,48,97.75,301.37,266.2,Technology,USD
+TCS.NS,Tata Consultancy Services,Indien,2075.0,-11.6,-33.3,-35.2,36.0,5.2,1.4,-25.2,8,1971.79,3204.28,8542.3,Technology,INR
+LOW,Lowe's,USA,184.29,-10.0,-24.2,-35.2,28.6,0.0,-16.4,-25.8,0,184.29,284.26,122.6,Consumer Cyclical,USD
+TVK.TO,TerraVest Industries Inc.,Kanada,112.57,-2.9,-31.2,-35.2,43.0,4.2,-5.2,-18.7,7,108.02,173.63,2.8,Energy,CAD
+FLT.AX,Flight Centre Travel Group,Australien,10.28,-7.9,-28.8,-35.1,33.8,9.8,-16.1,-9.5,14,9.36,15.83,2.6,Consumer Cyclical,AUD
+ACN,Accenture,USA,183.37,-3.4,-28.0,-35.1,52.3,49.1,41.5,-24.2,38,122.96,282.71,108.2,Technology,USD
+SGP.AX,Stockland,Australien,4.14,-6.9,-25.1,-35.0,46.7,15.8,6.6,-29.8,20,3.58,6.38,10.5,Real Estate,AUD
+7012.T,7012,Japan,2355.5,-8.0,6.7,-35.0,38.9,33.4,-18.7,31.4,32,1765.91,3621.35,2488.2,Industrials,JPY
+WAM.AX,WAM Capital,Australien,1.15,-6.5,-33.0,-35.0,31.9,3.1,-27.1,-33.8,5,1.12,1.78,0.0,unbekannt,
+DASH,DoorDash,USA,183.55,-20.8,-16.5,-34.9,37.1,25.2,-2.8,-32.6,27,146.6,281.74,94.0,Consumer Cyclical,USD
+CLX,Clorox,USA,81.01,-17.1,-16.8,-34.7,30.6,0.0,-15.0,-31.1,0,81.01,124.13,0.0,unbekannt,
+G24.DE,Scout24,Deutschland,67.0,-14.3,-19.1,-34.6,29.9,8.0,-8.2,-35.2,12,62.03,102.38,5.4,Communication Services,EUR
+LOV.AX,Lovisa,Australien,24.38,6.8,-13.5,-34.6,54.7,22.0,9.0,-32.1,25,19.98,37.3,2.7,Consumer Cyclical,AUD
+CVNA,Carvana,USA,62.54,-14.9,-21.9,-34.6,40.0,11.2,-7.9,-20.4,16,56.26,95.69,112.5,Consumer Cyclical,USD
+NXG.AX,Nexgen Energy,Australien,12.8,-10.5,-10.5,-34.4,36.4,8.3,-5.6,-3.4,13,11.82,19.52,9.6,Energy,AUD
+BAB.L,Babcock International,Grossbritannien,987.0,-3.6,-22.5,-34.3,42.3,7.2,-6.6,-22.9,11,920.96,1501.94,5.7,Industrials,GBp
+PAH3.DE,Porsche SE,Deutschland,25.61,-9.6,-33.3,-34.3,35.1,1.4,-9.5,-20.0,3,25.25,38.97,8.5,Consumer Cyclical,EUR
 0288.HK,WH Group,Hongkong,6.62,-9.4,-18.2,-34.3,39.6,3.7,-22.7,-14.1,6,6.39,10.07,101.2,Consumer Defensive,HKD
-KER.PA,Kering,Frankreich,223.55,-12.0,-25.5,-34.2,35.8,0.1,-11.5,-20.9,0,223.35,339.76,32.9,Consumer Cyclical,EUR
-CEG,Constellation Energy,USA,264.58,-4.4,-27.4,-34.1,45.8,12.0,6.7,-19.7,17,236.14,401.7,100.1,Utilities,USD
-LOW,Lowe's,USA,187.26,-10.0,-23.0,-34.1,31.6,0.0,-14.5,-25.7,0,187.26,284.26,122.6,Consumer Cyclical,USD
-5803.T,5803,Japan,5179.0,-2.6,69.9,-33.8,53.2,134.5,-11.7,125.9,53,2208.41,7824.89,9379.5,Industrials,JPY
-NOC,Northrop Grumman,USA,504.61,-7.1,-12.8,-33.7,35.0,2.2,-0.5,-13.7,4,493.77,761.19,83.2,Industrials,USD
-BPT.AX,Beach Energy,Australien,0.86,-4.5,-24.5,-33.7,48.3,6.1,3.6,-23.5,10,0.81,1.29,2.0,Energy,AUD
-K.TO,Kinross Gold Corporation,Kanada,34.3,-19.2,-11.3,-33.7,35.2,8.9,2.3,1.7,14,31.49,51.72,44.9,Basic Materials,CAD
-DASH,DoorDash,USA,187.1,-21.0,-14.9,-33.6,39.3,27.6,1.4,-28.7,30,146.6,281.74,94.0,Consumer Cyclical,USD
-EXPN.L,Experian,Grossbritannien,2472.0,-18.8,-25.8,-33.6,26.4,4.1,-2.8,-33.3,7,2374.67,3721.3,25.5,Industrials,GBp
-GDDY,GoDaddy,USA,94.06,-3.7,-20.6,-33.6,45.6,25.4,10.8,-33.5,29,74.99,141.67,12.0,Technology,USD
-GEN,Gen Digital,USA,20.85,-32.8,-18.8,-33.6,19.4,17.7,-15.9,-26.2,23,17.72,31.41,0.0,unbekannt,
-CVNA,Carvana,USA,63.62,-14.1,-20.5,-33.5,41.8,13.1,-3.3,-13.9,19,56.26,95.69,112.5,Consumer Cyclical,USD
-BAB.L,Babcock International,Grossbritannien,999.0,-5.4,-21.5,-33.5,45.1,8.5,-0.2,-24.9,13,920.96,1501.94,5.7,Industrials,GBp
+1812.T,1812,Japan,4912.0,3.1,-15.8,-34.2,49.7,20.7,-15.1,14.9,25,4071.16,7468.81,2275.7,Industrials,JPY
+KER.PA,Kering,Frankreich,223.4,-9.6,-25.5,-34.2,35.7,0.0,-10.1,-23.9,0,223.35,339.76,32.9,Consumer Cyclical,EUR
+ACS.MC,ACS,Spanien,91.05,-10.6,8.5,-34.2,32.0,32.9,-26.9,33.0,32,68.5,138.35,0.0,unbekannt,
+7532.T,7532,Japan,690.6,-14.4,-24.1,-34.2,26.8,0.0,-16.1,-30.8,0,690.6,1050.14,0.0,unbekannt,
+4DX.AX,4DMedical,Australien,4.48,30.2,-1.3,-34.1,65.2,214.4,1.4,99.1,57,1.42,6.8,2.2,Healthcare,AUD
+MKC,McCormick & Company,USA,46.4,-14.4,-29.8,-34.1,26.8,2.7,-11.5,-28.3,5,45.19,70.38,14.7,Consumer Defensive,USD
+TIMS3.SA,TIM Brasil,Brasilien,18.22,-1.7,-13.7,-34.1,34.7,2.7,-18.6,-14.2,5,17.74,27.65,43.3,Communication Services,BRL
+AZO,AutoZone,USA,2830.02,-5.4,-14.3,-34.0,42.0,1.0,-12.1,-33.8,2,2803.25,4290.24,49.4,Consumer Cyclical,USD
+AKAM,Akamai Technologies,USA,106.35,-2.1,25.0,-34.0,44.5,47.8,-5.7,39.5,39,71.97,161.14,18.0,Technology,USD
+VST,Vistra Corp.,USA,138.35,0.9,-15.9,-34.0,43.7,3.0,-9.5,-29.7,5,134.3,209.63,49.7,Utilities,USD
+5332.T,5332,Japan,6093.0,-3.9,41.9,-33.9,54.5,64.0,-28.5,57.4,43,3714.55,9219.41,1090.5,Industrials,JPY
+MSB.AX,Mesoblast,Australien,2.03,-14.7,-26.7,-33.9,38.4,7.7,-0.5,-21.6,12,1.88,3.07,2.9,Healthcare,AUD
+BPT.AX,Beach Energy,Australien,0.85,-2.1,-24.8,-33.9,48.5,5.7,3.8,-23.8,10,0.81,1.29,2.0,Energy,AUD
+K.TO,Kinross Gold Corporation,Kanada,34.22,-16.2,-11.5,-33.8,35.0,8.7,-2.1,-0.4,13,31.49,51.72,44.9,Basic Materials,CAD
+3436.T,3436,Japan,3521.0,3.6,143.6,-33.7,59.7,206.5,-12.6,151.5,57,1148.9,5307.0,1371.0,Technology,JPY
+AAUC.TO,Allied Gold Corporation,Kanada,28.99,-8.7,-8.4,-33.7,40.2,40.0,-16.9,19.2,36,20.7,43.7,4.4,Basic Materials,CAD
+SJ.TO,Stella-Jones Inc.,Kanada,65.62,-3.6,-22.8,-33.7,33.9,0.0,-17.4,-16.0,0,65.62,98.91,4.0,Basic Materials,CAD
+OGC.TO,OceanaGold Corporation,Kanada,38.33,-1.7,-0.2,-33.6,43.5,30.1,3.9,30.3,31,29.47,57.72,8.8,Basic Materials,CAD
+CASY,Casey's,USA,608.46,-19.1,9.6,-33.5,33.0,18.8,-22.4,8.8,24,511.97,915.59,0.0,unbekannt,
+MARUTI.NS,Maruti Suzuki,Indien,11386.0,-11.4,-31.2,-33.5,21.8,0.0,-20.4,-28.3,0,11386.0,17120.06,4304.2,Consumer Cyclical,INR
 0981.HK,Semiconductor Manufacturing International Corporation,Hongkong,60.65,-11.9,-19.2,-33.4,36.8,19.6,-21.8,-13.0,25,50.7,91.05,606.1,Technology,HKD
-EIX,Edison International,USA,53.56,-23.7,-8.7,-33.4,36.3,6.8,-27.2,2.7,11,50.16,80.38,0.0,unbekannt,
-VRSK,Verisk Analytics,USA,165.94,-13.2,-24.3,-33.4,33.7,6.4,-7.3,-32.2,11,156.0,249.01,23.8,Industrials,USD
-HDFCLIFE.NS,HDFC Life,Indien,523.55,-3.6,-30.0,-33.3,42.6,1.9,-8.4,-31.3,4,514.0,784.75,1163.8,Financial Services,INR
-CTSH,Cognizant,USA,56.84,-11.2,-28.8,-33.3,41.4,47.6,47.6,-13.2,39,38.5,85.16,27.8,Technology,USD
-HAG.DE,Hensoldt,Deutschland,75.48,-11.9,-0.6,-33.3,35.3,17.3,-1.9,-31.1,23,64.34,113.1,10.3,Industrials,EUR
 1211.HK,BYD Company,Hongkong,75.6,-14.3,-23.1,-33.3,26.1,4.3,-10.1,-33.1,8,72.45,113.36,804.6,Consumer Cyclical,HKD
-PTC,PTC Inc.,USA,137.56,-12.5,-19.1,-33.2,47.5,22.5,21.1,-32.2,27,112.33,205.87,16.2,Technology,USD
-NXG.AX,Nexgen Energy,Australien,13.03,-6.0,-8.8,-33.2,39.4,10.3,-6.2,-3.1,16,11.82,19.52,9.6,Energy,AUD
-ACS.MC,ACS,Spanien,92.45,-9.5,10.1,-33.2,34.5,35.1,-24.8,34.6,34,68.45,138.35,0.0,unbekannt,
-6146.T,6146,Japan,58990.0,-0.3,16.5,-33.1,59.0,40.2,-25.6,34.2,37,42077.41,88201.88,7101.4,Technology,JPY
-XYL,Xylem Inc.,USA,100.93,-9.3,-25.6,-33.1,27.6,0.0,-14.3,-28.4,0,100.91,150.84,27.9,Industrials,USD
-5802.T,5802,Japan,2319.5,7.3,41.0,-33.0,60.2,131.3,-19.2,124.2,54,1002.88,3461.1,7443.6,Consumer Cyclical,JPY
-AZO,AutoZone,USA,2875.97,-2.9,-13.0,-33.0,46.0,2.6,-10.0,-31.5,5,2803.25,4290.24,49.4,Consumer Cyclical,USD
-6981.T,6981,Japan,8186.0,11.2,149.2,-32.9,59.3,221.9,-23.4,218.4,58,2542.88,12196.43,14990.3,Technology,JPY
-CNA.L,Centrica,Grossbritannien,146.6,-5.7,-15.9,-32.9,39.6,0.0,-12.6,-12.0,0,146.55,218.63,7.2,Utilities,GBp
-COO,Cooper Companies (The),USA,56.63,-20.4,-30.2,-32.8,35.4,6.3,-21.0,-16.2,11,53.27,84.32,0.0,unbekannt,
-7532.T,7532,Japan,705.5,-12.8,-22.5,-32.8,29.8,0.0,-14.6,-30.3,0,705.5,1050.14,0.0,unbekannt,
-IBM,IBM,USA,219.99,-6.6,-23.0,-32.7,37.2,7.7,-21.2,-20.6,13,204.3,326.89,220.8,Technology,USD
-AKAM,Akamai Technologies,USA,108.45,0.9,27.4,-32.7,46.9,50.7,-8.3,42.6,41,71.97,161.14,18.0,Technology,USD
-BX,Blackstone Inc.,USA,114.0,-19.9,-26.0,-32.7,27.4,13.8,-2.1,-32.3,20,100.16,169.27,172.0,Financial Services,USD
-DOW,Dow Inc.,USA,27.61,-8.5,17.6,-32.6,35.8,40.3,2.1,26.2,37,19.68,40.97,22.4,Basic Materials,USD
-IFX.DE,Infineon Technologies,Deutschland,59.3,5.3,56.2,-32.6,54.1,88.5,-22.3,80.0,49,31.45,88.0,80.2,Technology,EUR
-PMV.AX,Premier Investments,Australien,12.13,5.2,-9.3,-32.6,60.3,11.3,-11.9,-33.1,17,10.9,18.01,2.0,Consumer Cyclical,AUD
-GGP.AX,Greatland Resources,Australien,10.28,-7.4,-2.7,-32.5,37.1,50.5,-12.8,38.9,41,6.83,15.23,8.1,Basic Materials,AUD
-6594.T,6594,Japan,1960.0,-25.4,-6.3,-32.4,29.4,4.1,-24.9,-26.6,8,1883.0,2899.0,0.0,unbekannt,
-PNI.AX,Pinnacle Investment Management,Australien,13.37,-6.4,-19.0,-32.4,37.7,7.0,-24.2,-25.2,12,12.49,19.77,0.0,unbekannt,
+ADBE,Adobe Inc.,USA,239.94,-18.1,-28.0,-33.3,42.2,24.1,13.7,-33.2,28,193.41,359.91,104.9,Technology,USD
+EIX,Edison International,USA,53.73,-0.5,-8.4,-33.2,36.9,7.1,-26.0,2.6,12,50.16,80.38,0.0,unbekannt,
+COO,Cooper Companies (The),USA,56.53,-19.3,-30.3,-33.0,35.2,6.1,-21.4,-16.5,10,53.27,84.32,0.0,unbekannt,
+NXE.TO,NexGen Energy Ltd.,Kanada,12.63,-8.5,-10.3,-33.0,37.9,18.7,-7.5,1.4,24,10.64,18.84,9.5,Energy,CAD
+EXPN.L,Experian,Grossbritannien,2465.0,-17.0,-26.0,-33.0,26.0,3.8,-4.4,-33.8,7,2374.67,3678.31,25.5,Industrials,GBp
+AFX.DE,Carl Zeiss Meditec,Deutschland,31.28,-4.3,-19.3,-33.0,53.3,36.6,8.8,-26.4,35,22.9,46.67,2.8,Healthcare,EUR
+GIS,General Mills,USA,32.16,-21.9,-26.2,-32.9,24.9,1.7,-13.4,-31.2,3,31.62,47.95,20.3,Consumer Defensive,USD
+PNI.AX,Pinnacle Investment Management,Australien,13.27,-7.6,-19.6,-32.9,37.2,6.2,-24.3,-25.8,11,12.49,19.77,0.0,unbekannt,
+CCO.TO,Cameco Corporation,Kanada,121.84,-8.9,-10.0,-32.9,35.4,9.0,-11.0,4.5,14,111.73,181.66,59.0,Energy,CAD
+STM.DE,Stabilus,Deutschland,16.58,-0.2,-17.7,-32.8,55.3,23.5,4.8,-32.2,28,13.42,24.67,0.4,Industrials,EUR
+DOW,Dow Inc.,USA,27.54,-9.8,17.3,-32.8,35.3,39.9,3.1,26.3,37,19.68,40.97,22.4,Basic Materials,USD
+8802.T,8802,Japan,3532.0,-6.3,-7.3,-32.7,40.4,11.6,-14.2,7.2,18,3166.23,5245.42,4414.9,Real Estate,JPY
+IBM,IBM,USA,219.93,-6.0,-23.0,-32.7,37.2,7.6,-22.6,-19.4,13,204.3,326.89,220.8,Technology,USD
+VNP.TO,5N Plus Inc.,Kanada,32.11,32.9,78.4,-32.6,67.3,93.0,-20.4,88.8,50,16.64,47.65,2.7,Basic Materials,CAD
+4568.T,4568,Japan,2728.5,-2.5,-20.3,-32.6,46.0,16.1,6.5,-19.3,22,2349.74,4045.68,4965.8,Healthcare,JPY
+VRSK,Verisk Analytics,USA,167.85,-13.1,-23.5,-32.6,37.0,7.6,-8.4,-31.9,13,156.0,249.01,23.8,Industrials,USD
+HAG.DE,Hensoldt,Deutschland,76.24,-7.8,0.4,-32.6,38.6,18.5,0.9,-28.2,24,64.34,113.1,10.3,Industrials,EUR
+COHR,Coherent Corp.,USA,287.81,3.6,48.1,-32.6,47.5,167.2,-21.9,166.6,56,107.72,426.89,63.7,Technology,USD
+CTSH,Cognizant,USA,57.44,-11.1,-28.1,-32.5,43.9,49.2,40.7,-12.4,41,38.5,85.16,27.8,Technology,USD
+ERIE,Erie Indemnity,USA,219.15,-14.2,-19.8,-32.5,31.5,6.4,-11.6,-28.6,11,206.06,324.51,13.4,Financial Services,USD
+IFX.DE,Infineon Technologies,Deutschland,59.5,7.1,56.7,-32.4,54.6,89.2,-23.1,78.7,50,31.45,88.0,80.2,Technology,EUR
+CNA.L,Centrica,Grossbritannien,147.7,-3.1,-15.3,-32.4,42.5,0.8,-13.8,-13.5,2,146.55,218.63,7.2,Utilities,GBp
 3690.HK,Meituan,Hongkong,71.7,-6.5,-31.5,-32.4,35.4,11.6,0.1,-32.5,18,64.25,106.1,538.2,Consumer Cyclical,HKD
-ROP,Roper Technologies,USA,349.45,-18.0,-19.2,-32.3,25.6,11.3,3.5,-29.4,18,313.94,516.32,39.5,Technology,USD
-AFX.DE,Carl Zeiss Meditec,Deutschland,31.6,-1.7,-18.4,-32.3,55.8,38.0,14.2,-23.4,37,22.9,46.67,2.8,Healthcare,EUR
-4568.T,4568,Japan,2738.5,-4.9,-20.0,-32.3,46.8,16.5,6.6,-20.1,23,2349.74,4045.68,4965.8,Healthcare,JPY
-MGLU3.SA,Magazine Luiza,Brasilien,7.46,55.1,-14.7,-32.2,77.0,92.3,74.7,-28.3,50,3.88,11.0,3.0,Consumer Cyclical,BRL
-MLM,Martin Marietta Materials,USA,479.09,-9.6,-24.2,-32.1,35.7,0.0,-16.8,-21.5,0,479.09,705.09,32.9,Basic Materials,USD
-IGG.L,IG Group,Grossbritannien,1315.0,-6.1,0.7,-32.1,41.8,28.3,-28.3,22.1,32,1024.7,1937.79,4.5,Financial Services,GBp
-OGC.TO,OceanaGold Corporation,Kanada,39.19,-3.9,2.0,-32.1,46.7,33.2,10.6,33.4,35,29.42,57.72,8.8,Basic Materials,CAD
-STMPA.PA,STMicroelectronics,Frankreich,47.03,9.6,102.0,-32.1,57.7,152.8,-23.7,93.3,56,18.61,69.25,41.6,Technology,EUR
-CCO.TO,Cameco Corporation,Kanada,123.38,-9.8,-8.9,-32.1,37.3,10.4,-14.7,5.1,17,111.73,181.66,59.0,Energy,CAD
-MSB.AX,Mesoblast,Australien,2.09,-11.8,-24.5,-31.9,42.3,10.9,0.5,-24.3,17,1.88,3.07,2.9,Healthcare,AUD
-RSG.AX,Resolute Mining,Australien,1.12,-19.4,-9.6,-31.9,36.8,35.4,12.3,4.9,36,0.82,1.64,2.4,Basic Materials,AUD
+JIOFIN.NS,Jio Financial Services,Indien,212.5,-10.3,-28.0,-32.4,22.8,0.0,-11.3,-27.4,0,212.5,314.16,1644.5,Financial Services,INR
+HSY,Hershey Company (The),USA,157.61,-10.6,-11.7,-32.3,22.2,0.0,-11.1,-11.8,0,157.56,232.65,37.0,Consumer Defensive,USD
+STMPA.PA,STMicroelectronics,Frankreich,46.88,11.0,101.4,-32.3,57.0,151.9,-25.2,91.0,56,18.61,69.25,41.6,Technology,EUR
+ROP,Roper Technologies,USA,349.41,-17.7,-19.2,-32.3,25.6,11.3,-1.2,-29.6,18,313.94,516.32,39.5,Technology,USD
+STMMI.MI,STMicroelectronics,Italien,46.86,11.0,101.4,-32.3,57.0,151.9,-25.2,96.5,56,18.6,69.21,41.7,Technology,EUR
+ARES,Ares Management,USA,116.17,-18.0,-27.7,-32.1,30.5,24.6,3.3,-26.0,29,93.27,171.2,47.5,Financial Services,USD
+FLEX,Flex Ltd.,USA,109.99,0.7,72.7,-32.1,46.0,101.8,-28.4,91.1,52,54.51,162.07,46.6,Technology,USD
+RSG.AX,Resolute Mining,Australien,1.12,-22.8,-9.7,-32.0,36.6,35.2,19.3,0.5,36,0.82,1.64,2.4,Basic Materials,AUD
+GGP.AX,Greatland Resources,Australien,10.35,-10.1,-2.0,-32.0,38.5,51.5,-8.1,35.8,42,6.83,15.23,8.1,Basic Materials,AUD
+MLM,Martin Marietta Materials,USA,479.81,-7.3,-24.0,-32.0,36.2,0.2,-17.0,-22.3,0,479.09,705.09,32.9,Basic Materials,USD
+PTC,PTC Inc.,USA,140.3,-9.9,-17.5,-31.9,51.3,24.9,17.1,-31.2,30,112.33,205.87,16.2,Technology,USD
+LEG.DE,LEG Immobilien,Deutschland,45.84,-6.8,-21.4,-31.9,38.5,1.7,-19.5,-28.7,4,45.06,67.28,4.0,Real Estate,EUR
+IDXX,Idexx Laboratories,USA,522.19,-6.2,-22.1,-31.9,46.5,3.5,-2.9,-17.2,7,504.7,766.68,43.5,Healthcare,USD
 0291.HK,China Resources Beer,Hongkong,18.78,0.5,-25.6,-31.9,44.6,3.4,-12.8,-28.5,6,18.17,27.58,72.3,Consumer Defensive,HKD
-SJ.TO,Stella-Jones Inc.,Kanada,67.45,-1.7,-20.6,-31.8,39.8,0.7,-13.5,-10.1,1,67.0,98.91,4.0,Basic Materials,CAD
-AAUC.TO,Allied Gold Corporation,Kanada,29.81,-8.8,-5.8,-31.8,43.6,44.0,-11.5,22.3,40,20.7,43.7,4.4,Basic Materials,CAD
-CMCSA,Comcast,USA,21.6,-20.2,-19.1,-31.8,25.9,0.0,-10.8,-23.8,0,21.6,31.68,0.0,unbekannt,
-8802.T,8802,Japan,3583.0,-5.8,-6.0,-31.7,44.0,13.2,-13.4,8.7,20,3166.23,5245.42,4414.9,Real Estate,JPY
-EVD.DE,CTS Eventim,Deutschland,56.45,-3.5,-25.6,-31.6,49.0,18.4,-1.9,-30.6,25,47.69,82.52,5.6,Communication Services,EUR
+HDFCLIFE.NS,HDFC Life,Indien,534.2,0.2,-28.5,-31.9,48.2,3.9,-5.3,-29.1,7,514.0,784.75,1163.8,Financial Services,INR
+BX,Blackstone Inc.,USA,112.09,-21.7,-27.2,-31.7,25.7,11.9,-5.3,-33.8,19,100.16,164.19,172.0,Financial Services,USD
+UBER,Uber,USA,68.51,-9.4,-17.3,-31.6,37.4,3.9,-5.7,-31.2,8,65.94,100.1,155.1,Technology,USD
+TRMB,Trimble Inc.,USA,57.11,-4.7,-27.1,-31.6,44.7,16.9,8.6,-30.3,24,48.87,83.52,13.4,Technology,USD
+IGG.L,IG Group,Grossbritannien,1325.0,-3.8,1.5,-31.6,44.1,29.3,-28.1,24.1,33,1024.7,1937.79,4.5,Financial Services,GBp
 1177.HK,Sino Biopharm,Hongkong,5.71,8.6,-8.0,-31.5,56.8,35.8,22.0,-30.8,36,4.21,8.33,84.9,Healthcare,HKD
-ERIE,Erie Indemnity,USA,222.43,-14.6,-18.6,-31.5,33.5,7.9,-6.7,-28.1,14,206.06,324.51,13.4,Financial Services,USD
-COHR,Coherent Corp.,USA,292.21,4.7,50.4,-31.5,48.8,171.3,-25.9,173.1,58,107.72,426.89,63.7,Technology,USD
-6723.T,6723,Japan,3507.0,2.6,57.6,-31.5,54.5,110.5,-27.1,99.9,53,1666.14,5123.0,6845.8,Technology,JPY
-STZ,Constellation Brands,USA,112.77,-13.7,-18.4,-31.4,23.6,0.0,-18.3,-12.4,0,112.77,164.28,22.3,Consumer Defensive,USD
-1802.T,1802,Japan,2950.5,0.2,-8.4,-31.3,44.9,30.1,-8.4,21.9,34,2267.49,4295.68,2097.3,Industrials,JPY
-NOW,ServiceNow,USA,129.94,-10.2,-11.9,-31.3,45.4,56.6,30.9,-30.6,44,83.0,189.26,128.2,Technology,USD
-NXE.TO,NexGen Energy Ltd.,Kanada,12.97,-10.6,-7.9,-31.2,41.3,21.9,-2.6,3.3,28,10.64,18.84,9.5,Energy,CAD
-PBH.TO,Premium Brands Holdings Corporation,Kanada,70.64,-9.9,-28.8,-31.2,22.7,0.5,-15.0,-20.9,1,70.3,102.74,4.2,Consumer Defensive,CAD
-LEG.DE,LEG Immobilien,Deutschland,46.26,-5.9,-20.7,-31.2,40.9,2.7,-19.2,-28.1,5,45.06,67.28,4.0,Real Estate,EUR
-RADL3.SA,RaiaDrogasil,Brasilien,18.37,-6.3,-21.6,-31.2,42.6,13.8,9.6,8.7,21,16.14,26.71,30.7,Healthcare,BRL
-MKC,McCormick & Company,USA,48.4,-12.5,-26.8,-31.2,34.4,7.1,-3.1,-24.0,13,45.19,70.38,14.7,Consumer Defensive,USD
+STJ.L,St. James's Place,Grossbritannien,1063.5,-8.8,-25.3,-31.5,36.1,1.0,-16.7,-16.8,2,1053.44,1552.77,6.0,Financial Services,GBp
+ISRG,Intuitive Surgical,USA,406.63,7.9,-27.6,-31.4,62.3,22.5,1.1,-7.4,29,332.02,592.85,141.3,Healthcare,USD
+DSY.PA,Dassault Systèmes,Frankreich,20.49,-7.9,-11.3,-31.4,42.0,30.1,10.8,-28.9,34,15.75,29.87,28.5,Technology,EUR
+6723.T,6723,Japan,3516.0,3.7,58.0,-31.4,53.7,111.0,-26.9,103.6,54,1666.14,5123.0,6845.8,Technology,JPY
+6146.T,6146,Japan,60570.0,4.5,19.6,-31.3,62.5,43.9,-25.2,35.2,40,42077.41,88201.88,7101.4,Technology,JPY
+CMCSA,Comcast,USA,21.76,-18.3,-18.5,-31.3,28.3,0.7,-8.3,-22.7,2,21.6,31.68,0.0,unbekannt,
+TEG.DE,TAG Tegernsee Immobilien und Beteiligung,Deutschland,11.08,-11.2,-12.9,-31.3,33.8,0.7,-23.5,-22.2,2,11.0,16.12,2.4,Real Estate,EUR
+STZ,Constellation Brands,USA,113.06,-13.4,-18.2,-31.2,24.8,0.3,-16.8,-14.7,1,112.77,164.28,22.3,Consumer Defensive,USD
+MGLU3.SA,Magazine Luiza,Brasilien,7.57,63.9,-13.5,-31.2,77.7,95.1,77.3,-27.2,52,3.88,11.0,3.0,Consumer Cyclical,BRL
+PBH.TO,Premium Brands Holdings Corporation,Kanada,70.7,-9.1,-28.7,-31.2,23.2,0.6,-15.8,-21.2,1,70.3,102.74,4.2,Consumer Defensive,CAD
 2688.HK,ENN Energy,Hongkong,48.7,-1.0,-27.5,-31.1,50.0,20.4,15.8,-19.4,27,40.46,70.64,51.6,Utilities,HKD
-NHY.OL,Norsk Hydro,Norwegen,82.4,-12.2,6.7,-31.0,33.0,28.9,-4.3,27.6,33,63.95,119.45,176.6,Basic Materials,NOK
-JIOFIN.NS,Jio Financial Services,Indien,216.88,-8.0,-26.5,-31.0,26.2,0.0,-9.2,-26.1,0,216.88,314.16,1644.5,Financial Services,INR
+6981.T,6981,Japan,8407.0,17.4,156.0,-31.1,61.0,230.6,-25.9,226.1,61,2542.88,12196.43,14990.3,Technology,JPY
+8801.T,8801,Japan,1445.0,-3.9,-16.5,-31.1,42.3,1.3,-2.4,-6.3,3,1426.58,2098.41,3922.5,Real Estate,JPY
 0101.HK,Hang Lung Properties Limited,Hongkong,6.67,-4.7,-18.8,-31.0,42.0,2.9,-5.7,-20.1,6,6.49,9.67,36.9,Real Estate,HKD
-DSY.PA,Dassault Systèmes,Frankreich,20.64,-9.6,-10.6,-30.9,43.8,31.1,10.6,-28.8,35,15.75,29.87,28.5,Technology,EUR
-BR,Broadridge Financial Solutions,USA,160.95,-11.8,-25.6,-30.9,38.8,19.6,18.2,-30.2,27,134.61,232.85,19.8,Technology,USD
-ATZ.TO,Aritzia Inc.,Kanada,119.88,-9.2,2.3,-30.8,42.2,50.7,-23.3,38.1,43,79.54,173.2,15.4,Consumer Cyclical,CAD
-FSV.TO,FirstService Corporation,Kanada,182.21,-5.3,-11.5,-30.7,41.9,6.9,-9.4,-30.4,13,170.44,262.91,8.6,Real Estate,CAD
-MRO.L,Melrose Industries,Grossbritannien,472.9,-8.2,-22.5,-30.6,44.6,5.5,-0.5,-22.3,11,448.18,681.7,6.2,Industrials,GBp
-HSY,Hershey Company (The),USA,161.41,-9.9,-9.5,-30.6,26.0,2.4,-7.3,-11.6,5,157.56,232.65,37.0,Consumer Defensive,USD
-4751.T,4751,Japan,1217.5,-7.3,-8.9,-30.6,41.8,1.6,-8.1,-31.0,4,1197.76,1753.68,642.0,Communication Services,JPY
-ARES,Ares Management,USA,118.97,-15.6,-26.0,-30.5,33.6,27.6,8.0,-24.0,33,93.27,171.2,47.5,Financial Services,USD
-ISRG,Intuitive Surgical,USA,412.18,10.6,-26.7,-30.5,67.2,24.1,3.6,-6.6,31,332.02,592.85,141.3,Healthcare,USD
-IDXX,Idexx Laboratories,USA,533.44,-3.9,-20.4,-30.4,52.8,5.7,1.3,-15.6,11,504.7,766.68,43.5,Healthcare,USD
+PAAS.TO,Pan American Silver Corp.,Kanada,63.95,-8.1,-7.9,-31.0,40.3,38.5,-2.3,20.1,38,46.16,92.71,27.3,Basic Materials,CAD
+MCD,McDonald's,USA,230.94,-11.7,-22.4,-31.0,21.8,0.0,-13.7,-21.8,0,230.94,334.5,187.9,Consumer Cyclical,USD
+1802.T,1802,Japan,2968.5,0.7,-7.9,-30.9,46.3,30.9,-7.4,26.2,35,2267.49,4295.68,2097.3,Industrials,JPY
+MIN.AX,Mineral Resources,Australien,50.71,-18.9,-7.3,-30.9,30.5,25.3,-15.7,25.5,31,40.48,73.35,0.0,unbekannt,
+VOW3.DE,Volkswagen Group,Deutschland,70.46,-8.0,-29.4,-30.8,35.8,0.7,-5.6,-19.1,2,69.94,101.81,37.0,Consumer Cyclical,EUR
+NHY.OL,Norsk Hydro,Norwegen,82.64,-10.7,7.0,-30.8,34.1,26.4,-4.1,29.2,32,65.37,119.45,176.6,Basic Materials,NOK
+BR,Broadridge Financial Solutions,USA,161.1,-11.1,-25.6,-30.8,39.1,19.7,15.0,-30.7,27,134.61,232.85,19.8,Technology,USD
+FDR.MC,Fluidra,Spanien,17.68,-6.7,-23.5,-30.7,37.3,0.2,-10.9,-22.6,0,17.65,25.52,0.0,unbekannt,
+AMER3.SA,Americanas,Brasilien,5.27,5.2,5.0,-30.7,56.7,55.5,50.6,-19.7,45,3.39,7.61,0.7,Consumer Cyclical,BRL
+DPZ,Domino's,USA,299.61,-11.9,-28.3,-30.5,40.1,6.5,-0.9,-29.5,12,281.29,430.87,11.5,Consumer Cyclical,USD
+PMV.AX,Premier Investments,Australien,12.2,6.0,-8.8,-30.5,60.4,11.9,-10.7,-32.3,20,10.9,17.56,2.0,Consumer Cyclical,AUD
+OTIS,Otis Worldwide,USA,64.32,-9.6,-26.0,-30.5,31.5,0.0,-8.4,-28.0,0,64.32,92.5,27.6,Industrials,USD
+NIC.AX,Nickel Industries,Australien,0.76,-7.8,-15.0,-30.5,39.5,14.2,-13.1,-0.6,22,0.67,1.1,3.6,Basic Materials,AUD
+BBUC.TO,Brookfield Business Corporation,Kanada,36.13,-3.7,-27.6,-30.5,41.3,2.1,-16.9,-22.0,4,35.4,52.02,8.4,Industrials,CAD
+TMUS,T-Mobile US,USA,163.08,-9.6,-17.0,-30.4,35.4,0.4,-5.2,-30.0,1,162.41,234.43,195.9,Communication Services,USD
+GDDY,GoDaddy,USA,95.51,-2.4,-19.4,-30.4,47.6,27.4,9.9,-32.6,33,74.99,137.19,12.0,Technology,USD
+EXE,Expand Energy,USA,84.09,-14.3,-22.0,-30.4,27.1,0.0,-5.6,-19.5,0,84.09,120.76,22.7,Energy,USD
 1929.HK,Chow Tai Fook,Hongkong,10.96,-14.2,-8.7,-30.4,35.7,8.2,-1.6,-26.0,15,10.13,15.75,122.3,Consumer Cyclical,HKD
-BBUC.TO,Brookfield Business Corporation,Kanada,36.21,-4.5,-27.4,-30.4,41.9,2.3,-14.4,-21.2,5,35.4,52.02,8.4,Industrials,CAD
-3659.T,3659,Japan,2626.0,-3.5,-22.9,-30.3,50.2,45.6,39.6,-7.4,42,1803.23,3769.3,2353.8,Communication Services,JPY
-EXE,Expand Energy,USA,84.18,-14.2,-22.0,-30.3,27.3,0.0,-7.1,-18.6,0,84.18,120.76,22.7,Energy,USD
-8801.T,8801,Japan,1464.0,-3.7,-15.4,-30.2,46.4,2.6,-2.5,-5.8,6,1426.58,2098.41,3922.5,Real Estate,JPY
-PAAS.TO,Pan American Silver Corp.,Kanada,64.74,-10.0,-6.7,-30.2,41.7,40.2,2.2,21.4,40,46.16,92.71,27.3,Basic Materials,CAD
-VOW3.DE,Volkswagen Group,Deutschland,71.04,-8.5,-28.8,-30.2,36.9,1.6,-3.1,-17.6,3,69.94,101.81,37.0,Consumer Cyclical,EUR
-AUB.AX,AUB Group,Australien,26.44,-5.0,-10.3,-30.2,35.0,20.0,-2.4,-16.2,28,22.03,37.88,3.8,Financial Services,AUD
-MARUTI.NS,Maruti Suzuki,Indien,11967.0,-7.6,-27.7,-30.1,30.7,0.8,-15.9,-24.4,2,11877.0,17120.06,4304.2,Consumer Cyclical,INR
-MCD,McDonald's,USA,233.98,-11.1,-21.3,-30.1,23.9,0.2,-12.8,-21.4,0,233.6,334.5,187.9,Consumer Cyclical,USD
-BZU.MI,Buzzi,Italien,37.5,-8.7,-26.0,-30.1,39.6,2.2,-18.5,-18.5,5,36.7,53.65,7.3,Basic Materials,EUR
-6361.T,6361,Japan,4716.0,0.6,22.0,-30.0,52.9,54.8,-23.5,53.2,45,3045.73,6739.22,0.0,unbekannt,
-DPZ,Domino's,USA,301.81,-13.2,-27.8,-30.0,41.4,7.3,2.6,-29.2,14,281.29,430.87,11.5,Consumer Cyclical,USD
-5333.T,5333,Japan,5450.0,4.1,62.8,-29.9,55.7,130.7,-26.0,128.7,57,2362.11,7775.87,1667.8,Industrials,JPY
-FLEX,Flex Ltd.,USA,113.83,3.0,78.8,-29.8,51.4,108.8,-29.8,100.2,55,54.51,162.07,46.6,Technology,USD
-CCA.TO,Cogeco Communications Inc.,Kanada,52.2,-12.9,-18.5,-29.8,24.7,1.9,-16.3,-14.1,4,51.25,74.37,0.0,unbekannt,
-A2M.AX,a2 Milk Company,Australien,6.59,-1.9,-23.8,-29.8,46.2,33.6,-10.1,-21.1,37,4.94,9.39,4.9,Consumer Defensive,AUD
-IP,International Paper,USA,33.32,-15.2,-14.2,-29.8,33.6,16.4,-11.6,-22.8,25,28.62,47.45,0.0,unbekannt,
-4385.T,4385,Japan,3537.0,-23.4,13.2,-29.7,31.8,69.7,-10.7,56.1,49,2084.5,5030.0,0.0,unbekannt,
-MBG.DE,Mercedes-Benz Group,Deutschland,40.67,-13.9,-29.7,-29.7,25.1,0.0,-9.3,-18.6,0,40.67,57.87,44.1,Consumer Cyclical,EUR
-REA.AX,REA Group,Australien,158.05,-5.3,-13.0,-29.7,49.8,21.4,11.1,-30.6,29,130.24,224.83,23.2,Communication Services,AUD
-MIN.AX,Mineral Resources,Australien,51.55,-15.9,-5.8,-29.7,29.7,27.5,-19.1,28.7,34,40.42,73.35,0.0,unbekannt,
-CAP.PA,Capgemini,Frankreich,103.5,-3.5,-24.1,-29.6,46.3,20.3,13.0,-14.4,29,86.06,147.12,18.0,Technology,EUR
-FDR.MC,Fluidra,Spanien,17.96,-7.6,-22.3,-29.6,41.7,1.8,-9.2,-20.8,4,17.65,25.52,0.0,unbekannt,
-RBA.TO,"RB Global, Inc.",Kanada,115.91,-1.2,-17.4,-29.5,42.0,4.0,-29.5,-21.5,8,111.46,164.46,21.8,Industrials,CAD
-GIS,General Mills,USA,33.82,-18.6,-22.4,-29.5,30.8,6.9,-1.1,-28.3,13,31.62,47.95,20.3,Consumer Defensive,USD
-NIC.AX,Nickel Industries,Australien,0.78,-5.2,-13.7,-29.4,40.5,16.0,-15.5,2.2,25,0.67,1.1,3.6,Basic Materials,AUD
-5631.T,5631,Japan,7250.0,-6.7,-8.7,-29.4,48.0,6.7,-3.9,-15.2,13,6792.9,10275.56,575.1,Industrials,JPY
-ROVI.MC,Laboratorios Rovi,Spanien,59.35,-2.1,-4.7,-29.4,53.9,10.6,5.2,0.6,19,53.65,84.08,0.0,unbekannt,
+REA.AX,REA Group,Australien,154.76,-5.3,-14.8,-30.3,45.6,18.8,6.1,-31.2,27,130.24,222.12,23.2,Communication Services,AUD
+ATZ.TO,Aritzia Inc.,Kanada,120.72,-5.0,3.0,-30.3,43.6,51.8,-21.2,43.4,44,79.54,173.2,15.4,Consumer Cyclical,CAD
+TMV.DE,TeamViewer,Deutschland,6.15,-12.8,4.1,-30.2,42.3,46.3,18.2,-28.9,42,4.2,8.81,1.1,Technology,EUR
+PYPL,PayPal,USA,52.53,-0.0,-8.9,-30.2,42.4,35.6,19.5,-23.8,38,38.74,75.29,0.0,unbekannt,
+MRO.L,Melrose Industries,Grossbritannien,476.1,-3.8,-21.9,-30.2,46.7,6.2,-4.5,-24.5,12,448.18,681.7,6.2,Industrials,GBp
+A2M.AX,a2 Milk Company,Australien,6.56,1.0,-24.2,-30.2,44.8,32.9,-6.4,-21.0,36,4.94,9.39,4.9,Consumer Defensive,AUD
+IP,International Paper,USA,33.17,-12.5,-14.6,-30.1,33.0,15.9,-12.5,-24.5,24,28.62,47.45,0.0,unbekannt,
+F,Ford Motor Company,USA,12.06,-13.5,-6.5,-30.1,29.0,10.6,-10.6,4.4,18,10.9,17.25,0.0,unbekannt,
+CCA.TO,Cogeco Communications Inc.,Kanada,51.95,-13.1,-18.9,-30.1,24.1,1.4,-16.7,-13.6,3,51.25,74.37,0.0,unbekannt,
+ROVI.MC,Laboratorios Rovi,Spanien,58.8,-2.0,-5.6,-30.1,49.4,9.6,5.1,-2.2,17,53.65,84.08,0.0,unbekannt,
+GNRC,Generac,USA,206.95,11.6,46.7,-30.0,54.9,51.8,-23.4,24.8,44,136.37,295.54,12.9,Industrials,USD
+SMCI,Supermicro,USA,41.07,10.2,32.7,-30.0,56.5,100.0,48.5,-11.4,54,20.53,58.68,25.8,Technology,USD
+ODFL,Old Dominion,USA,173.84,-12.9,9.7,-30.0,33.4,38.5,-20.1,24.0,39,125.51,248.34,0.0,unbekannt,USD
+BZU.MI,Buzzi,Italien,37.53,-7.1,-26.0,-30.0,39.9,2.3,-18.2,-18.5,5,36.7,53.65,7.3,Basic Materials,EUR
+FSV.TO,FirstService Corporation,Kanada,183.01,-5.4,-11.2,-29.9,43.2,7.4,-11.2,-30.4,14,170.44,261.24,8.6,Real Estate,CAD
+RADL3.SA,RaiaDrogasil,Brasilien,18.73,-4.7,-20.1,-29.9,46.4,16.0,11.7,10.8,24,16.14,26.71,30.7,Healthcare,BRL
+GEN,Gen Digital,USA,22.02,-29.0,-14.3,-29.9,27.5,24.3,-15.3,-22.0,31,17.72,31.41,0.0,unbekannt,
+DOO.TO,BRP Inc.,Kanada,77.71,-9.2,-20.5,-29.9,37.1,11.9,-4.9,-7.2,20,69.42,110.85,6.5,Consumer Cyclical,CAD
+TPR,"Tapestry, Inc.",USA,115.04,-6.4,-10.0,-29.9,39.4,17.9,-19.8,4.5,26,97.55,164.16,25.7,Consumer Cyclical,USD
+MBG.DE,Mercedes-Benz Group,Deutschland,40.6,-13.6,-29.8,-29.8,24.9,0.0,-10.3,-19.8,0,40.6,57.87,44.1,Consumer Cyclical,EUR
+AUB.AX,AUB Group,Australien,26.64,-5.3,-9.7,-29.7,38.7,20.9,-4.2,-15.1,29,22.03,37.88,3.8,Financial Services,AUD
+SVM.TO,Silvercorp Metals Inc.,Kanada,15.11,-8.6,32.1,-29.7,40.1,77.2,3.8,72.6,51,8.53,21.5,3.7,Basic Materials,CAD
+TPG.AX,TPG Telecom,Australien,3.81,0.0,3.4,-29.7,52.3,11.4,9.0,-22.0,20,3.42,5.42,7.0,Communication Services,AUD
+5631.T,5631,Japan,7226.0,-1.5,-9.0,-29.7,47.4,6.4,-5.3,-14.6,12,6792.9,10275.56,575.1,Industrials,JPY
+4751.T,4751,Japan,1231.5,-7.6,-7.9,-29.5,44.6,2.8,-8.1,-29.8,6,1197.76,1747.2,642.0,Communication Services,JPY
+CLNX.MC,Cellnex Telecom,Spanien,22.54,-11.9,-15.4,-29.5,24.4,0.0,-14.2,-21.6,0,22.54,31.99,0.0,unbekannt,
+RBA.TO,"RB Global, Inc.",Kanada,116.0,0.9,-17.4,-29.5,42.3,4.1,-27.1,-22.1,9,111.46,164.46,21.8,Industrials,CAD
+HOT.DE,Hochtief,Deutschland,387.4,-6.8,16.2,-29.4,36.9,61.1,-22.5,69.3,48,240.41,549.0,0.0,unbekannt,
 2382.HK,Sunny Optical,Hongkong,63.35,-11.9,-5.4,-29.3,42.8,22.0,5.5,-21.2,30,51.93,89.57,63.1,Technology,HKD
-IT,Gartner,USA,185.85,-6.3,-21.6,-29.3,52.0,47.8,43.4,-29.6,44,125.73,262.87,11.4,Technology,USD
-INW.MI,INWIT,Italien,6.36,2.7,-12.1,-29.3,47.7,10.0,-2.2,-29.1,18,5.78,8.99,5.7,Real Estate,EUR
-5201.T,5201,Japan,5723.0,-0.1,11.2,-29.3,50.5,25.0,-17.2,24.7,32,4578.42,8100.2,1266.2,Industrials,JPY
-6954.T,6954,Japan,5968.0,-1.4,-4.4,-29.2,48.8,46.3,-15.4,42.8,43,4080.17,8428.0,6004.9,Industrials,JPY
-CLNX.MC,Cellnex Telecom,Spanien,22.64,-14.5,-15.0,-29.2,24.9,0.0,-12.2,-21.5,0,22.64,31.99,0.0,unbekannt,
-AMAT,Applied Materials,USA,512.01,10.9,91.1,-29.1,63.0,151.5,-29.1,152.5,59,203.61,722.23,402.7,Technology,USD
-RI.PA,Pernod Ricard,Frankreich,60.0,-7.0,-14.7,-29.0,42.2,3.9,-2.7,-23.3,8,57.77,84.48,17.4,Consumer Defensive,EUR
-OTIS,Otis Worldwide,USA,65.63,-8.5,-24.5,-29.0,35.2,0.0,-7.8,-25.8,0,65.63,92.5,27.6,Industrials,USD
+NOW,ServiceNow,USA,134.01,-9.4,-9.1,-29.2,50.3,61.5,26.7,-28.8,48,83.0,189.26,128.2,Technology,USD
+AMAT,Applied Materials,USA,511.38,11.6,90.9,-29.2,62.8,151.2,-21.4,150.9,59,203.61,722.23,402.7,Technology,USD
+AOS,A. O. Smith,USA,56.37,-4.7,-16.1,-29.1,37.3,1.7,-8.7,-20.8,4,55.44,79.53,8.4,Industrials,USD
+4385.T,4385,Japan,3565.0,-23.1,14.1,-29.1,32.8,71.0,-12.8,53.9,50,2084.5,5030.0,0.0,unbekannt,
+5802.T,5802,Japan,2453.0,11.4,49.1,-29.1,66.4,143.5,-15.5,144.6,59,1007.48,3461.1,7443.6,Consumer Cyclical,JPY
+CCI,Crown Castle,USA,66.65,-11.2,-21.9,-29.1,26.4,0.0,-11.6,-27.1,0,66.65,94.03,32.3,Real Estate,USD
+6361.T,6361,Japan,4782.0,2.2,23.7,-29.0,55.3,56.9,-23.6,57.0,47,3047.7,6739.22,0.0,unbekannt,
+CHRW,C.H. Robinson,USA,147.96,-0.7,-8.6,-29.0,43.5,20.8,-22.3,13.9,30,122.52,208.52,17.4,Industrials,USD
+TA.TO,TransAlta Corporation,Kanada,17.35,5.8,-1.7,-29.0,55.1,8.3,-8.8,-7.4,16,16.02,24.43,5.6,Utilities,CAD
+CAP.PA,Capgemini,Frankreich,104.4,-2.1,-23.4,-29.0,48.3,21.3,13.6,-13.3,30,86.06,147.12,18.0,Technology,EUR
+IT,Gartner,USA,186.54,-5.8,-21.3,-29.0,52.6,48.4,39.5,-28.6,44,125.73,262.87,11.4,Technology,USD
+REL.L,RELX,Grossbritannien,2496.0,-5.2,-16.3,-28.9,45.8,24.0,6.1,-28.6,32,2012.48,3509.09,44.0,Industrials,GBp
 1099.HK,Sinopharm Group,Hongkong,14.86,-3.8,-20.8,-28.9,33.0,0.8,-11.2,-15.1,2,14.74,20.9,52.1,Healthcare,HKD
-REL.L,RELX,Grossbritannien,2497.0,-6.5,-16.3,-28.8,45.9,24.1,5.8,-29.8,32,2012.48,3509.09,44.0,Industrials,GBp
-CCI,Crown Castle,USA,67.07,-10.6,-21.4,-28.7,27.3,0.0,-10.1,-26.0,0,67.07,94.03,32.3,Real Estate,USD
-F,Ford Motor Company,USA,12.3,-11.4,-4.6,-28.7,31.3,12.8,-10.6,7.2,22,10.9,17.25,0.0,unbekannt,
+NAS.OL,Norwegian Air Shuttle,Norwegen,12.1,-6.0,-27.4,-28.9,42.5,1.5,-17.3,-18.8,4,11.93,17.03,14.0,Industrials,NOK
+BEI.DE,Beiersdorf,Deutschland,76.94,-0.6,-16.0,-28.9,50.5,14.3,0.5,-12.1,24,67.3,108.22,17.1,Consumer Defensive,EUR
+SN.L,Smith & Nephew,Grossbritannien,1008.84,-5.7,-17.1,-28.8,37.4,0.4,-10.4,-24.9,1,1004.34,1417.07,9.2,Healthcare,GBp
+LYB,LyondellBasell,USA,57.47,-11.7,33.8,-28.8,34.2,44.2,10.4,24.5,43,39.87,80.69,20.6,Basic Materials,USD
+CMI,Cummins,USA,516.57,-8.5,-0.0,-28.7,30.8,28.5,-24.0,25.0,35,402.1,724.89,0.0,unbekannt,USD
+CHC.AX,Charter Hall,Australien,18.05,-3.5,-25.3,-28.7,40.3,2.4,-18.9,-20.0,5,17.63,25.33,0.0,unbekannt,AUD
+5803.T,5803,Japan,5590.0,2.0,83.4,-28.6,61.7,150.3,-10.0,153.1,60,2233.03,7824.89,9379.5,Industrials,JPY
+5201.T,5201,Japan,5782.0,0.8,12.3,-28.6,53.4,26.3,-17.0,26.2,34,4578.42,8100.2,1266.2,Industrials,JPY
+3659.T,3659,Japan,2690.0,-1.9,-21.1,-28.6,56.6,49.2,45.0,-5.9,45,1803.23,3769.3,2353.8,Communication Services,JPY
 1044.HK,Hengan International Group Co. Ltd,Hongkong,19.66,-5.8,-25.4,-28.6,33.4,0.2,-10.0,-17.3,0,19.63,27.55,0.0,unbekannt,
-HDFCBANK.NS,HDFC Bank,Indien,708.7,-0.4,-27.3,-28.6,43.0,3.1,-11.5,-24.2,7,687.1,993.08,11203.8,Financial Services,INR
-ODFL,Old Dominion,USA,177.46,-10.5,11.9,-28.5,37.4,41.4,-17.9,28.8,42,125.51,248.34,0.0,unbekannt,USD
-PSH.L,Pershing Square Holdings,Grossbritannien,3638.0,-7.4,-24.6,-28.5,38.4,0.4,-4.7,-21.1,1,3622.0,5089.33,6.9,Financial Services,GBp
-BOL.ST,Boliden,Schweden,505.0,-10.6,-0.9,-28.5,39.2,40.1,-3.8,41.0,42,360.46,706.64,149.1,Basic Materials,SEK
-PYPL,PayPal,USA,53.89,0.7,-6.5,-28.4,47.5,39.1,25.1,-19.0,41,38.74,75.29,0.0,unbekannt,
-NXPI,NXP Semiconductors,USA,236.47,6.2,8.3,-28.4,54.2,30.7,-15.5,6.5,37,180.99,330.06,59.2,Technology,USD
-BEI.DE,Beiersdorf,Deutschland,77.58,-1.9,-15.3,-28.3,53.6,15.3,1.2,-11.6,25,67.3,108.22,17.1,Consumer Defensive,EUR
-CBOE,Cboe Global Markets,USA,261.75,-15.5,6.3,-28.3,38.2,13.4,8.2,8.3,23,230.87,364.92,0.0,unbekannt,
-BB.TO,BlackBerry Limited,Kanada,12.84,13.3,146.0,-28.3,62.6,193.2,-28.3,84.7,63,4.38,17.91,7.2,Technology,CAD
-HOT.DE,Hochtief,Deutschland,393.4,-6.0,18.0,-28.3,39.7,71.9,-19.2,75.3,51,228.79,549.0,0.0,unbekannt,
-AIF.TO,Altus Group Limited,Kanada,44.16,-5.7,-20.9,-28.2,43.0,15.1,-1.7,-23.6,25,38.36,61.55,1.6,Real Estate,CAD
-GNRC,Generac,USA,212.22,15.5,50.4,-28.2,59.0,55.6,-27.5,26.1,48,136.37,295.54,12.9,Industrials,USD
-CHRW,C.H. Robinson,USA,149.71,-0.0,-7.5,-28.2,46.6,22.2,-20.2,15.3,32,122.52,208.52,17.4,Industrials,USD
+AAF.L,Airtel Africa,Grossbritannien,300.6,-12.2,-16.9,-28.5,35.1,34.1,-10.9,22.5,39,224.16,420.16,12.0,Communication Services,GBp
+3086.T,3086,Japan,2564.0,-13.2,18.1,-28.5,33.4,22.6,-28.5,4.6,32,2091.18,3584.74,701.8,Consumer Cyclical,JPY
+INW.MI,INWIT,Italien,6.44,7.1,-10.9,-28.3,51.6,11.5,-1.6,-28.2,21,5.78,8.99,5.7,Real Estate,EUR
+UHS,Universal Health Services,USA,174.26,2.4,-20.5,-28.3,49.3,23.6,15.9,-13.0,33,141.0,243.12,10.0,Healthcare,USD
+SYK,Stryker Corporation,USA,275.39,-14.7,-20.2,-28.3,37.4,2.4,-11.8,-24.5,6,268.9,384.17,0.0,unbekannt,
+RI.PA,Pernod Ricard,Frankreich,60.66,-3.0,-13.8,-28.2,46.0,5.0,-1.5,-23.1,11,57.77,84.48,17.4,Consumer Defensive,EUR
+HINDUNILVR.NS,Hindustan Unilever,Indien,1836.0,-7.0,-20.2,-28.2,29.2,0.0,-16.6,-25.7,0,1836.0,2557.38,4880.1,Consumer Defensive,INR
+HLMA.L,Halma plc,Grossbritannien,3502.0,-0.7,0.1,-28.2,45.5,5.7,-11.8,1.2,12,3311.77,4877.8,13.9,Industrials,GBp
 2899.HK,Zijin Mining,Hongkong,32.24,-11.5,-10.2,-28.1,38.4,19.4,6.5,14.1,29,27.0,44.84,925.4,Basic Materials,HKD
-CMI,Cummins,USA,521.37,-7.7,0.9,-28.1,32.5,29.7,-26.6,26.5,37,402.1,724.89,0.0,unbekannt,USD
-6753.T,6753,Japan,637.9,-1.5,-19.8,-28.1,45.6,17.0,0.7,-25.7,27,545.3,887.0,438.7,Technology,JPY
-CSU.TO,Constellation Software Inc.,Kanada,2894.73,-7.7,-10.5,-28.0,49.4,28.4,8.5,-23.0,36,2254.59,4021.46,65.5,Technology,CAD
-LYB,LyondellBasell,USA,58.18,-8.6,35.4,-27.9,36.1,45.9,11.6,25.1,45,39.87,80.69,20.6,Basic Materials,USD
-DOO.TO,BRP Inc.,Kanada,79.92,-6.3,-18.2,-27.9,41.4,15.1,-7.5,-3.9,25,69.42,110.85,6.5,Consumer Cyclical,CAD
-AMER3.SA,Americanas,Brasilien,5.49,7.6,9.4,-27.9,63.4,61.9,56.9,-16.3,50,3.39,7.61,0.7,Consumer Cyclical,BRL
-4061.T,4061,Japan,3225.0,-1.9,20.9,-27.8,44.3,51.6,-24.9,45.2,47,2126.83,4464.36,304.8,Basic Materials,JPY
-CAE.TO,CAE Inc.,Kanada,34.23,2.1,-19.4,-27.8,49.2,6.9,-3.6,-16.5,14,32.01,47.4,11.7,Industrials,CAD
-GXI.DE,Gerresheimer,Deutschland,27.44,-2.4,-1.3,-27.8,51.1,74.8,-3.0,-22.3,53,15.7,37.98,0.9,Healthcare,EUR
-ZAL.DE,Zalando,Deutschland,21.87,-11.3,-11.3,-27.7,40.4,14.6,-18.2,-15.9,25,19.08,30.24,5.8,Consumer Cyclical,EUR
-UHS,Universal Health Services,USA,175.73,2.5,-19.8,-27.7,51.6,24.6,18.3,-12.1,34,141.0,243.12,10.0,Healthcare,USD
-HLMA.L,Halma plc,Grossbritannien,3528.0,-2.9,0.8,-27.7,47.3,6.5,-10.5,2.3,14,3311.77,4877.8,13.9,Industrials,GBp
-EQT,EQT Corporation,USA,48.88,-10.4,-7.8,-27.6,30.7,0.4,-7.8,-8.5,1,48.7,67.53,33.2,Energy,USD
-NAS.OL,Norwegian Air Shuttle,Norwegen,12.34,-4.9,-26.0,-27.5,46.5,3.5,-17.2,-16.9,8,11.93,17.03,14.0,Industrials,NOK
-AON,Aon plc,USA,275.9,-22.4,-19.5,-27.5,26.9,1.4,-16.6,-22.1,4,272.1,380.39,64.2,Financial Services,USD
-6479.T,6479,Japan,3777.0,12.0,20.5,-27.4,66.5,51.3,-20.2,40.4,47,2496.49,5201.88,1514.0,Technology,JPY
+PSH.L,Pershing Square Holdings,Grossbritannien,3660.0,-4.5,-24.1,-28.1,41.0,1.0,-3.2,-20.1,3,3622.0,5089.33,6.9,Financial Services,GBp
+EQT,EQT Corporation,USA,48.56,-10.4,-8.4,-28.1,29.6,0.0,-7.2,-9.8,0,48.56,67.53,33.2,Energy,USD
+4061.T,4061,Japan,3209.0,-3.2,20.3,-28.1,43.2,50.9,-24.9,45.8,46,2126.83,4464.36,304.8,Basic Materials,JPY
+CAE.TO,CAE Inc.,Kanada,34.12,4.2,-19.6,-28.0,48.4,6.6,-5.7,-17.2,14,32.01,47.4,11.7,Industrials,CAD
+NXPI,NXP Semiconductors,USA,237.53,6.2,8.8,-28.0,55.1,31.2,-14.5,6.9,38,180.99,330.06,59.2,Technology,USD
+6954.T,6954,Japan,6075.0,0.3,-2.7,-27.9,52.8,48.9,-17.4,47.4,46,4080.17,8428.0,6004.9,Industrials,JPY
+HD,Home Depot (The),USA,284.49,-12.6,-15.9,-27.8,27.0,0.0,-18.3,-28.1,0,284.49,394.03,0.0,unbekannt,
+AIF.TO,Altus Group Limited,Kanada,44.43,-4.7,-20.4,-27.8,44.6,15.8,-5.7,-24.3,26,38.36,61.55,1.6,Real Estate,CAD
+5333.T,5333,Japan,5615.0,6.5,67.8,-27.8,61.4,137.7,-24.7,134.5,60,2362.11,7775.87,1667.8,Industrials,JPY
+FMG.AX,Fortescue,Australien,16.2,-4.4,-22.6,-27.7,38.0,0.0,-9.5,-12.0,0,16.2,22.39,54.3,Basic Materials,AUD
+6753.T,6753,Japan,641.5,-3.4,-19.3,-27.7,46.7,17.6,-1.5,-24.5,28,545.3,887.0,438.7,Technology,JPY
+TSLA,"Tesla, Inc.",USA,354.81,-3.6,-19.0,-27.6,46.0,18.9,-16.6,-19.9,29,298.32,489.88,1351.8,Consumer Cyclical,USD
+CARR,Carrier Global,USA,54.86,-5.8,3.7,-27.6,37.6,10.2,-23.6,-5.8,20,49.79,75.73,0.0,unbekannt,
+SBAC,SBA Communications,USA,160.12,-15.6,-15.2,-27.5,23.5,0.0,-10.8,-16.3,0,160.12,220.88,0.0,unbekannt,
+5801.T,5801,Japan,4346.0,8.4,316.4,-27.5,62.2,398.6,-7.9,404.7,68,871.68,5996.52,2854.1,Industrials,JPY
+1332.T,1332,Japan,1101.5,-12.4,-0.7,-27.5,27.4,10.2,-13.0,6.3,20,999.54,1518.29,0.0,unbekannt,
 0868.HK,Xinyi Glass,Hongkong,8.15,-6.6,-0.2,-27.4,36.8,4.9,-4.3,-2.7,11,7.77,11.24,39.6,Basic Materials,HKD
-DVA,DaVita,USA,175.19,-3.0,53.0,-27.3,39.3,68.7,-21.3,33.9,52,103.87,240.96,11.6,Healthcare,USD
-HD,Home Depot (The),USA,288.04,-12.1,-14.9,-27.2,28.9,0.0,-17.7,-27.8,0,288.04,395.6,0.0,unbekannt,
-3086.T,3086,Japan,2609.5,-14.4,20.2,-27.2,36.7,24.8,-24.3,6.9,35,2091.18,3584.74,701.8,Consumer Cyclical,JPY
+DVA,DaVita,USA,174.92,-0.6,52.8,-27.4,39.1,68.4,-23.3,33.9,52,103.87,240.96,11.6,Healthcare,USD
+7270.T,7270,Japan,2498.5,-4.2,-24.1,-27.4,43.2,11.7,6.9,-14.3,22,2237.54,3439.51,1820.2,Consumer Cyclical,JPY
+HDFCBANK.NS,HDFC Bank,Indien,721.2,2.9,-26.0,-27.4,49.3,5.0,-13.1,-22.9,11,687.1,993.08,11203.8,Financial Services,INR
+6594.T,6594,Japan,2106.0,-18.4,0.7,-27.4,32.6,11.8,-20.4,-21.7,22,1883.0,2899.0,0.0,unbekannt,
+LSPD.TO,Lightspeed Commerce Inc.,Kanada,13.79,-2.5,-14.6,-27.3,47.8,19.6,-9.9,-14.2,30,11.53,18.98,1.9,Technology,CAD
+BOL.ST,Boliden,Schweden,513.6,-6.8,0.8,-27.3,43.0,37.2,-2.7,42.5,42,374.25,706.64,149.1,Basic Materials,SEK
+BB.TO,BlackBerry Limited,Kanada,13.03,19.8,149.6,-27.2,64.0,197.5,-20.2,91.9,64,4.38,17.91,7.2,Technology,CAD
+7202.T,7202,Japan,2037.0,-9.0,-13.9,-27.2,35.0,15.4,-3.2,10.1,26,1765.59,2798.96,1556.9,Consumer Cyclical,JPY
+AON,Aon plc,USA,276.77,-13.9,-19.2,-27.2,27.9,1.7,-19.3,-21.6,4,272.1,380.39,64.2,Financial Services,USD
 9633.HK,Nongfu Spring,Hongkong,39.84,-4.1,-15.3,-27.1,46.7,3.7,-4.4,-24.8,9,38.4,54.64,480.2,Consumer Defensive,HKD
-ALGN,Align Technology,USA,144.01,-8.6,-7.7,-27.1,36.3,15.0,-14.6,14.1,26,125.22,197.51,0.0,unbekannt,
-AOS,A. O. Smith,USA,58.02,-3.9,-13.7,-27.0,45.3,4.6,-6.9,-18.1,11,55.44,79.53,8.4,Industrials,USD
-1332.T,1332,Japan,1108.5,-12.0,-0.1,-27.0,28.7,10.9,-14.0,6.2,21,999.54,1518.29,0.0,unbekannt,
-CARR,Carrier Global,USA,55.38,-5.8,4.7,-26.9,39.6,11.2,-24.2,-4.4,22,49.79,75.73,0.0,unbekannt,
-FMG.AX,Fortescue,Australien,16.38,-1.4,-21.7,-26.9,40.6,1.0,-9.2,-10.2,3,16.22,22.39,54.3,Basic Materials,AUD
-KOG.OL,Kongsberg Gruppen,Norwegen,305.3,-3.8,15.0,-26.9,43.5,35.1,-5.6,-2.4,41,225.96,417.6,0.0,unbekannt,
-7011.T,7011,Japan,3774.0,-5.9,-8.7,-26.9,45.9,8.4,3.7,0.3,17,3481.41,5161.58,13766.8,Industrials,JPY
-LSPD.TO,Lightspeed Commerce Inc.,Kanada,13.9,-4.9,-13.9,-26.8,49.8,20.6,-6.4,-16.2,32,11.53,18.98,1.9,Technology,CAD
-HCLTECH.NS,HCLTech,Indien,1230.0,-9.0,-22.0,-26.8,42.1,20.1,9.1,-7.3,31,1023.75,1679.96,0.0,unbekannt,
-TUI1.DE,TUI,Deutschland,6.84,-2.7,-23.7,-26.7,53.5,11.0,-5.4,-10.6,21,6.16,9.34,3.6,Consumer Cyclical,EUR
-IMB.L,Imperial Brands,Grossbritannien,2447.0,-3.2,-21.7,-26.7,38.9,0.2,-11.6,-22.5,1,2442.0,3339.55,19.9,Consumer Defensive,GBp
-7270.T,7270,Japan,2519.5,-2.4,-23.5,-26.7,45.5,12.6,7.3,-13.9,23,2237.54,3439.51,1820.2,Consumer Cyclical,JPY
+VIVT3.SA,Telefônica Brasil,Brasilien,29.58,-0.9,-3.7,-27.1,40.6,1.9,-13.4,-3.6,5,29.02,40.59,95.0,Communication Services,BRL
+4043.T,4043,Japan,4036.0,1.6,-0.2,-27.1,48.6,15.4,-16.2,14.7,26,3497.57,5539.81,305.3,Basic Materials,JPY
+FNTN.DE,Freenet,Deutschland,22.72,-6.5,-17.0,-26.9,31.5,1.2,-2.2,-9.2,3,22.46,31.09,2.8,Communication Services,EUR
+IMB.L,Imperial Brands,Grossbritannien,2445.0,-4.2,-21.7,-26.8,38.6,0.1,-13.4,-20.9,0,2442.0,3339.55,19.9,Consumer Defensive,GBp
+TOTS3.SA,TOTVS,Brasilien,34.58,-0.8,-14.3,-26.8,54.4,28.4,17.6,-22.4,38,26.94,47.23,17.3,Technology,BRL
+AVGO,Broadcom,USA,351.19,-5.0,1.6,-26.8,43.9,20.1,-4.7,7.9,31,292.41,479.94,0.0,unbekannt,
 9618.HK,JD.com,Hongkong,104.3,-4.0,-9.0,-26.6,38.9,8.6,0.1,-24.5,18,96.0,142.16,301.0,Consumer Cyclical,HKD
-4043.T,4043,Japan,4074.0,3.1,0.8,-26.5,51.1,16.5,-16.8,14.8,28,3497.57,5539.81,305.3,Basic Materials,JPY
-FRA.DE,Fraport,Deutschland,62.0,-2.1,-10.5,-26.5,48.4,4.9,-16.9,-14.5,11,59.1,84.37,6.1,Industrials,EUR
-CHC.AX,Charter Hall,Australien,18.63,-2.0,-22.9,-26.5,46.0,5.7,-18.0,-17.0,13,17.63,25.33,0.0,unbekannt,AUD
-HINDUNILVR.NS,Hindustan Unilever,Indien,1879.1,-5.8,-18.3,-26.5,34.4,0.8,-14.6,-23.4,2,1863.8,2557.38,4880.1,Consumer Defensive,INR
-SBAC,SBA Communications,USA,162.81,-14.7,-13.7,-26.3,25.6,0.0,-7.1,-14.0,0,162.81,220.88,0.0,unbekannt,
-MFG.AX,Magellan Financial Group,Australien,8.27,-0.5,-10.3,-26.3,38.6,10.3,-19.2,-11.7,21,7.5,11.22,0.0,unbekannt,
-FNTN.DE,Freenet,Deutschland,22.98,-5.7,-16.1,-26.1,33.7,2.3,0.0,-8.5,6,22.46,31.09,2.8,Communication Services,EUR
-AAF.L,Airtel Africa,Grossbritannien,311.0,-6.6,-14.0,-26.0,39.7,38.7,-4.1,27.5,44,224.16,420.16,12.0,Communication Services,GBp
-7202.T,7202,Japan,2070.0,-5.0,-12.5,-26.0,38.2,17.2,-2.1,10.3,29,1765.59,2798.96,1556.9,Consumer Cyclical,JPY
-QCOM,Qualcomm,USA,184.1,12.7,8.1,-26.0,52.0,49.7,0.2,11.1,49,122.94,248.74,174.1,Technology,USD
-AVGO,Broadcom,USA,355.1,-3.5,2.7,-26.0,46.2,21.4,-5.8,6.9,33,292.41,479.94,0.0,unbekannt,
-NDA.DE,Aurubis,Deutschland,162.1,-8.4,29.7,-26.0,39.2,56.8,-6.6,54.2,51,103.37,219.2,7.3,Industrials,EUR
-HAL,Halliburton,USA,31.54,-12.4,8.0,-26.0,30.3,47.5,-6.7,28.2,48,21.39,42.6,0.0,unbekannt,USD
-REN.AS,RELX,Niederlande,29.28,-6.3,-12.7,-25.9,45.7,28.1,6.8,-24.6,38,22.86,39.54,51.9,Industrials,EUR
+NDA.DE,Aurubis,Deutschland,160.9,-6.6,28.8,-26.6,38.0,55.7,-10.9,48.8,50,103.37,219.2,7.3,Industrials,EUR
+SUZB3.SA,Suzano Papel e Celulose,Brasilien,43.26,-5.5,-16.6,-26.6,36.2,9.0,6.1,-12.0,19,39.68,58.97,51.8,Basic Materials,BRL
+SII.TO,Sprott Inc.,Kanada,164.79,-6.7,19.7,-26.6,39.4,49.6,1.8,44.4,48,110.17,224.46,4.2,Financial Services,CAD
+ERIC-B.ST,Ericsson B,Schweden,92.04,-3.1,7.4,-26.6,37.9,24.3,-12.1,24.8,35,74.07,125.34,319.8,Technology,SEK
+CCL,Carnival Corporation,USA,24.54,2.7,-19.4,-26.6,56.9,12.6,-13.5,-15.2,24,21.79,33.45,36.6,Consumer Cyclical,USD
+SGH.AX,SGH,Australien,37.28,-1.9,-19.2,-26.5,45.6,3.3,-15.8,-25.7,8,36.1,50.74,0.0,unbekannt,
+FRA.DE,Fraport,Deutschland,62.0,-0.6,-10.5,-26.5,48.4,4.9,-17.9,-15.0,11,59.1,84.37,6.1,Industrials,EUR
+MFG.AX,Magellan Financial Group,Australien,8.25,-3.6,-10.5,-26.5,39.1,10.0,-19.7,-11.2,20,7.5,11.22,0.0,unbekannt,
+6479.T,6479,Japan,3821.0,14.0,21.9,-26.5,68.1,53.1,-19.0,43.5,49,2496.49,5201.88,1514.0,Technology,JPY
+ALGN,Align Technology,USA,145.35,-9.0,-6.8,-26.4,38.7,16.1,-19.9,15.0,28,125.22,197.51,0.0,unbekannt,
+RELIANCE.NS,Reliance Industries,Indien,1167.7,-11.1,-25.5,-26.3,27.9,0.0,-11.6,-14.0,0,1167.7,1584.97,0.0,unbekannt,
+HOOD,Robinhood Markets,USA,112.5,7.3,-2.4,-26.2,49.3,72.7,3.5,-17.7,54,65.16,152.46,85.9,Financial Services,USD
+BA,Boeing,USA,186.05,-10.5,-18.3,-26.2,31.1,3.9,-14.9,-14.3,9,179.12,252.15,0.0,unbekannt,
+CSU.TO,Constellation Software Inc.,Kanada,2970.0,-2.6,-8.2,-26.1,55.3,31.7,6.9,-21.2,40,2254.59,4021.46,65.5,Technology,CAD
+QCOM,Qualcomm,USA,184.04,8.5,8.1,-26.0,51.9,49.7,1.7,13.7,49,122.94,248.74,174.1,Technology,USD
+TUI1.DE,TUI,Deutschland,6.91,0.1,-22.9,-26.0,56.0,12.1,-4.4,-9.4,24,6.16,9.34,3.6,Consumer Cyclical,EUR
+HCLTECH.NS,HCLTech,Indien,1243.1,-6.6,-21.1,-26.0,45.6,21.4,10.7,-6.2,33,1023.75,1679.96,0.0,unbekannt,
+IMD.AX,IMDEX,Australien,3.26,-5.3,-4.9,-26.0,40.6,4.1,-15.5,-6.5,10,3.13,4.41,0.0,unbekannt,
+ONGC.NS,Oil and Natural Gas Corporation,Indien,222.37,-6.0,-3.9,-25.9,30.9,0.0,-8.4,-2.2,0,222.37,300.12,2974.0,Energy,INR
+BHC.TO,Bausch Health Companies Inc.,Kanada,8.13,-9.8,-18.0,-25.8,46.2,30.1,16.8,-9.3,40,6.25,10.95,3.4,Healthcare,CAD
 0016.HK,Sun Hung Kai Properties Limited,Hongkong,108.5,-4.5,13.1,-25.8,39.5,23.5,-5.9,19.6,35,87.82,146.2,337.6,Real Estate,HKD
-AJG,Arthur J. Gallagher & Co.,USA,227.75,-14.7,-10.2,-25.8,34.6,19.3,-0.5,-24.2,32,190.85,306.87,0.0,unbekannt,
-ERIC-B.ST,Ericsson B,Schweden,93.06,-2.2,8.6,-25.8,40.8,26.2,-10.6,26.3,37,73.76,125.34,319.8,Technology,SEK
-RMD.AX,ResMed,Australien,31.7,-1.8,-11.8,-25.7,52.6,22.9,2.9,-24.1,35,25.79,42.69,46.2,Healthcare,AUD
-ORK.OL,Orkla,Norwegen,92.1,-3.5,-13.6,-25.7,41.2,1.7,-14.6,-6.5,5,90.55,123.94,93.8,Consumer Defensive,NOK
-6762.T,6762,Japan,3033.0,-1.9,37.0,-25.7,56.8,60.7,-15.0,53.7,52,1887.95,4083.18,6093.1,Technology,JPY
-BKNG,Booking Holdings,USA,162.34,-20.9,-23.2,-25.6,32.6,5.8,-8.7,-26.2,14,153.37,218.11,0.0,unbekannt,
-BA,Boeing,USA,187.68,-10.6,-17.6,-25.6,32.2,4.8,-13.3,-15.2,12,179.12,252.15,0.0,unbekannt,
-PRN.AX,Perenti,Australien,2.23,-0.2,-19.3,-25.4,48.9,24.6,-2.8,-20.1,37,1.79,3.0,2.1,Basic Materials,AUD
-IMD.AX,IMDEX,Australien,3.29,-2.6,-4.2,-25.4,41.0,4.9,-17.2,-5.5,12,3.13,4.41,0.0,unbekannt,
+REN.AS,RELX,Niederlande,29.34,-5.1,-12.5,-25.8,46.3,28.4,7.7,-24.4,39,22.86,39.54,51.9,Industrials,EUR
+GEHC,GE HealthCare,USA,65.37,-8.2,-21.0,-25.7,41.0,10.0,0.8,-10.4,21,59.45,88.03,0.0,unbekannt,
+AJG,Arthur J. Gallagher & Co.,USA,228.11,-12.8,-10.1,-25.7,35.1,19.5,-4.6,-24.5,32,190.85,306.87,0.0,unbekannt,
+9984.T,9984,Japan,6410.0,23.4,39.2,-25.7,55.6,83.2,7.6,42.5,57,3499.03,8624.4,32706.1,Communication Services,JPY
+LREN3.SA,Lojas Renner,Brasilien,11.41,5.4,-10.2,-25.6,52.7,11.0,-21.3,-22.3,22,10.28,15.33,10.8,Consumer Cyclical,BRL
+OR.TO,Osisko Gold Royalties Ltd.,Kanada,48.27,-2.2,0.3,-25.6,44.4,22.7,8.8,-12.9,35,39.35,64.89,8.7,Basic Materials,CAD
+JBL,Jabil,USA,286.86,-6.0,19.4,-25.6,36.9,49.1,-23.6,33.9,49,192.34,385.55,0.0,unbekannt,USD
+RMD.AX,ResMed,Australien,31.81,-0.9,-11.6,-25.5,53.8,23.3,1.4,-23.9,36,25.79,42.69,46.2,Healthcare,AUD
+VMC,Vulcan Materials Company,USA,244.63,-9.3,-15.9,-25.5,38.6,1.6,-16.9,-18.7,4,240.83,328.48,0.0,unbekannt,
+7011.T,7011,Japan,3843.0,-0.8,-7.1,-25.5,49.9,10.4,5.2,4.8,22,3481.41,5161.58,13766.8,Industrials,JPY
+RNO.PA,Renault,Frankreich,25.9,-10.7,-23.4,-25.5,35.5,3.3,-1.8,-22.1,8,25.08,34.76,0.0,unbekannt,
+SNDK,Sandisk,USA,1739.89,11.1,532.1,-25.5,54.8,1450.7,-14.4,1432.9,73,112.2,2335.0,239.6,Technology,USD
+HAL,Halliburton,USA,31.8,-13.3,8.9,-25.4,33.0,48.7,-3.2,29.8,49,21.39,42.6,0.0,unbekannt,USD
+VICI,Vici Properties,USA,22.97,-8.7,-14.1,-25.3,27.3,0.0,-10.9,-24.5,0,22.97,30.75,27.3,Real Estate,USD
+TEL.OL,Telenor,Norwegen,128.2,-5.9,-9.3,-25.3,37.0,0.7,-9.8,-17.8,2,127.3,171.7,183.1,Communication Services,NOK
+BKNG,Booking Holdings,USA,162.91,-18.0,-22.9,-25.3,33.5,6.2,-10.6,-24.7,15,153.37,218.11,0.0,unbekannt,
+PRN.AX,Perenti,Australien,2.24,-2.2,-19.2,-25.3,49.5,24.9,0.9,-19.9,37,1.79,3.0,2.1,Basic Materials,AUD
+TDG,TransDigm Group,USA,1082.6,-7.6,-20.3,-25.3,33.4,0.6,-17.3,-16.0,2,1076.01,1450.0,0.0,unbekannt,
+TSN,Tyson Foods,USA,50.53,-7.5,-10.7,-25.2,31.4,3.1,-12.7,-3.1,8,49.0,67.54,0.0,unbekannt,
+AEM.TO,Agnico Eagle Mines Limited,Kanada,256.71,-4.5,10.4,-25.2,40.7,34.2,18.0,10.5,43,191.24,343.17,131.1,Basic Materials,CAD
 1876.HK,Budweiser Brewing Company APAC,Hongkong,5.91,-0.6,-19.1,-25.2,45.0,4.2,-3.0,-23.0,11,5.68,7.91,84.9,Consumer Defensive,HKD
-LRCX,Lam Research,USA,323.86,7.4,75.5,-25.2,59.7,148.2,-25.2,153.5,64,130.49,432.87,415.9,Technology,USD
-RELIANCE.NS,Reliance Industries,Indien,1187.0,-9.3,-24.3,-25.1,31.1,0.4,-9.0,-13.1,1,1182.0,1584.97,0.0,unbekannt,
-6920.T,6920,Japan,42960.0,24.0,36.0,-25.0,67.4,159.1,-12.7,156.1,65,16580.84,57263.49,3479.5,Technology,JPY
-RNO.PA,Renault,Frankreich,26.06,-12.3,-22.9,-25.0,36.4,3.9,0.5,-21.6,10,25.08,34.76,0.0,unbekannt,
+CBRE,CBRE Group,USA,128.47,-11.9,-19.8,-25.1,31.0,3.1,-7.1,-19.2,8,124.64,171.61,0.0,unbekannt,
+LUG.TO,Lundin Gold Inc.,Kanada,86.69,-5.7,-14.0,-25.1,40.8,20.5,9.0,7.8,34,71.94,115.81,21.9,Basic Materials,CAD
+ORK.OL,Orkla,Norwegen,92.8,-2.9,-12.9,-25.1,44.5,2.5,-14.1,-6.0,7,90.55,123.94,93.8,Consumer Defensive,NOK
+BRBY.L,Burberry Group,Grossbritannien,1020.0,-4.7,-22.5,-25.0,43.6,4.3,-4.7,-13.8,11,977.6,1360.0,3.9,Consumer Cyclical,GBp
+ORA.PA,Orange,Frankreich,13.7,-11.6,-2.0,-25.0,24.7,8.9,-13.6,7.8,20,12.58,18.27,0.0,unbekannt,
+7203.T,7203,Japan,2866.5,-7.6,-13.0,-25.0,39.6,8.5,7.0,1.8,19,2641.03,3821.07,35760.0,Consumer Cyclical,JPY
 2057.HK,ZTO Express,Hongkong,153.1,-7.2,-8.0,-25.0,32.6,7.7,-15.6,4.2,18,142.11,204.0,0.0,unbekannt,
-8031.T,8031,Japan,4886.0,-0.5,5.2,-24.9,46.4,39.3,9.8,37.1,46,3507.96,6505.92,13675.0,Industrials,JPY
-RKT.L,Reckitt,Grossbritannien,4890.0,-4.7,-21.5,-24.9,39.6,10.1,-1.9,-17.8,22,4442.26,6509.36,32.5,Consumer Defensive,GBp
-CCL,Carnival Corporation,USA,25.11,1.4,-17.5,-24.9,61.6,15.2,-11.7,-16.7,28,21.79,33.45,36.6,Consumer Cyclical,USD
-CURA.TO,"Curaleaf Holdings, Inc.",Kanada,14.62,9.1,36.1,-24.9,50.9,84.6,-4.5,9.5,58,7.92,19.47,3.5,Healthcare,CAD
-ORA.PA,Orange,Frankreich,13.73,-10.9,-1.8,-24.9,25.0,9.1,-13.5,6.3,20,12.58,18.27,0.0,unbekannt,
-1950.T,1950,Japan,3945.0,-0.5,21.8,-24.9,44.0,51.3,-11.9,47.1,51,2608.21,5250.0,227.9,Industrials,JPY
-PUM.DE,Puma,Deutschland,22.53,-11.4,0.6,-24.9,40.9,45.8,-15.7,6.5,49,15.45,30.0,0.0,unbekannt,
-ONGC.NS,Oil and Natural Gas Corporation,Indien,225.8,-4.1,-2.5,-24.8,34.7,0.3,-4.7,-0.9,1,225.14,300.12,2974.0,Energy,INR
-OR.TO,Osisko Gold Royalties Ltd.,Kanada,48.8,-4.5,1.4,-24.8,46.4,24.0,8.9,-10.0,37,39.35,64.89,8.7,Basic Materials,CAD
-LUG.TO,Lundin Gold Inc.,Kanada,87.24,-10.2,-13.4,-24.7,41.6,21.3,15.8,9.4,35,71.94,115.81,21.9,Basic Materials,CAD
-CMG,Chipotle Mexican Grill,USA,31.88,-16.2,-15.0,-24.7,34.6,13.1,-6.2,-20.5,26,28.18,42.36,42.4,Consumer Cyclical,USD
-1605.T,1605,Japan,3627.0,-6.4,18.4,-24.7,38.3,44.3,10.6,41.2,48,2513.97,4818.11,4395.5,Energy,JPY
-8804.T,8804,Japan,3239.0,-6.0,-6.5,-24.6,41.1,18.7,-2.7,16.0,33,2729.66,4293.59,700.8,Real Estate,JPY
-VICI,Vici Properties,USA,23.2,-8.6,-13.2,-24.6,29.5,0.0,-10.9,-23.5,0,23.19,30.75,27.3,Real Estate,USD
-GEHC,GE HealthCare,USA,66.46,-7.3,-19.6,-24.5,46.3,11.8,3.9,-8.1,25,59.45,88.03,0.0,unbekannt,
-BRBY.L,Burberry Group,Grossbritannien,1028.5,-5.1,-21.9,-24.4,45.6,5.2,-2.7,-11.9,13,977.6,1360.0,3.9,Consumer Cyclical,GBp
-LREN3.SA,Lojas Renner,Brasilien,11.6,8.7,-8.7,-24.3,56.9,12.8,-19.9,-21.0,26,10.28,15.33,10.8,Consumer Cyclical,BRL
-EVN.AX,Evolution Mining,Australien,13.04,-9.6,5.5,-24.3,39.8,30.8,4.9,21.9,42,9.97,17.22,26.8,Basic Materials,AUD
+8804.T,8804,Japan,3225.0,-6.4,-6.9,-24.9,39.8,18.1,-2.2,15.9,32,2729.66,4293.59,700.8,Real Estate,JPY
+ABT,Abbott Laboratories,USA,98.83,-10.4,-18.9,-24.9,29.9,20.6,8.0,-24.0,34,81.98,131.55,0.0,unbekannt,
+LUN.TO,Lundin Mining Corporation,Kanada,33.29,-6.8,12.3,-24.9,41.9,63.2,-3.2,60.9,54,20.4,44.31,30.1,Basic Materials,CAD
+JBHT,J.B. Hunt,USA,224.05,-15.6,14.5,-24.8,29.4,70.2,-22.6,67.6,56,131.6,297.91,0.0,unbekannt,
+8031.T,8031,Japan,4894.0,-0.9,5.4,-24.8,46.7,38.6,10.4,39.5,46,3531.07,6505.92,13675.0,Industrials,JPY
+NVR,"NVR, Inc.",USA,6154.39,-2.5,-15.4,-24.7,44.3,10.6,-7.4,-24.0,23,5563.62,8178.0,16.8,Consumer Cyclical,USD
+JKHY,Jack Henry & Associates,USA,143.24,-14.4,-18.7,-24.7,31.2,16.5,0.9,-3.8,30,122.97,190.35,10.6,Technology,USD
+CURA.TO,"Curaleaf Holdings, Inc.",Kanada,14.66,7.3,36.5,-24.7,51.3,85.1,0.8,27.6,58,7.92,19.47,3.5,Healthcare,CAD
+1950.T,1950,Japan,3955.0,-0.3,22.1,-24.7,44.5,51.6,-9.6,46.1,51,2608.21,5250.0,227.9,Industrials,JPY
+CMG,Chipotle Mexican Grill,USA,31.95,-16.0,-14.8,-24.6,35.2,13.4,-8.7,-19.9,27,28.18,42.36,42.4,Consumer Cyclical,USD
+CBOE,Cboe Global Markets,USA,275.29,-8.3,11.8,-24.6,48.6,19.2,11.4,12.6,33,230.87,364.92,0.0,unbekannt,
+1952.T,1952,Japan,3110.0,-1.0,0.9,-24.4,46.7,13.7,-15.5,8.8,27,2735.99,4111.19,142.8,Industrials,JPY
+EVN.AX,Evolution Mining,Australien,13.02,-12.0,5.4,-24.4,39.6,30.6,10.6,18.7,42,9.97,17.22,26.8,Basic Materials,AUD
+PCAR3.SA,GPA,Brasilien,3.3,22.7,-16.7,-24.3,64.3,126.0,38.1,-22.2,63,1.46,4.36,1.4,Consumer Cyclical,BRL
+TFII.TO,TFI International Inc.,Kanada,171.32,-3.1,18.4,-24.3,36.2,52.9,-12.9,42.1,52,112.02,226.26,14.9,Industrials,CAD
+MRL.MC,Merlin Properties,Spanien,11.92,-10.7,-3.2,-24.3,24.6,0.4,-22.7,-7.7,1,11.87,15.75,0.0,unbekannt,
+COF,Capital One,USA,193.07,-10.0,-21.2,-24.3,31.8,10.5,-5.4,-12.3,23,174.73,254.96,0.0,unbekannt,
 0027.HK,Galaxy Entertainment Group Ltd.,Hongkong,31.62,-4.4,-13.9,-24.3,37.7,11.1,7.5,-20.3,24,28.47,41.75,0.0,unbekannt,
-BHC.TO,Bausch Health Companies Inc.,Kanada,8.29,-5.7,-16.4,-24.3,49.8,32.6,18.6,-8.0,43,6.25,10.95,3.4,Healthcare,CAD
+TXT,Textron,USA,76.2,-5.4,-12.4,-24.3,32.3,0.2,-17.1,-9.2,1,76.02,100.7,0.0,unbekannt,
 2318.HK,Ping An Insurance,Hongkong,52.75,-5.2,-16.6,-24.2,39.0,6.6,3.4,3.2,16,49.5,69.58,988.7,Financial Services,HKD
-ANA.MC,Acciona,Spanien,211.0,0.7,13.1,-24.2,49.2,27.5,-19.7,24.2,40,165.45,278.26,11.2,Industrials,EUR
-1952.T,1952,Japan,3115.0,1.7,1.1,-24.2,47.3,13.9,-15.8,5.3,28,2735.99,4111.19,142.8,Industrials,JPY
-HRL,Hormel Foods,USA,19.85,-8.0,-11.8,-24.2,26.7,1.8,-19.1,-15.5,5,19.51,26.2,0.0,unbekannt,
-AEM.TO,Agnico Eagle Mines Limited,Kanada,260.6,-8.9,12.1,-24.1,43.3,36.3,19.6,15.4,46,191.24,343.17,131.1,Basic Materials,CAD
-7203.T,7203,Japan,2903.0,-5.2,-11.8,-24.0,43.1,9.9,6.5,3.7,22,2641.03,3821.07,35760.0,Consumer Cyclical,JPY
-EDV.AX,Endeavour Group,Australien,2.97,-7.9,-16.5,-24.0,37.8,5.2,-10.0,-15.4,13,2.83,3.91,0.0,unbekannt,AUD
-RCL,Royal Caribbean Group,USA,260.67,-6.2,-6.5,-23.9,50.8,13.2,-17.4,-18.7,27,230.3,342.37,0.0,unbekannt,
+LRCX,Lam Research,USA,328.51,9.1,78.0,-24.1,61.4,151.2,-15.9,151.8,65,130.77,432.87,415.9,Technology,USD
+TATACONSUM.NS,Tata Consumer Products,Indien,957.0,-5.4,-18.0,-24.1,33.8,0.8,-14.4,-14.5,2,949.5,1260.34,0.0,unbekannt,
+EDV.AX,Endeavour Group,Australien,2.97,-8.9,-16.7,-24.1,37.5,5.0,-11.0,-14.6,13,2.83,3.91,0.0,unbekannt,AUD
+PUM.DE,Puma,Deutschland,22.8,-7.0,1.8,-24.0,44.3,47.5,-15.2,4.4,50,15.45,30.0,0.0,unbekannt,
+ENR.DE,Siemens Energy,Deutschland,142.6,1.1,16.6,-24.0,47.6,49.5,-15.2,37.5,51,95.39,187.62,0.0,unbekannt,EUR
+FER.MC,Ferrovial,Spanien,47.51,-5.1,-13.3,-24.0,32.3,1.1,-21.1,-4.2,3,47.01,62.55,0.0,unbekannt,
+1942.T,1942,Japan,5520.0,1.7,8.4,-24.0,49.5,45.4,-16.9,42.2,50,3797.43,7261.64,1098.6,Industrials,JPY
+5714.T,5714,Japan,8851.0,-11.5,22.2,-24.0,43.4,76.3,2.1,71.2,58,5020.23,11640.0,548.1,Basic Materials,JPY
+ADS.DE,Adidas,Deutschland,145.3,-1.8,-11.6,-24.0,44.8,13.1,-21.6,-20.7,27,128.44,191.31,0.0,unbekannt,
+RAA.DE,Rational,Deutschland,569.0,-8.6,-10.5,-23.9,33.3,1.2,-14.5,-11.3,4,562.0,747.86,0.0,unbekannt,
+IR,Ingersoll Rand,USA,75.11,-2.5,-5.8,-23.9,47.1,9.6,-7.1,-8.9,22,68.52,98.69,0.0,unbekannt,USD
+LHA.DE,Lufthansa,Deutschland,7.67,0.4,-7.0,-23.9,45.0,16.0,-23.1,9.1,31,6.61,10.09,0.0,unbekannt,
+HRL,Hormel Foods,USA,19.94,-8.7,-11.4,-23.9,28.8,2.2,-18.9,-14.8,6,19.51,26.2,0.0,unbekannt,
+MCHP,Microchip Technology,USA,77.77,5.9,21.6,-23.8,56.1,62.8,-11.8,24.6,55,47.77,102.1,43.0,Technology,USD
+GXI.DE,Gerresheimer,Deutschland,28.94,5.7,4.1,-23.8,59.7,84.3,2.8,-21.7,59,15.7,37.98,0.9,Healthcare,EUR
+5411.T,5411,Japan,1720.5,-4.8,-11.5,-23.8,40.2,13.8,12.8,-4.4,28,1512.13,2258.54,1137.4,Basic Materials,JPY
+9022.T,9022,Japan,3634.0,-8.2,-16.5,-23.8,36.5,12.1,5.2,-14.3,26,3242.16,4766.43,3603.8,Industrials,JPY
+LMT,Lockheed Martin,USA,509.25,-8.7,4.3,-23.8,32.8,18.1,-1.8,6.2,33,431.38,668.17,0.0,unbekannt,
 6690.HK,Haier,Hongkong,20.24,-4.8,-16.2,-23.8,44.8,10.0,2.3,-20.4,23,18.41,26.56,197.7,Consumer Cyclical,HKD
-7735.T,7735,Japan,14780.0,8.2,87.2,-23.8,64.8,152.6,-11.5,134.3,66,5851.9,19406.23,2699.2,Technology,JPY
-HOOD,Robinhood Markets,USA,116.22,11.5,0.9,-23.8,53.6,78.4,15.9,-4.6,58,65.16,152.46,85.9,Financial Services,USD
-CBRE,CBRE Group,USA,130.84,-13.2,-18.3,-23.8,33.5,5.0,-2.9,-17.2,13,124.64,171.61,0.0,unbekannt,
-NVR,"NVR, Inc.",USA,6234.63,-2.5,-14.3,-23.8,48.2,12.1,-8.5,-22.4,26,5563.62,8178.0,16.8,Consumer Cyclical,USD
-ADS.DE,Adidas,Deutschland,145.75,-3.7,-11.3,-23.8,45.5,13.5,-20.7,-17.2,28,128.44,191.31,0.0,unbekannt,
-9984.T,9984,Japan,6583.0,27.7,43.0,-23.7,59.6,88.1,11.8,44.4,60,3499.03,8624.4,32706.1,Communication Services,JPY
-1942.T,1942,Japan,5538.0,2.3,8.7,-23.7,50.1,45.8,-17.6,40.3,50,3797.43,7261.64,1098.6,Industrials,JPY
-BN.PA,Danone,Frankreich,58.76,-8.6,-20.0,-23.6,26.8,0.0,-20.6,-17.6,0,58.76,76.92,39.5,Consumer Defensive,EUR
-RAA.DE,Rational,Deutschland,571.5,-9.4,-10.1,-23.6,34.5,1.7,-12.7,-9.1,5,562.0,747.86,0.0,unbekannt,
-WDAY,"Workday, Inc.",USA,189.17,-7.6,-8.1,-23.6,50.0,68.2,54.5,-23.3,57,112.5,247.69,47.2,Technology,USD
-FER.MC,Ferrovial,Spanien,47.82,-5.1,-12.8,-23.6,33.9,1.7,-20.0,-2.7,5,47.01,62.55,0.0,unbekannt,
-GRF.MC,Grifols,Spanien,9.49,-3.5,-14.4,-23.5,43.6,10.5,4.2,-24.0,24,8.59,12.41,6.7,Healthcare,EUR
-SCR.TO,Strathcona Resources Ltd.,Kanada,38.78,-8.7,37.2,-23.5,36.2,53.2,3.6,46.9,53,25.32,50.66,0.0,unbekannt,
-6841.T,6841,Japan,4688.0,-7.5,-7.4,-23.5,43.4,13.0,-15.4,9.0,27,4147.64,6127.75,0.0,unbekannt,
-EQT.ST,EQT,Schweden,284.4,-14.7,-19.9,-23.5,24.9,8.6,0.1,-8.9,21,261.9,371.62,0.0,unbekannt,
-JD.L,JD Sports,Grossbritannien,80.02,-7.7,-6.6,-23.5,49.7,22.6,-5.0,-16.0,38,65.27,104.54,0.0,unbekannt,
-5714.T,5714,Japan,8922.0,-14.2,23.2,-23.4,44.8,77.7,1.7,68.8,59,5020.23,11640.0,548.1,Basic Materials,JPY
-LHA.DE,Lufthansa,Deutschland,7.72,-1.7,-6.4,-23.4,47.0,16.9,-22.6,11.5,32,6.61,10.09,0.0,unbekannt,
-LUN.TO,Lundin Mining Corporation,Kanada,33.93,-8.5,14.5,-23.4,44.7,66.3,-1.7,67.6,57,20.4,44.31,30.1,Basic Materials,CAD
-1979.T,1979,Japan,3755.0,-1.8,17.4,-23.4,43.8,39.2,-23.3,34.7,48,2697.43,4899.41,247.6,Industrials,JPY
-LMT,Lockheed Martin,USA,512.21,-8.6,4.9,-23.3,34.1,18.7,1.2,7.8,34,431.38,668.17,0.0,unbekannt,
-ABT,Abbott Laboratories,USA,100.95,-10.2,-17.2,-23.3,35.2,23.1,12.0,-22.7,38,81.98,131.55,0.0,unbekannt,
-PCAR3.SA,GPA,Brasilien,3.35,22.7,-15.4,-23.2,67.0,129.5,40.2,-21.0,65,1.46,4.36,1.4,Consumer Cyclical,BRL
-9022.T,9022,Japan,3662.0,-6.5,-15.9,-23.2,38.3,12.9,5.5,-12.7,28,3242.16,4766.43,3603.8,Industrials,JPY
-JKHY,Jack Henry & Associates,USA,146.22,-13.5,-17.0,-23.2,34.4,18.9,6.5,-0.6,35,122.97,190.35,10.6,Technology,USD
-ECOR3.SA,EcoRodovias,Brasilien,9.03,23.9,-10.9,-23.1,68.9,53.8,21.2,20.1,54,5.87,11.74,4.1,Industrials,BRL
-MAXHEALTH.NS,Max Healthcare,Indien,929.8,-7.3,-11.2,-23.1,27.5,0.0,-19.4,-16.2,0,929.8,1208.85,981.6,Healthcare,INR
-BN.TO,Brookfield Corporation,Kanada,51.92,-8.9,-18.6,-23.1,35.6,1.1,-14.0,-18.6,3,51.38,67.55,0.0,unbekannt,
-CYRE3.SA,Cyrela Brazil Realty,Brasilien,27.18,11.9,13.4,-23.0,61.5,37.1,17.4,-1.9,47,19.83,35.31,7.8,Consumer Cyclical,BRL
-5411.T,5411,Japan,1738.0,-4.4,-10.6,-23.0,42.4,14.9,13.7,-4.7,30,1512.13,2258.54,1137.4,Basic Materials,JPY
-JBHT,J.B. Hunt,USA,229.28,-12.2,17.2,-23.0,32.0,74.2,-20.6,71.9,59,131.6,297.91,0.0,unbekannt,
-MTS.AX,Metcash,Australien,2.89,-3.0,-9.9,-22.9,48.4,12.5,-1.6,-18.8,27,2.57,3.75,3.4,Consumer Defensive,AUD
-4063.T,4063,Japan,6000.0,0.3,22.8,-22.9,54.7,37.1,-13.3,35.4,48,4377.64,7779.15,0.0,unbekannt,
-RRL.AX,Regis Resources,Australien,7.21,-9.6,-1.3,-22.9,38.0,32.5,10.3,25.7,45,5.44,9.35,5.6,Basic Materials,AUD
-COF,Capital One,USA,196.46,-8.9,-19.8,-22.9,35.2,12.4,-1.7,-11.0,27,174.73,254.96,0.0,unbekannt,
-NDX1.DE,Nordex,Deutschland,38.58,2.2,27.5,-22.8,47.1,74.6,-17.0,77.0,59,22.1,50.0,9.3,Industrials,EUR
-5713.T,5713,Japan,9794.0,-14.1,51.8,-22.8,51.7,146.2,32.2,131.4,67,3978.2,12686.23,2573.5,Basic Materials,JPY
-MCHP,Microchip Technology,USA,78.78,8.0,23.2,-22.8,59.0,64.9,-13.1,25.5,57,47.77,102.1,43.0,Technology,USD
-PRU.L,Prudential plc,Grossbritannien,944.4,-7.2,-18.2,-22.6,33.9,3.1,-9.2,-9.3,9,915.92,1219.74,0.0,unbekannt,
-1964.T,1964,Japan,3850.0,-5.2,-8.1,-22.6,41.7,1.3,-5.1,-7.6,4,3800.0,4976.92,0.0,unbekannt,
-LIF.TO,Labrador Iron Ore Royalty Corporation,Kanada,23.85,-8.8,-15.8,-22.6,26.2,0.0,-13.5,-11.1,0,23.85,30.81,0.0,unbekannt,
-8002.T,8002,Japan,4770.0,-1.7,9.6,-22.6,42.5,39.0,2.4,37.4,49,3432.86,6163.88,8020.4,Industrials,JPY
-LDO.MI,Leonardo,Italien,49.19,-4.9,-2.8,-22.5,37.9,10.7,-5.3,-7.8,25,44.43,63.49,0.0,unbekannt,
-IR,Ingersoll Rand,USA,76.48,-2.7,-4.0,-22.5,52.2,11.6,-6.7,-7.0,26,68.52,98.69,0.0,unbekannt,USD
-KRN.DE,Krones,Deutschland,107.8,-10.9,-18.7,-22.5,37.6,1.7,-5.4,-10.9,5,106.0,139.07,0.0,unbekannt,
-SUL.AX,Super Retail Group,Australien,12.68,0.1,-16.1,-22.5,51.5,18.8,2.0,-19.7,35,10.67,16.36,3.0,Consumer Cyclical,AUD
-4004.T,4004,Japan,15085.0,-6.7,123.4,-22.4,50.9,228.7,-15.6,224.0,71,4589.47,19450.0,0.0,unbekannt,
-AAV.TO,Advantage Energy Ltd.,Kanada,9.85,-11.5,-16.0,-22.4,34.8,4.2,-4.5,-15.2,12,9.45,12.69,0.0,unbekannt,
-AQN.TO,Algonquin Power & Utilities Corp.,Kanada,7.15,-7.7,-12.1,-22.4,38.2,2.6,-13.1,0.4,8,6.97,9.22,5.7,Utilities,CAD
-NGEX.TO,NGEx Minerals Ltd.,Kanada,24.7,-9.2,-1.4,-22.4,43.3,16.3,-2.7,-4.3,33,21.24,31.84,0.0,unbekannt,
-1963.T,1963,Japan,2221.5,-2.4,14.2,-22.4,41.6,58.1,-12.9,52.0,56,1405.4,2863.0,0.0,unbekannt,
-DXS.AX,Dexus,Australien,5.66,-2.6,-16.1,-22.3,51.1,9.6,3.1,-17.2,23,5.17,7.29,6.2,Real Estate,AUD
-7211.T,7211,Japan,345.6,-9.9,-4.5,-22.3,42.3,15.5,11.3,-14.4,32,299.33,444.91,458.8,Consumer Cyclical,JPY
-AD.AS,Ahold Delhaize,Niederlande,31.98,4.3,-5.3,-22.3,52.1,4.6,-10.2,-3.8,13,30.56,41.14,28.3,Consumer Defensive,EUR
-MRL.MC,Merlin Properties,Spanien,12.24,-8.7,-0.6,-22.3,29.3,3.1,-19.2,-3.5,10,11.87,15.75,0.0,unbekannt,
-SNPS,Synopsys,USA,415.09,-6.2,-13.6,-22.3,54.3,12.9,-6.9,-14.9,28,367.7,534.56,80.7,Technology,USD
-ENR.DE,Siemens Energy,Deutschland,145.82,2.6,19.3,-22.3,51.7,52.9,-12.1,47.3,55,95.39,187.62,0.0,unbekannt,EUR
-PEP,PepsiCo,USA,128.69,-7.8,-6.8,-22.2,30.5,0.4,-3.9,-4.7,1,128.15,165.45,0.0,unbekannt,
-CAT,Caterpillar Inc.,USA,826.64,3.3,39.0,-22.2,53.9,76.9,-22.2,79.1,60,467.4,1062.93,0.0,unbekannt,
-LUV,Southwest Airlines,USA,42.08,6.7,3.3,-22.2,55.5,44.4,-17.8,31.7,52,29.15,54.07,21.2,Industrials,USD
-SAP.DE,SAP,Deutschland,185.32,-2.9,-6.7,-22.1,54.7,44.4,30.8,-17.3,52,128.32,237.96,207.9,Technology,EUR
-CDNS,Cadence Design Systems,USA,324.17,-4.8,4.4,-22.1,59.6,22.0,-13.6,-7.4,39,265.66,416.39,89.6,Technology,USD
-1808.T,1808,Japan,2629.0,-7.0,-12.3,-22.1,40.0,13.7,-5.7,9.4,30,2312.72,3375.46,0.0,unbekannt,
-SBSP3.SA,Sabesp,Brasilien,27.43,8.5,3.8,-22.1,58.4,18.7,-8.3,12.2,36,23.12,35.21,83.7,Utilities,BRL
-3092.T,3092,Japan,1083.0,-3.9,-12.2,-22.0,41.8,11.5,-4.0,-21.1,27,971.24,1388.94,999.1,Consumer Cyclical,JPY
-PAYX,Paychex,USA,99.31,-21.8,-5.4,-22.0,20.5,18.8,2.0,-19.1,36,83.61,127.34,0.0,unbekannt,
-AMS.MC,Amadeus IT Group,Spanien,52.48,-9.9,-13.9,-21.9,37.3,14.8,2.2,-20.2,31,45.72,67.2,24.0,Technology,EUR
-BIR.TO,Birchcliff Energy Ltd.,Kanada,6.2,-4.6,-15.3,-21.9,45.0,10.5,0.6,6.8,25,5.61,7.94,1.7,Energy,CAD
-1959.T,1959,Japan,8026.0,-0.5,5.7,-21.9,49.6,19.4,-13.0,12.7,37,6720.39,10282.54,0.0,unbekannt,
-AMP.MI,Amplifon,Italien,11.96,-1.3,-11.6,-21.8,55.6,53.0,18.7,-11.3,55,7.82,15.3,0.0,unbekannt,
-IMG.TO,Iamgold Corporation,Kanada,26.23,-7.5,17.9,-21.8,44.1,69.8,16.5,47.0,60,15.45,33.56,14.5,Basic Materials,CAD
-MONC.MI,Moncler,Italien,44.5,-5.5,-16.3,-21.8,45.0,2.9,-13.3,-8.2,9,43.25,56.91,0.0,unbekannt,
-NST.AX,Northern Star Resources,Australien,24.3,9.0,1.6,-21.8,61.2,43.0,13.1,1.7,52,16.99,31.07,32.1,Basic Materials,AUD
-RMS.AX,Ramelius Resources,Australien,3.88,3.5,-6.9,-21.8,54.3,38.7,25.8,-1.5,50,2.8,4.96,6.8,Basic Materials,AUD
-MGR.AX,Mirvac,Australien,1.82,-1.3,-8.5,-21.7,54.3,15.3,7.2,-17.3,32,1.58,2.32,7.0,Real Estate,AUD
-IG.MI,Italgas,Italien,8.39,-4.6,-9.4,-21.7,43.7,13.1,-17.6,11.8,29,7.41,10.72,0.0,unbekannt,
+BN.PA,Danone,Frankreich,58.7,-9.0,-20.1,-23.7,26.6,0.0,-20.0,-17.0,0,58.7,76.92,39.5,Consumer Defensive,EUR
+CAT,Caterpillar Inc.,USA,810.79,1.7,36.3,-23.7,48.3,71.5,-18.1,73.5,57,472.89,1062.93,0.0,unbekannt,
+PRU.L,Prudential plc,Grossbritannien,931.4,-6.9,-19.3,-23.6,30.8,1.7,-9.3,-10.6,5,915.92,1219.74,0.0,unbekannt,
+RRL.AX,Regis Resources,Australien,7.15,-13.0,-2.2,-23.5,36.8,31.4,9.9,24.4,44,5.44,9.35,5.6,Basic Materials,AUD
+ANA.MC,Acciona,Spanien,212.8,4.3,14.0,-23.5,51.1,28.6,-20.4,23.9,42,165.45,278.26,11.2,Industrials,EUR
+LIF.TO,Labrador Iron Ore Royalty Corporation,Kanada,23.56,-9.2,-16.8,-23.5,24.0,0.0,-15.7,-12.2,0,23.56,30.81,0.0,unbekannt,
+DXS.AX,Dexus,Australien,5.59,-2.9,-17.2,-23.4,47.2,8.1,1.0,-18.5,20,5.17,7.29,6.2,Real Estate,AUD
+NGEX.TO,NGEx Minerals Ltd.,Kanada,24.4,-4.5,-2.6,-23.4,42.0,14.9,-4.7,-6.0,30,21.24,31.84,0.0,unbekannt,
+6841.T,6841,Japan,4691.0,-7.3,-7.3,-23.4,44.0,13.1,-15.9,11.9,27,4147.64,6127.75,0.0,unbekannt,
+KOG.OL,Kongsberg Gruppen,Norwegen,319.9,2.1,20.5,-23.4,54.8,41.6,-2.5,2.4,49,225.96,417.6,0.0,unbekannt,
+PEP,PepsiCo,USA,126.72,-8.7,-8.2,-23.4,26.5,0.0,-9.3,-5.9,0,126.72,165.45,0.0,unbekannt,
+KRN.DE,Krones,Deutschland,106.6,-10.4,-19.6,-23.3,35.0,0.6,-5.8,-12.7,2,106.0,139.07,0.0,unbekannt,
+RKT.L,Reckitt,Grossbritannien,4992.0,-6.9,-19.8,-23.3,48.1,12.4,-2.6,-15.6,27,4442.26,6509.36,32.5,Consumer Defensive,GBp
+SPGI,S&P Global,USA,394.47,-9.5,-18.1,-23.2,36.3,7.4,-4.7,-14.4,19,367.15,513.34,123.5,Financial Services,USD
+1605.T,1605,Japan,3699.0,-6.5,20.7,-23.2,43.6,47.1,13.3,44.8,51,2513.97,4818.11,4395.5,Energy,JPY
+7211.T,7211,Japan,341.7,-12.0,-5.6,-23.2,40.4,14.2,11.0,-14.9,29,299.33,444.91,458.8,Consumer Cyclical,JPY
+6762.T,6762,Japan,3134.0,2.5,41.6,-23.2,60.0,66.0,-11.6,53.4,57,1887.95,4083.18,6093.1,Technology,JPY
+GMG.AX,Goodman Group,Australien,26.28,-4.1,-14.3,-23.1,43.7,5.5,-14.3,-21.8,15,24.9,34.17,0.0,Real Estate,AUD
+BN.TO,Brookfield Corporation,Kanada,51.97,-5.7,-18.5,-23.1,36.1,1.1,-15.4,-17.8,4,51.38,67.55,0.0,unbekannt,
+SCR.TO,Strathcona Resources Ltd.,Kanada,38.96,-11.1,37.8,-23.1,37.4,53.9,4.8,49.3,54,25.32,50.66,0.0,unbekannt,
+APO,Apollo Global Management,USA,116.06,-15.0,-19.8,-23.0,29.6,16.7,-1.6,-14.8,32,99.46,150.8,0.0,unbekannt,
+LUV,Southwest Airlines,USA,41.64,8.6,2.2,-23.0,52.6,42.8,-17.1,29.4,50,29.15,54.07,21.2,Industrials,USD
+RMS.AX,Ramelius Resources,Australien,3.82,-1.8,-8.3,-23.0,51.8,36.5,28.8,-5.2,47,2.8,4.96,6.8,Basic Materials,AUD
+TAH.AX,Tabcorp,Australien,0.88,0.2,-7.7,-23.0,43.9,32.8,11.4,-13.4,45,0.66,1.15,2.1,Consumer Cyclical,AUD
+TNE.AX,TechnologyOne,Australien,30.27,-1.9,8.9,-22.9,53.9,50.5,-2.0,-21.2,53,20.12,39.26,0.0,unbekannt,
+TFPM.TO,Triple Flag Precious Metals Corp.,Kanada,43.26,-4.6,-3.3,-22.9,40.8,15.6,-2.7,6.9,31,37.42,56.12,9.0,Basic Materials,CAD
+AMS.MC,Amadeus IT Group,Spanien,51.82,-7.6,-15.0,-22.9,34.8,13.3,1.4,-21.4,28,45.72,67.2,24.0,Technology,EUR
+1808.T,1808,Japan,2603.5,-8.5,-13.1,-22.9,38.4,12.6,-6.7,8.9,27,2312.72,3375.46,0.0,unbekannt,
+LDO.MI,Leonardo,Italien,49.0,-4.0,-3.2,-22.8,37.0,10.3,-6.7,-8.2,24,44.43,63.49,0.0,unbekannt,
+SEA.TO,Seabridge Gold Inc.,Kanada,38.81,-6.8,1.4,-22.8,39.1,33.5,-0.9,23.6,46,29.07,50.28,0.0,unbekannt,
+SANB11.SA,Santander Brasil,Brasilien,27.9,-4.9,-12.4,-22.8,34.6,11.2,5.6,3.0,25,25.1,36.14,154.2,Financial Services,BRL
+MTS.AX,Metcash,Australien,2.89,-2.2,-9.8,-22.8,49.8,12.7,-1.4,-18.1,28,2.57,3.75,3.4,Consumer Defensive,AUD
+CYRE3.SA,Cyrela Brazil Realty,Brasilien,27.25,10.5,13.7,-22.8,61.9,37.4,17.7,-1.7,48,19.83,35.31,7.8,Consumer Cyclical,BRL
+1964.T,1964,Japan,3840.0,-5.0,-8.3,-22.8,40.8,1.1,-5.0,-6.5,3,3800.0,4976.92,0.0,unbekannt,
+8002.T,8002,Japan,4764.0,-2.2,9.5,-22.7,42.1,37.2,2.8,38.8,48,3473.4,6163.88,8020.4,Industrials,JPY
+DG,Dollar General,USA,119.58,-5.7,-11.4,-22.7,42.3,26.4,4.3,18.5,42,94.6,154.71,27.2,Consumer Defensive,USD
+ULTA,Ulta Beauty,USA,546.17,1.7,-11.9,-22.7,52.5,21.2,20.1,-1.4,37,450.75,706.82,22.0,Consumer Cyclical,USD
+ALX.AX,Atlas Arteria,Australien,3.78,-12.4,-15.0,-22.7,28.8,0.8,-22.4,-13.7,3,3.75,4.89,0.0,unbekannt,
+HWM,Howmet Aerospace,USA,226.18,-7.7,7.0,-22.7,36.7,23.1,-15.4,18.1,39,183.71,292.65,0.0,unbekannt,
+4063.T,4063,Japan,6016.0,0.2,23.2,-22.7,55.3,37.4,-13.9,35.5,48,4377.64,7779.15,0.0,unbekannt,
+NST.AX,Northern Star Resources,Australien,24.02,5.0,0.4,-22.7,58.5,41.4,17.8,-1.0,50,16.99,31.07,32.1,Basic Materials,AUD
+PAYX,Paychex,USA,98.5,-22.6,-6.2,-22.6,19.8,17.8,-3.1,-20.0,34,83.61,127.34,0.0,unbekannt,
+DG.PA,Vinci,Frankreich,106.95,-6.3,-9.1,-22.6,30.8,0.0,-16.4,-5.8,0,106.95,138.24,0.0,unbekannt,
+AD.AS,Ahold Delhaize,Niederlande,31.85,3.3,-5.6,-22.6,50.7,4.2,-10.0,-4.1,12,30.56,41.14,28.3,Consumer Defensive,EUR
+MGR.AX,Mirvac,Australien,1.8,-2.9,-9.5,-22.6,51.6,14.0,7.9,-18.6,30,1.58,2.32,7.0,Real Estate,AUD
+EQT.ST,EQT,Schweden,288.0,-10.8,-18.9,-22.5,30.6,10.0,3.0,-8.7,24,261.9,371.62,0.0,unbekannt,
+AAV.TO,Advantage Energy Ltd.,Kanada,9.85,-12.9,-16.0,-22.4,34.8,4.2,-5.7,-13.7,12,9.45,12.69,0.0,unbekannt,
+NTPC.NS,NTPC,Indien,315.1,-4.5,-4.6,-22.4,30.9,0.8,-10.6,-4.9,3,312.74,405.82,0.0,unbekannt,
+VGN.AX,Virgin Australia Holdings,Australien,2.77,-0.0,-18.1,-22.4,50.9,31.9,-8.1,-23.0,46,2.1,3.57,2.1,Industrials,AUD
+1979.T,1979,Japan,3800.0,-2.4,18.8,-22.4,47.1,40.9,-22.4,39.1,50,2697.43,4899.41,247.6,Industrials,JPY
+BXB.AX,Brambles,Australien,19.03,0.2,-13.8,-22.4,52.5,18.1,0.8,-20.9,35,16.12,24.53,26.1,Industrials,AUD
+5713.T,5713,Japan,9859.0,-10.3,52.8,-22.3,52.6,147.8,33.4,137.7,68,3978.2,12686.23,2573.5,Basic Materials,JPY
+RCL,Royal Caribbean Group,USA,265.86,-0.5,-4.6,-22.3,54.2,15.4,-12.7,-17.0,32,230.3,342.37,0.0,unbekannt,
+IMG.TO,Iamgold Corporation,Kanada,26.09,-2.6,17.3,-22.3,43.5,68.9,11.1,45.1,59,15.45,33.56,14.5,Basic Materials,CAD
+WAF.DE,Siltronic,Deutschland,81.3,7.5,59.4,-22.3,55.9,90.4,-12.1,69.0,62,42.7,104.7,2.7,Technology,EUR
+AQN.TO,Algonquin Power & Utilities Corp.,Kanada,7.17,-7.8,-11.9,-22.2,39.3,2.9,-6.7,0.3,9,6.97,9.22,5.7,Utilities,CAD
+MAXHEALTH.NS,Max Healthcare,Indien,940.95,-5.3,-10.2,-22.2,31.3,1.2,-16.9,-15.4,4,929.8,1208.85,981.6,Healthcare,INR
+JD.L,JD Sports,Grossbritannien,81.28,-3.2,-5.2,-22.2,52.4,24.5,-2.2,-20.1,41,65.27,104.54,0.0,unbekannt,
+EXPE,Expedia Group,USA,263.36,-17.0,-6.4,-22.2,36.0,40.5,-0.3,20.3,50,187.43,338.64,0.0,unbekannt,
+4507.T,4507,Japan,2787.0,-3.0,-0.4,-22.1,41.8,19.0,1.2,10.6,36,2342.16,3579.77,2409.5,Healthcare,JPY
+CVS,CVS Health,USA,85.69,-8.8,9.4,-22.0,33.0,24.1,-17.7,17.0,41,69.04,109.92,0.0,unbekannt,
+SAP.DE,SAP,Deutschland,185.66,0.8,-6.5,-22.0,55.2,44.7,33.0,-17.1,52,128.32,237.96,207.9,Technology,EUR
+BIR.TO,Birchcliff Energy Ltd.,Kanada,6.19,-6.2,-15.4,-22.0,44.6,10.3,-0.3,9.9,25,5.61,7.94,1.7,Energy,CAD
+CLW.AX,Charter Hall Long WALE REIT,Australien,3.21,-5.5,-16.7,-21.9,32.6,0.4,-8.9,-20.3,1,3.2,4.12,0.0,unbekannt,
+SGO.PA,Saint-Gobain,Frankreich,69.04,-9.7,-18.2,-21.9,33.1,4.5,-14.0,-24.6,13,66.05,88.37,0.0,unbekannt,
+SBSP3.SA,Sabesp,Brasilien,27.5,9.6,4.1,-21.9,59.1,19.0,-9.5,13.2,36,23.12,35.21,83.7,Utilities,BRL
+GRF.MC,Grifols,Spanien,9.55,-3.8,-13.9,-21.8,45.5,11.2,5.9,-23.0,27,8.59,12.21,6.7,Healthcare,EUR
+1959.T,1959,Japan,8044.0,0.1,5.9,-21.8,50.3,19.7,-12.4,16.6,37,6720.39,10282.54,0.0,unbekannt,
 CTC.TO,Canadian Tire Corporation Limited,Kanada,203.0,-3.4,-5.5,-21.7,20.0,0.9,-4.8,-21.7,3,201.17,259.42,0.0,unbekannt,
-FM.TO,First Quantum Minerals Ltd.,Kanada,38.23,-17.1,2.5,-21.5,33.8,38.4,-1.3,21.1,50,27.62,48.69,0.0,unbekannt,
-ALX.AX,Atlas Arteria,Australien,3.84,-10.7,-13.6,-21.5,29.7,2.4,-21.2,-13.6,8,3.75,4.89,0.0,unbekannt,
-DG.PA,Vinci,Frankreich,108.5,-4.1,-7.8,-21.5,34.0,0.0,-14.5,-4.8,0,108.5,138.24,0.0,unbekannt,
-BXB.AX,Brambles,Australien,19.25,1.9,-12.8,-21.5,56.5,19.4,-1.3,-19.9,37,16.12,24.53,26.1,Industrials,AUD
-EXPE,Expedia Group,USA,266.33,-19.2,-5.3,-21.4,37.4,42.1,4.2,20.4,52,187.43,338.64,0.0,unbekannt,
-7004.T,7004,Japan,1142.0,-3.7,22.0,-21.4,42.0,26.7,-10.1,9.6,44,901.68,1453.0,195.5,Industrials,JPY
-NEE,NextEra Energy,USA,75.89,-7.3,-4.2,-21.3,24.9,3.4,-12.9,2.9,11,73.38,96.44,0.0,unbekannt,
-BC8.DE,Bechtle,Deutschland,34.6,-7.3,-19.6,-21.3,48.9,37.4,10.1,-9.8,50,25.19,43.96,4.4,Technology,EUR
-4704.T,4704,Japan,6545.0,8.2,1.7,-21.3,60.4,33.4,9.6,-18.9,48,4906.0,8316.22,759.4,Technology,JPY
-CLS.TO,Celestica Inc.,Kanada,514.95,23.8,24.2,-21.1,60.7,57.9,-0.4,50.3,58,326.12,652.82,58.7,Technology,CAD
+TEF.MC,Telefónica,Spanien,3.34,-8.1,-0.3,-21.7,32.3,7.3,-6.0,-16.1,20,3.11,4.26,0.0,unbekannt,
+NDX1.DE,Nordex,Deutschland,39.16,6.3,29.4,-21.7,49.5,77.2,-14.0,72.1,61,22.1,50.0,9.3,Industrials,EUR
+BC8.DE,Bechtle,Deutschland,34.48,-5.2,-19.9,-21.6,48.2,36.9,9.0,-9.5,50,25.19,43.96,4.4,Technology,EUR
+MONC.MI,Moncler,Italien,44.64,-3.3,-16.1,-21.6,46.1,3.2,-12.7,-8.6,10,43.25,56.91,0.0,unbekannt,
+EL,Estée Lauder Companies (The),USA,92.77,-9.3,-12.2,-21.6,43.4,39.0,12.9,5.6,50,66.74,118.37,31.2,Consumer Defensive,USD
+3092.T,3092,Japan,1090.0,-3.4,-11.7,-21.5,44.2,12.2,-3.4,-21.1,28,971.24,1388.94,999.1,Consumer Cyclical,JPY
+EN.PA,Bouygues,Frankreich,41.63,-6.2,-4.0,-21.5,27.2,16.8,-13.9,13.0,35,35.64,53.0,0.0,unbekannt,
+KR,Kroger,USA,58.62,1.9,-5.3,-21.5,49.0,6.3,4.9,-9.8,18,55.15,74.69,34.7,Consumer Defensive,USD
+BGL.AX,Bellevue Gold,Australien,1.56,-5.0,-8.1,-21.5,48.2,40.7,17.4,27.0,51,1.11,1.99,2.2,Basic Materials,AUD
+SHL.DE,Siemens Healthineers,Deutschland,37.97,-3.4,-11.9,-21.5,46.7,13.7,8.6,-16.0,31,33.4,48.37,0.0,unbekannt,EUR
+GS,Goldman Sachs,USA,900.36,-11.8,-0.1,-21.5,30.4,23.3,-11.3,14.2,41,730.24,1146.46,0.0,unbekannt,
+NEE,NextEra Energy,USA,75.74,-8.0,-4.4,-21.5,24.5,3.2,-11.6,2.2,10,73.38,96.44,0.0,unbekannt,
+IG.MI,Italgas,Italien,8.41,-3.6,-9.2,-21.5,44.9,12.7,-17.9,13.4,29,7.46,10.72,0.0,unbekannt,
+HWDN.L,Howdens Joinery,Grossbritannien,762.0,-3.0,-9.2,-21.4,47.1,5.3,-7.7,-8.2,16,723.5,969.8,0.0,unbekannt,
+4661.T,4661,Japan,2848.5,-5.6,0.2,-21.4,38.9,34.4,14.7,-22.0,49,2119.64,3622.03,4724.0,Consumer Cyclical,JPY
+STLD,Steel Dynamics,USA,221.61,-4.5,26.9,-21.3,36.4,60.6,0.2,61.9,58,137.95,281.45,0.0,unbekannt,
+SPK.AX,Spark New Zealand,Australien,1.58,-7.6,-13.5,-21.3,41.9,12.8,7.3,-18.7,30,1.4,2.01,3.0,Communication Services,AUD
+MFI.TO,Maple Leaf Foods Inc.,Kanada,24.64,-5.9,1.3,-21.3,23.5,9.4,-18.8,-18.8,24,22.52,31.29,0.0,unbekannt,
+HCA,HCA Healthcare,USA,426.74,3.2,-8.8,-21.3,52.7,18.6,8.7,2.1,37,359.93,542.23,89.8,Healthcare,USD
+STE,Steris,USA,210.01,-9.5,-15.3,-21.2,38.3,5.6,-0.8,-13.7,17,198.79,266.36,20.5,Healthcare,USD
+RENT3.SA,Localiza,Brasilien,40.03,17.3,-4.2,-21.2,68.4,26.8,-1.5,6.0,44,31.57,50.82,37.0,Industrials,BRL
+TJX,TJX Companies,USA,132.31,-1.2,-13.4,-21.2,47.5,7.7,-12.3,-6.7,21,122.84,167.88,0.0,unbekannt,
+RMD,ResMed|,USA,221.1,-7.9,-8.9,-21.1,45.1,21.3,10.3,-17.6,40,182.3,280.31,32.4,Healthcare,USD
+SUL.AX,Super Retail Group,Australien,12.9,-0.3,-14.6,-21.1,55.7,20.9,2.9,-17.7,39,10.67,16.36,3.0,Consumer Cyclical,AUD
 0012.HK,Henderson Land Development Company Limited,Hongkong,26.74,3.6,-3.4,-21.1,53.3,9.9,6.6,-0.8,25,24.33,33.88,129.7,Real Estate,HKD
-HWM,Howmet Aerospace,USA,230.94,-12.8,9.2,-21.1,40.0,25.7,-14.1,19.8,43,183.71,292.65,0.0,unbekannt,
-4507.T,4507,Japan,2823.5,-1.8,0.9,-21.1,45.6,20.6,2.0,11.9,39,2342.16,3579.77,2409.5,Healthcare,JPY
-APO,Apollo Global Management,USA,119.0,-11.9,-17.8,-21.1,33.4,19.6,1.0,-12.1,38,99.46,150.8,0.0,unbekannt,
-9531.T,9531,Japan,6100.0,0.4,-0.8,-21.0,47.2,21.5,-0.0,7.1,40,5021.96,7724.05,1987.8,Utilities,JPY
-1968.T,1968,Japan,2447.0,-1.4,14.4,-20.9,43.8,23.7,-5.9,20.6,42,1978.37,3095.0,150.6,Industrials,JPY
-STE,Steris,USA,210.65,-9.6,-15.0,-20.9,39.3,6.0,0.3,-14.7,18,198.79,266.36,20.5,Healthcare,USD
-CVS,CVS Health,USA,87.1,-6.4,11.2,-20.8,35.8,26.2,-15.3,18.6,44,69.04,109.92,0.0,unbekannt,
-8035.T,8035,Japan,12060.0,11.0,70.6,-20.8,68.5,162.5,-16.4,176.5,70,4595.1,15222.73,26883.5,Technology,JPY
-HWDN.L,Howdens Joinery,Grossbritannien,769.0,-3.1,-8.3,-20.7,49.7,6.3,-6.9,-8.8,18,723.5,969.8,0.0,unbekannt,
-4151.T,4151,Japan,2256.5,-15.3,-9.0,-20.7,38.5,5.7,-12.5,-3.5,17,2134.28,2845.38,0.0,unbekannt,
-4661.T,4661,Japan,2897.0,-4.4,1.9,-20.7,42.3,36.7,16.3,-21.4,51,2119.64,3653.79,4724.0,Consumer Cyclical,JPY
-DG,Dollar General,USA,122.64,-0.2,-9.1,-20.7,47.2,29.6,7.1,22.5,47,94.6,154.71,27.2,Consumer Defensive,USD
-EGIE3.SA,ENGIE Brasil,Brasilien,29.46,0.3,-2.1,-20.7,47.5,8.9,-7.1,6.2,24,27.05,37.14,39.7,Utilities,BRL
-4307.T,4307,Japan,4986.0,-4.5,-15.7,-20.6,49.1,42.6,8.6,-12.2,53,3496.29,6282.72,2727.1,Technology,JPY
-SPK.AX,Spark New Zealand,Australien,1.6,-7.5,-12.7,-20.6,44.2,13.9,7.9,-17.9,32,1.4,2.01,3.0,Communication Services,AUD
-GMG.AX,Goodman Group,Australien,27.14,1.8,-11.5,-20.6,51.8,9.0,-12.1,-19.4,24,24.9,34.17,0.0,Real Estate,AUD
-6471.T,6471,Japan,1085.0,0.1,12.8,-20.6,51.3,52.1,-5.0,42.4,57,713.45,1366.28,0.0,unbekannt,
-CLW.AX,Charter Hall Long WALE REIT,Australien,3.27,-5.5,-15.3,-20.6,37.6,2.1,-8.7,-19.0,7,3.2,4.12,0.0,unbekannt,
-BRAP4.SA,Bradespar,Brasilien,20.23,-8.0,0.7,-20.6,38.3,34.5,-9.6,32.5,50,15.04,25.49,8.0,Financial Services,BRL
-NTPC.NS,NTPC,Indien,322.75,-0.4,-2.3,-20.5,39.1,3.2,-8.5,-2.8,11,312.74,405.82,0.0,unbekannt,
-PRY.MI,Prysmian,Italien,124.8,3.8,39.9,-20.5,51.4,55.6,-12.2,49.4,58,80.2,156.9,36.1,Industrials,EUR
-6701.T,6701,Japan,4785.0,-2.1,-11.1,-20.5,52.9,31.5,18.7,4.8,48,3637.46,6015.22,6347.9,Technology,JPY
-RMD,ResMed|,USA,222.83,-7.3,-8.2,-20.5,48.1,22.2,14.7,-16.7,41,182.3,280.31,32.4,Healthcare,USD
-ICG.L,ICG,Grossbritannien,1831.0,-9.4,-10.9,-20.4,38.2,25.2,6.9,-17.7,44,1462.52,2298.92,0.0,unbekannt,
-HCA,HCA Healthcare,USA,431.63,3.5,-7.7,-20.4,56.3,19.9,10.9,3.7,39,359.93,542.23,89.8,Healthcare,USD
-3099.T,3099,Japan,1617.5,-6.2,45.0,-20.4,46.7,47.7,-20.4,15.6,56,1095.23,2032.42,0.0,unbekannt,
-SBIN.NS,State Bank of India,Indien,959.5,-7.2,-0.8,-20.4,33.7,13.8,-7.7,12.2,32,843.05,1206.06,0.0,unbekannt,INR
-EL,Estée Lauder Companies (The),USA,94.37,-8.4,-10.7,-20.3,46.4,41.4,19.9,10.4,54,66.74,118.37,31.2,Consumer Defensive,USD
-RENT3.SA,Localiza,Brasilien,40.5,17.2,-3.1,-20.3,72.4,28.3,-0.4,7.2,46,31.57,50.82,37.0,Industrials,BRL
-7741.T,7741,Japan,23940.0,-1.9,-0.1,-20.3,52.7,18.8,-7.2,11.9,38,20148.65,30030.0,0.0,unbekannt,
-NAB.AX,National Australia Bank,Australien,38.28,-0.8,-7.8,-20.3,44.8,7.3,-1.0,-10.6,21,35.68,48.06,0.0,unbekannt,
-WMT,Walmart,USA,106.8,3.6,-4.7,-20.2,46.0,7.0,-5.5,4.4,21,99.77,133.88,0.0,unbekannt,
-9602.T,9602,Japan,1560.0,-0.3,-0.7,-20.2,49.1,31.0,20.9,-16.8,48,1190.53,1954.04,1252.8,Communication Services,JPY
-ORLY,O'Reilly Automotive,USA,86.07,-2.7,-4.7,-20.2,47.3,4.0,-6.5,-18.9,13,82.73,107.81,0.0,unbekannt,
-GS,Goldman Sachs,USA,916.24,-11.0,1.7,-20.1,33.1,25.5,-9.0,16.4,45,730.24,1146.46,0.0,unbekannt,
-SHL.DE,Siemens Healthineers,Deutschland,38.65,-1.2,-10.3,-20.1,53.5,15.7,10.6,-14.0,35,33.4,48.37,0.0,unbekannt,EUR
-6472.T,6472,Japan,376.4,2.9,4.7,-20.1,50.7,22.9,-4.7,15.3,43,306.19,471.34,0.0,unbekannt,
-PEG,Public Service Enterprise Group,USA,67.68,-6.7,-14.3,-20.1,31.1,1.7,-15.8,-14.9,6,66.56,84.74,0.0,unbekannt,
-AZN.L,AstraZeneca,Grossbritannien,12428.0,3.8,-8.5,-20.0,54.3,8.4,-10.3,11.2,24,11460.0,15540.97,177.7,Healthcare,GBp
-AXP,American Express,USA,305.4,-8.3,-17.6,-20.0,34.2,5.1,-9.5,-9.7,16,290.55,381.78,0.0,unbekannt,
-DTE,DTE Energy,USA,122.39,-9.1,-3.8,-20.0,25.3,1.3,-18.9,-9.1,5,120.83,153.03,0.0,unbekannt,
-DTE.DE,Deutsche Telekom,Deutschland,26.4,-7.0,-2.0,-20.0,33.5,10.7,5.2,-6.0,28,23.85,33.02,0.0,unbekannt,
+FM.TO,First Quantum Minerals Ltd.,Kanada,38.44,-13.2,3.1,-21.1,34.6,39.2,-2.3,22.1,51,27.62,48.69,0.0,unbekannt,
+PRY.MI,Prysmian,Italien,124.0,5.9,39.0,-21.0,50.1,54.6,-15.2,48.3,57,80.2,156.9,36.1,Industrials,EUR
+ECOR3.SA,EcoRodovias,Brasilien,9.27,28.0,-8.5,-21.0,71.4,57.9,24.4,23.3,58,5.87,11.74,4.1,Industrials,BRL
+DHI,D. R. Horton,USA,136.65,-5.5,-5.4,-21.0,41.3,3.7,-12.7,-18.6,12,131.74,172.87,0.0,unbekannt,
+AZN.L,AstraZeneca,Grossbritannien,12280.0,2.7,-9.6,-21.0,50.1,7.2,-15.5,-1.2,20,11460.0,15540.97,177.7,Healthcare,GBp
+1963.T,1963,Japan,2263.0,-4.0,16.4,-21.0,45.0,61.0,-9.6,57.1,59,1405.4,2863.0,0.0,unbekannt,
+SPB.TO,Superior Plus Corp.,Kanada,6.79,-4.2,-2.6,-21.0,36.8,10.7,-13.0,-11.7,27,6.13,8.6,0.0,unbekannt,
+4151.T,4151,Japan,2247.0,-14.5,-9.4,-21.0,37.8,5.3,-13.1,-3.2,16,2134.28,2845.38,0.0,unbekannt,
+NAB.AX,National Australia Bank,Australien,38.0,-3.2,-8.4,-20.9,43.0,6.5,-3.1,-11.3,19,35.68,48.06,0.0,unbekannt,
+TTWO,Take-Two Interactive,USA,207.5,-5.6,-17.5,-20.9,41.5,9.4,-17.1,-20.2,25,189.69,262.29,0.0,unbekannt,
+AMP.MI,Amplifon,Italien,12.1,2.7,-10.5,-20.9,58.1,54.8,14.6,-13.3,57,7.82,15.3,0.0,unbekannt,
+SBIN.NS,State Bank of India,Indien,954.1,-6.5,-1.4,-20.9,32.2,13.2,-8.1,11.3,31,843.05,1206.06,0.0,unbekannt,INR
+DTE.DE,Deutsche Telekom,Deutschland,26.11,-8.0,-3.1,-20.9,31.2,9.5,3.9,-7.7,25,23.85,33.02,0.0,unbekannt,
+1968.T,1968,Japan,2450.0,-0.5,14.6,-20.8,44.0,23.8,-4.0,22.9,42,1978.37,3095.0,150.6,Industrials,JPY
+ORLY,O'Reilly Automotive,USA,85.41,-3.8,-5.5,-20.8,44.8,3.2,-7.9,-20.6,11,82.73,107.81,0.0,unbekannt,
+ALC.SW,Alcon Inc,Schweiz,52.86,-11.0,-16.4,-20.8,36.0,8.4,-3.8,-10.0,23,48.75,66.74,0.0,unbekannt,
+CSC.AX,Capstone Copper,Australien,13.9,-7.5,-4.2,-20.8,38.9,44.8,8.5,0.7,54,9.6,17.54,0.0,unbekannt,
+CDNS,Cadence Design Systems,USA,330.19,-2.5,6.4,-20.7,62.6,24.3,-12.6,-5.3,43,265.66,416.39,89.6,Technology,USD
+9531.T,9531,Japan,6122.0,-0.1,-0.5,-20.7,48.3,21.9,1.0,9.8,41,5021.96,7724.05,1987.8,Utilities,JPY
+BKR,Baker Hughes,USA,54.9,-13.6,17.7,-20.6,30.8,25.4,2.4,10.3,44,43.79,69.18,0.0,unbekannt,
+SRE,Sempra,USA,77.96,-3.8,-11.1,-20.6,35.3,1.4,-14.0,-9.8,5,76.89,98.22,0.0,unbekannt,
+EGIE3.SA,ENGIE Brasil,Brasilien,29.51,1.7,-2.0,-20.5,48.0,9.1,-7.0,6.4,24,27.05,37.14,39.7,Utilities,BRL
+PEG,Public Service Enterprise Group,USA,67.34,-7.3,-14.7,-20.5,29.8,1.2,-15.3,-16.1,4,66.56,84.74,0.0,unbekannt,
+3099.T,3099,Japan,1618.0,-5.6,45.1,-20.4,46.9,47.7,-19.5,19.0,56,1095.23,2032.42,0.0,unbekannt,
+BRAP4.SA,Bradespar,Brasilien,20.28,-9.1,1.0,-20.4,39.0,34.8,-9.3,32.8,50,15.04,25.49,8.0,Financial Services,BRL
+DTE,DTE Energy,USA,121.8,-9.4,-4.2,-20.4,24.3,0.8,-18.4,-10.6,3,120.83,153.03,0.0,unbekannt,
+ARIS.TO,Aris Mining Corporation,Kanada,24.59,-6.1,13.5,-20.4,42.3,93.5,8.5,80.3,65,12.71,30.9,0.0,unbekannt,
+EXO.AS,Exor,Niederlande,69.0,-4.8,-4.7,-20.3,40.7,9.7,-0.4,-20.1,26,62.89,86.62,23.1,Industrials,EUR
+HDN.AX,HomeCo Daily Needs REIT,Australien,1.05,-2.9,-19.6,-20.3,37.3,0.8,-14.5,-18.6,3,1.04,1.31,0.0,unbekannt,
+PCAR,Paccar,USA,109.81,-11.5,-0.7,-20.3,21.6,21.0,-9.2,12.7,40,90.76,137.85,0.0,unbekannt,
+BAJAJFINSV.NS,Bajaj Finserv,Indien,1732.6,-12.9,-14.9,-20.3,24.8,6.3,-7.4,-13.6,19,1630.41,2174.74,0.0,unbekannt,
+7735.T,7735,Japan,15465.0,14.2,95.9,-20.3,68.3,164.3,-12.8,146.5,71,5851.9,19406.23,2699.2,Technology,JPY
+AXP,American Express,USA,304.1,-7.9,-17.9,-20.3,33.2,4.7,-12.4,-10.2,15,290.55,381.78,0.0,unbekannt,
+6367.T,6367,Japan,20660.0,-1.5,3.8,-20.3,45.0,23.6,-15.6,20.2,43,16719.35,25925.0,5762.9,Industrials,JPY
+ELD.TO,Eldorado Gold Corporation,Kanada,53.48,-10.1,10.6,-20.3,39.8,53.9,12.3,33.8,58,34.76,67.09,0.0,unbekannt,
+POWERGRID.NS,Power Grid,Indien,254.55,-4.6,-3.1,-20.3,34.7,1.8,-10.4,-6.2,6,250.06,319.41,0.0,unbekannt,
+8233.T,8233,Japan,2060.5,-12.1,26.7,-20.2,32.5,37.9,-17.0,42.1,52,1494.52,2580.88,0.0,unbekannt,
+3289.T,3289,Japan,1213.5,-6.9,-11.5,-20.2,33.6,6.7,-4.5,3.6,20,1137.66,1521.37,0.0,unbekannt,
+7004.T,7004,Japan,1161.0,-2.1,24.1,-20.1,45.7,28.8,-8.5,14.5,47,901.68,1453.0,195.5,Industrials,JPY
+BAM.TO,Brookfield Asset Management Ltd.,Kanada,63.42,-8.1,-10.9,-20.0,36.9,10.1,-1.6,-16.8,27,57.6,79.28,0.0,unbekannt,
 1209.HK,China Resources Mixc Lifestyle,Hongkong,38.2,1.0,-6.7,-20.0,49.6,7.1,1.9,-3.2,21,35.66,47.76,0.0,unbekannt,
+NI,NiSource,USA,39.0,-4.7,-5.6,-20.0,30.3,0.0,-16.2,-7.3,0,39.0,48.75,0.0,unbekannt,
+MPWR,Monolithic Power Systems,USA,1347.22,6.4,44.6,-20.0,57.7,58.3,1.3,53.2,59,851.25,1684.83,0.0,unbekannt,
+7741.T,7741,Japan,24035.0,-2.3,0.3,-20.0,52.9,19.3,-7.4,14.1,39,20148.65,30030.0,0.0,unbekannt,
+EME,Emcor,USA,754.49,2.7,18.3,-20.0,48.1,29.9,-6.1,18.0,48,580.64,943.26,0.0,unbekannt,
