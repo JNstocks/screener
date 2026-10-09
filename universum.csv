@@ -861,7 +861,6 @@ CTC.TO,Canadian Tire Corporation Limited,Kanada
 CTD.AX,Corporate Travel Management,Australien
 CTEC.L,Convatec,Grossbritannien
 CTSH,Cognizant,USA
-CTVA,Corteva,USA
 CU.TO,Canadian Utilities Limited,Kanada
 CURA.TO,"Curaleaf Holdings, Inc.",Kanada
 CVCB3.SA,CVC Brasil,Brasilien
@@ -940,7 +939,6 @@ ECL,Ecolab,USA
 ECOR3.SA,EcoRodovias,Brasilien
 ECV.DE,Encavis,Deutschland
 ED,Consolidated Edison,USA
-EDEN.PA,Edenred,Frankreich
 EDR.TO,Endeavour Silver Corp.,Kanada
 EDV.AX,Endeavour Group,Australien
 EDV.L,Endeavour Mining,Grossbritannien
@@ -978,6 +976,7 @@ ENI-MI,Eni,Europa
 ENI.MI,Eni,Italien
 ENR-DE,Siemens Energy,Europa
 ENR.DE,Siemens Energy,Deutschland
+ENX.PA,Euronext,Frankreich
 EOAN.DE,E.ON,Deutschland
 EOG,EOG Resources,USA
 EOS.AX,Electro Optic Systems Holdings,Australien
@@ -1034,6 +1033,7 @@ FER.MC,Ferrovial,Spanien
 FERG,Ferguson Enterprises,USA
 FFH.TO,Fairfax Financial Holdings Limited,Kanada
 FFIV,"F5, Inc.",USA
+FGR.PA,Eiffage,Frankreich
 FICO,Fair Isaac,USA
 FIS,Fidelity National Information Services,USA
 FISV,Fiserv,USA
@@ -1561,7 +1561,6 @@ PRY.MI,Prysmian,Italien
 PSA,Public Storage,USA
 PSH.L,Pershing Square Holdings,Grossbritannien
 PSK.TO,PrairieSky Royalty Ltd.,Kanada
-PSKY,Paramount Skydance Corporation,USA
 PSON.L,Pearson plc,Grossbritannien
 PST.MI,Poste italiane,Italien
 PSX,Phillips 66,USA
@@ -1707,6 +1706,7 @@ SJM,J.M. Smucker Company (The),USA
 SKA-B.ST,Skanska B,Schweden
 SKE.TO,Skeena Resources Limited,Kanada
 SKF-B.ST,SKF B,Schweden
+SKYD,Skydance Corporation,USA
 SLB,Schlumberger,USA
 SLF.TO,Sun Life Financial Inc.,Kanada
 SLHN.SW,Swiss Life Holding AG,Schweiz
@@ -1794,7 +1794,6 @@ TEL.OL,Telenor,Norwegen
 TEL2-B.ST,Tele2 B,Schweden
 TELIA.ST,Telia Company,Schweden
 TEN.MI,Tenaris,Italien
-TEP.PA,Teleperformance,Frankreich
 TER,Teradyne,USA
 TFC,Truist Financial,USA
 TFII.TO,TFI International Inc.,Kanada
@@ -1847,6 +1846,7 @@ TUI1.DE,TUI,Deutschland
 TVE.TO,Tamarack Valley Energy Ltd.,Kanada
 TVK.TO,TerraVest Industries Inc.,Kanada
 TWE.AX,Treasury Wine Estates,Australien
+TWLO,Twilio,USA
 TXG.TO,Torex Gold Resources Inc.,Kanada
 TXN,Texas Instruments,USA
 TXT,Textron,USA
@@ -1909,6 +1909,7 @@ VRTX,Vertex Pharmaceuticals,USA
 VST,Vistra Corp.,USA
 VTR,Ventas,USA
 VTRS,Viatris,USA
+VYLR,Vylor,USA
 VZ,Verizon,USA
 VZLA.TO,Vizsla Silver Corp.,Kanada
 WAB,Wabtec,USA
@@ -1918,7 +1919,6 @@ WAM.AX,WAM Capital,Australien
 WAT,Waters Corporation,USA
 WAWI.OL,Wallenius Wilhelmsen,Norwegen
 WBC.AX,Westpac,Australien
-WBD,Warner Bros. Discovery,USA
 WCH.DE,Wacker Chemie,Deutschland
 WCN.TO,Waste Connections Inc.,Kanada
 WCP.TO,Whitecap Resources Inc.,Kanada
