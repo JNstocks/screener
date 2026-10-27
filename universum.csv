@@ -897,7 +897,6 @@ DHI,D. R. Horton,USA
 DHL-DE,Deutsche Post,Europa
 DHL.DE,Deutsche Post,Deutschland
 DHR,Danaher Corporation,USA
-DIA.MI,Diasorin,Italien
 DIR.TO,Dream Industrial Real Estate Investment Trust,Kanada
 DIS,Walt Disney Company (The),USA
 DLR,Digital Realty,USA
@@ -971,6 +970,7 @@ ENEL-MI,Enel,Europa
 ENEL.MI,Enel,Italien
 ENEV3.SA,Eneva,Brasilien
 ENG.MC,Enagás,Spanien
+ENGI-PA,Engie,Europa
 ENGI.PA,Engie,Frankreich
 ENGI11.SA,Energisa,Brasilien
 ENI-MI,Eni,Europa
@@ -1452,6 +1452,7 @@ NKE,"Nike, Inc.",USA
 NN.AS,NN Group,Niederlande
 NOC,Northrop Grumman,USA
 NOD.OL,Nordic Semiconductor,Norwegen
+NOKIA-HE,Nokia,Europa
 NOVN.SW,Novartis International AG,Schweiz
 NOW,ServiceNow,USA
 NPI.TO,Northland Power Inc.,Kanada
@@ -1707,7 +1708,7 @@ SJM,J.M. Smucker Company (The),USA
 SKA-B.ST,Skanska B,Schweden
 SKE.TO,Skeena Resources Limited,Kanada
 SKF-B.ST,SKF B,Schweden
-SKYD,Skydance Corporation,USA
+SKYD,Skydance,USA
 SLB,Schlumberger,USA
 SLF.TO,Sun Life Financial Inc.,Kanada
 SLHN.SW,Swiss Life Holding AG,Schweiz
@@ -1824,6 +1825,7 @@ TOU.TO,Tourmaline Oil Corp.,Kanada
 TPG.AX,TPG Telecom,Australien
 TPL,Texas Pacific Land Corporation,USA
 TPR,"Tapestry, Inc.",USA
+TPRO.MI,Technoprobe,Italien
 TPZ.TO,Topaz Energy Corp.,Kanada
 TRENT.NS,Trent,Indien
 TRGP,Targa Resources,USA
@@ -1901,7 +1903,6 @@ VNP.TO,5N Plus Inc.,Kanada
 VNT.AX,Ventia Services Group,Australien
 VOD.L,Vodafone Group,Grossbritannien
 VOLV-B.ST,Volvo B,Schweden
-VOW-DE,Volkswagen Group,Europa
 VOW3.DE,Volkswagen Group,Deutschland
 VRSK,Verisk Analytics,USA
 VRSN,Verisign,USA
@@ -1936,7 +1937,6 @@ WFC,Wells Fargo,USA
 WFG.TO,West Fraser Timber Co. Ltd.,Kanada
 WGX.AX,Westgold Resources,Australien
 WHC.AX,Whitehaven Coal,Australien
-WKL-AS,Wolters Kluwer,Europa
 WKL.AS,Wolters Kluwer,Niederlande
 WLE.AX,WAM Leaders,Australien
 WM,Waste Management,USA
